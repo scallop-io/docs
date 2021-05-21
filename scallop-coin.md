@@ -6,42 +6,45 @@
 | :--- | :--- | :--- |
 | **Gaming & Staking Reward** | **30%** | **300000000** |
 | **Marine Conservation Group** | **10%** | **100000000** |
-| **Brun** | **40%** | **400000000** |
+| **Burn** | **40%** | **400000000** |
 | **Market / Liquidity** | **10%** | **100000000** |
 | **Core team** | **3%** | **50000000** |
 | **Adviser / Helper** | **2%** | **20000000** |
 | **AirDrop** | **3%** | **30000000** |
 | **Flexible Funds** | **2%** | **20000000** |
 
-## **介紹：**
+### \*\*\*\*
 
-### **Gaming & Staking Reward ：** 
+#### **Gaming & Staking Reward ：** 
 
-**每個扇貝成功收成可獲得1個Scallop Coin．**  
+Users can get the same amount of the SOL they stake of scallop coin \(SCA\) after harvesting.
 
+Users can stake theirs scallop coin \(SCA\) to get more unlocked scallop coin \(SCA\).
 
-### **Marine Conservation Group \(海洋保護團體\)：** 
-
-**將會解鎖等值於遊戲獎勵與質押獎勵的10%，捐贈給指定的海洋保護團體．**  
-
-
-### **Brun \(燒毀\)：** 
-
-**依照項目成熟度分成多個階段進行代幣的燒毀．**  
+  
+**Marine Conservation Group ：**  
 
 
-### **Market / Liquidity \(市場/流動性\)：** 
+We will unlock 10% amount of of SCA of Gaming & Staking Reward and donate to marine conservation group.  
+****
 
-**初始發行的Scallop Coin \(SCA\)．**  
+#### **Burn ：** 
 
+Depend on the project's maturity, 40% of Scallop Coin \(SCA\)  will be burned.  
+****
 
-### **Adviser / Helper \(顧問/協助者\)：** 
+#### **Market / Liquidity ：** 
 
-**Scallop 項目的顧問和協助者將會獲得一些SCA以感謝對於本項目的貢獻．**  
+10% of Scallop Coin \(SCA\) will release to market and add to the liquidity pool.  
+****
 
+#### **Adviser / Helper \(顧問/協助者\)：** 
 
-### **AirDrop \(空投\)：** 
+The Adviser and Helper of Scallop can get some Scallop Coin \(SCA\) to thanks for theirs helping.  
+****
 
-**分成2階段進行Scallop Coin \(SCA\)的空投．**  
+#### **AirDrop \(空投\)：** 
+
+We will had two times of Scallop Coin's airdrop in the future.  
 
 
