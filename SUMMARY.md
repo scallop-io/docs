@@ -7,4 +7,5 @@
 * [Scallop Coin](scallop-coin.md)
 * [Trade SCA/USDC](trade-sca-usdc.md)
 * [Function](function.md)
+* [Scallop's Road Map](scallops-road-map.md)
 
