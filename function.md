@@ -1,6 +1,6 @@
 # Function
 
-**Tank 水族箱：**  
+**Tank ：**  
 
 
 **進行養殖扇貝的頁面，會有一個區塊是海底的一個造景，如果用戶有質押SOL可以看到正在吐泡泡的扇貝，質押SOL的量越多扇貝也會越大顆．旁邊則有質押區以及收成的時間，若中途認養扇貝則會顯示下一次收成的時間．**
@@ -8,12 +8,12 @@
 **旁邊會顯示現有的Scallop Coin \(SCA\)數量、質押池總SOL數量與地址數量、上一次收成日期開到珍珠獲得的SOL利息量、上次捐款給海洋保護團體的SOL量．**  
 
 
-**Stake 質押：**  
+**Stake ：**  
 
 
 **1.提供了Scallop Coin \(SCA\)的質押．**
 
-**2.提供了單純的SOL質押，我們會提供自己的Solana Stake Account，此質押無法獲得Scallop Coin \(SCA\)，提供給使用者的APR固定為10%．**  
+**2.提供了單純的SOL質押，我們會提供自己的Solana Stake Account．**  
 
 
 **Decorations裝飾品：**  
