@@ -33,21 +33,19 @@ We will unlock 5% amount of of SCA of Gaming & Staking Reward and donate to mari
 Depend on the project's maturity, 40% of Scallop Coin \(SCA\)  will be burned.  
 ****
 
-#### **Market / Liquidity：** 
+#### **Market / Liquidity ：** 
 
 10% of Scallop Coin \(SCA\) will release to market and add to the liquidity pool.  
 ****
 
-#### **Adviser / Helper：** 
+#### **Adviser / Helper \(顧問/協助者\)：** 
 
 The Adviser and Helper of Scallop can get some Scallop Coin \(SCA\) to thanks for theirs helping.  
 ****
 
-#### **AirDrop：** 
+#### **AirDrop \(空投\)：** 
 
-We will had two times of Scallop 
-
-Coin's airdrop in the future.
+We will had two times of Scallop Coin's airdrop in the future.
 
 
 
