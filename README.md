@@ -6,7 +6,7 @@ description: "Staking SOL and Contribute to Ocean\U0001F30A."
 
 ## **What is Scallop**🦪**?**
 
-Scallop is a scallop growing simulation game on Solana with a user-funded pooled treasury, ****developed by three young engineers who love the ocean across the globe. Users can stake theirs SOL here to grow a scallop and have chance to won extra rewards. At the end of each week,  users will win Scallop Coin \(SCA\) and a few winners get the pool's SOL rewards. 85% of pool's rewards will back to few of users, 10% will back to the pool, 3% will be core team's income and 2% will donate to marine conservation group.
+Scallop is a scallop growing simulation game on Solana with a user-funded pooled treasury, developed by three young engineers who love ocean across the globe. Users can stake theirs SOL here to grow a scallop and have chance to won extra rewards. At the end of each week, users will win Scallop Coin \(SCA\) and one random winner will get the pool's SOL rewards. 90% of pool's rewards will back to winner user, 7% will back to the pool, 3% will provide liquidity to the SCA/SOL pools.
 
 ## **Why Solana?**
 
