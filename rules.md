@@ -1,7 +1,3 @@
----
-description: Most read it before you enter Scallop!!
----
-
 # Rules of Scallop
 
 ### Rules**：**
