@@ -1,24 +1,24 @@
-# Scallop's Road Map
+# Road Map
 
 #### 2021 Q3
 
-New Spl token staking pool 
+Lunch Scallop
 
-New Spl token scallop tank 
+First SCA's airdrop
+
+SCA token staking pool 
 
 Scallop fossil token event \(The first Scallop's decorations\)
 
 Start multinational official community 
 
-Lunch Scallop Coin 
+New Spl token scallop tank 
 
-marine conservation group's cooperation
+Marine conservation group's cooperation
 
 #### 2021 Q4
 
 First SCA's burning
-
-First SCA's airdrop
 
 Apply to list on CoinGecko, CoinMarketCap, Blockfolio and other providers
 

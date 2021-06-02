@@ -1,8 +1,4 @@
----
-description: $SCA $SCA $SCA $SCA $SCA
----
-
-# Scallop Coin
+# Scallop Coin \($SCA\)
 
 ## **Scallop Coin \($SCA\)** Token model**：** 
 
