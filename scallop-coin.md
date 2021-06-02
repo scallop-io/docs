@@ -4,7 +4,7 @@ description: $SCA $SCA $SCA $SCA $SCA
 
 # Scallop Coin
 
-## **Scallop Coin \(SCA\)** Token model**：** 
+## **Scallop Coin \($SCA\)** Token model**：** 
 
 | Max Supply **1,000,000,000 $SCA** | **100%** | **1000000000** |
 | :--- | :--- | :--- |
@@ -21,35 +21,35 @@ description: $SCA $SCA $SCA $SCA $SCA
 
 #### **Gaming & Staking Reward ：** 
 
-Users can get the same amount of the SOL they stake of scallop coin \(SCA\) after harvesting.
+Users can get the same amount of the SOL they stake of Scallop coin \($SCA\) after harvesting.
 
-Users can stake theirs scallop coin \(SCA\) to get more unlocked scallop coin \(SCA\).
+Users can stake theirs Scallop coin \($SCA\) to get more unlocked scallop coin \($SCA\).
 
   
 **Marine Conservation Group ：**  
 
 
-We will unlock 5% amount of of SCA of Gaming & Staking Reward and donate to marine conservation group.  
+We will unlock 5% amount of Scallop coin $SCA of Gaming & Staking Reward and donate to marine conservation group.  
 ****
 
 #### **Burn ：** 
 
-Depend on the project's maturity, 10% of Scallop Coin \(SCA\)  will be burned.  
+Depend on the project's maturity, 10% of Scallop Coin \($SCA\)  will be burned.  
 ****
 
 #### **Market / Liquidity：** 
 
-10% of Scallop Coin \(SCA\) will release to market and add to the liquidity pool.  
+10% of Scallop coin \($SCA\) will release to market and add to the liquidity pool.  
 ****
 
 #### **Adviser / Helper：** 
 
-The Adviser and Helper of Scallop can get some Scallop Coin \(SCA\) to thanks for theirs helping.  
+The Adviser and Helper of Scallop can get some Scallop coin \($SCA\) to thanks for theirs helping.  
 ****
 
 #### **Airdrop：** 
 
-We will had two times of Scallop Coin's airdrop in the future.
+We will had two times of Scallop Coin \($SCA\) airdrop in the future.
 
 
 
