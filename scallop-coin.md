@@ -10,7 +10,7 @@
 | **Market / Liquidity** | **10%** | **100000000** |
 | **Core team** | **5%** | **50000000** |
 | **Adviser / Helper** | **3%** | **30000000** |
-| **Airdrop** | **2%** | **20000000** |
+| **AirDrop** | **2%** | **20000000** |
 | **Flexible Funds** | **5%** | **50000000** |
 
 ### \*\*\*\*
@@ -43,13 +43,15 @@ Depend on the project's maturity, 10% of Scallop Coin \(SCA\)  will be burned.
 The Adviser and Helper of Scallop can get some Scallop Coin \(SCA\) to thanks for theirs helping.  
 ****
 
-#### **Airdrop：** 
+#### **AirDrop：** 
 
-We will had two times of Scallop Coin's airdrop in the future.
+We will had two times of Scallop 
+
+Coin's airdrop in the future.
 
 
 
-#### Flexible Funds ： 
+#### Flexible Funds \(彈性資金\)： 
 
-Flexible Funds will be used for emergency, like users unknown loss, hacker attacking, etc. 
+Flexible Funds will be use on some emergency, like users unknown loss, hacker attacking. 
 
