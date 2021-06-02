@@ -1,5 +1,5 @@
 ---
-description: Must read it before you join Scallop!!
+description: "Must read it before you join Scallop\U0001F469‍\U0001F3EB!"
 ---
 
 # Rules of Scallop
