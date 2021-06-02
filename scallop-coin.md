@@ -4,9 +4,9 @@
 
 | Max Supply **1,000,000,000 $SCA** | **100%** | **1000000000** |
 | :--- | :--- | :--- |
-| **Gaming & Staking Reward** | **30%** | **300000000** |
+| **Gaming & Staking Reward** | **60%** | **600000000** |
 | **Marine Conservation Group** | **5%** | **50000000** |
-| **Burn** | **40%** | **400000000** |
+| **Burn** | **10%** | **100000000** |
 | **Market / Liquidity** | **10%** | **100000000** |
 | **Core team** | **5%** | **50000000** |
 | **Adviser / Helper** | **3%** | **30000000** |
@@ -30,22 +30,24 @@ We will unlock 5% amount of of SCA of Gaming & Staking Reward and donate to mari
 
 #### **Burn ：** 
 
-Depend on the project's maturity, 40% of Scallop Coin \(SCA\)  will be burned.  
+Depend on the project's maturity, 10% of Scallop Coin \(SCA\)  will be burned.  
 ****
 
-#### **Market / Liquidity ：** 
+#### **Market / Liquidity：** 
 
 10% of Scallop Coin \(SCA\) will release to market and add to the liquidity pool.  
 ****
 
-#### **Adviser / Helper \(顧問/協助者\)：** 
+#### **Adviser / Helper：** 
 
 The Adviser and Helper of Scallop can get some Scallop Coin \(SCA\) to thanks for theirs helping.  
 ****
 
-#### **AirDrop \(空投\)：** 
+#### **AirDrop：** 
 
-We will had two times of Scallop Coin's airdrop in the future.
+We will had two times of Scallop 
+
+Coin's airdrop in the future.
 
 
 
