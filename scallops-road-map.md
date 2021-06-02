@@ -2,23 +2,23 @@
 
 #### 2021 Q3
 
-Lunch Scallop
+New Spl token staking pool 
 
-First SCA's airdrop
-
-SCA token staking pool 
+New Spl token scallop tank 
 
 Scallop fossil token event \(The first Scallop's decorations\)
 
 Start multinational official community 
 
-New Spl token scallop tank 
+Lunch Scallop Coin 
 
-Marine conservation group's cooperation
+marine conservation group's cooperation
 
 #### 2021 Q4
 
 First SCA's burning
+
+First SCA's airdrop
 
 Apply to list on CoinGecko, CoinMarketCap, Blockfolio and other providers
 
