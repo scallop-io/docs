@@ -51,7 +51,7 @@ Coin's airdrop in the future.
 
 
 
-#### Flexible Funds \(彈性資金\)： 
+#### Flexible Funds ： 
 
-Flexible Funds will be use on some emergency, like users unknown loss, hacker attacking. 
+Flexible Funds will be used for emergency, like users unknown loss, hacker attacking. 
 
