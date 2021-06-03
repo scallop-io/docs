@@ -4,7 +4,7 @@
 
 Launch Scallop
 
-First SCA's airdrop
+First SCA airdrop
 
 SCA token staking pool 
 
