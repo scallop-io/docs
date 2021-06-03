@@ -1,8 +1,8 @@
 ---
-description: "Must read it before you join Scallop\U0001F469‍\U0001F3EB!"
+description: Must read it before you join Scallop!
 ---
 
-# Rules of Scallop
+# Rules of Scallop👩‍🏫
 
 ### Rules**：**
 
