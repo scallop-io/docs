@@ -2,7 +2,7 @@
 
 #### 2021 Q3
 
-Lunch Scallop
+Launch Scallop
 
 First SCA's airdrop
 
