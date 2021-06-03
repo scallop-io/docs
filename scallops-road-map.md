@@ -12,17 +12,19 @@ Scallop fossil token event \(The first Scallop's decorations\)
 
 Start multinational official community 
 
+Apply to list on some great DEX on Solana
+
 Marine conservation group's cooperation
 
 #### 2021 Q4
 
-First SCA's burning
+First SCA burning
 
-New Spl token scallop tank 
+New SPL token scallop tank 
 
 New SOL scallop tank 
 
-Apply to list on CoinGecko, CoinMarketCap, Blockfolio and other providers
+Apply to list on CoinGecko, CoinMarketCap, Blockfolio etc.
 
 First  Scallop decorations bidding event
 
