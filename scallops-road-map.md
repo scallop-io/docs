@@ -18,6 +18,8 @@ Marine conservation group's cooperation
 
 #### 2021 Q4
 
+SOL/USDT Swap
+
 First SCA burning
 
 New SPL token scallop tank 
