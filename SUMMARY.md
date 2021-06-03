@@ -2,7 +2,7 @@
 
 * [About Scallop🦪](README.md)
 * [Rules of Scallop](rules.md)
-* [Scallop Coin \(SCA\)](scallop-coin.md)
+* [Scallop Coin \(SCA\)🔮](scallop-coin.md)
 * [Road Map](scallops-road-map.md)
 * [Function](function.md)
 * [SPL Wallet](untitled.md)

@@ -1,4 +1,4 @@
-# Scallop Coin \(SCA\)
+# Scallop Coin \(SCA\)🔮
 
 ## **Scallop Coin \(SCA\)** Token model**：** 
 
