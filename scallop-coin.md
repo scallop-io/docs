@@ -53,3 +53,9 @@ We will had two times of Scallop Coin \(SCA\) airdrop in the future.
 
 Flexible Funds will be used for emergency, like users unknown loss, hacker attacking, etc. 
 
+#### 
+
+#### Investors ：
+
+5% of Scallop Coin \(SCA\) is for early investors.
+
