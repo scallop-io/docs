@@ -5,13 +5,14 @@
 | Max Supply **1,000,000,000 $SCA** | **100%** | **1000000000** |
 | :--- | :--- | :--- |
 | **Gaming & Staking Reward** | **60%** | **600000000** |
-| **Marine Conservation Group** | **5%** | **50000000** |
-| **Burn** | **10%** | **100000000** |
+| **Marine Conservation Group** | **3%** | **30000000** |
+| **Burn** | **8%** | **80000000** |
 | **Market / Liquidity** | **10%** | **100000000** |
-| **Core team** | **5%** | **50000000** |
-| **Adviser / Helper** | **3%** | **30000000** |
+| **Core team  \(1 - 3 Year Lockup\)** | **7%** | **70000000** |
+| **Adviser / Helper  \(1 Year Lockup\)** | **2%** | **20000000** |
 | **Airdrop** | **2%** | **20000000** |
-| **Flexible Funds** | **5%** | **50000000** |
+| **Ecosystem** | **3%** | **30000000** |
+| **Investors \(1 Year Lockup\)** | **5%** | **50000000** |
 
 ### \*\*\*\*
 
