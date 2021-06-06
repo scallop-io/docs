@@ -1,4 +1,4 @@
-# Untitled
+# about token
 
 #### **Gaming & Staking Reward ：** 
 
