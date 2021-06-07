@@ -11,7 +11,7 @@
 | **Investors \(1 Year Lockup\)** | **5%** | **50000000** |
 | **Adviser / Helper  \(1 Year Lockup\)** | **2%** | **20000000** |
 | **Marine Conservation Group** | **3%** | **30000000** |
-| **Ecosystem** | **3%** | **30000000** |
+| **Ecosystem / Community** | **3%** | **30000000** |
 | **Airdrop** | **2%** | **20000000** |
 
 
