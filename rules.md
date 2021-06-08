@@ -15,6 +15,7 @@ During the game users can win the Scallop Decorations by carry out a task, like 
 * Users need to crate a SCA address before getting rewards.
 * Users can unstake theirs SOL anytime if they want to.
 * If user didn't unstake theirs SOL it can keep staking and get next week's reward.
+* Scallop will setup more & more tanks with different address limit or tokens for users!
 
 
 

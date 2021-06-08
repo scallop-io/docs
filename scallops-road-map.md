@@ -4,8 +4,6 @@
 
 Scallop born
 
-Scallop official Telegram group, Twitter, Medium
-
 First Page of Scallop
 
 SCA presale
