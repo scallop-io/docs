@@ -2,11 +2,11 @@
 description: $SCA
 ---
 
-# Scallop Coin 🔮
+# Tokenomic
 
 ## **Scallop Coin \(SCA\)** Token model**：**
 
-![](.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 | Max Supply **1,000,000,000 SCA** | **100%** | **1,000,000,000** |
 | :--- | :--- | :--- |
