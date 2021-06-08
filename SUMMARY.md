@@ -6,3 +6,12 @@
 * [Road Map🗺](scallops-road-map.md)
 * [Scallop Q&A](why-solana.md)
 
+## SCA token
+
+* [SPL Wallet](sca-token/spl-wallet.md)
+
+---
+
+* [Create a SCA address](create-a-sca-address.md)
+* [Trade SCA/USDC](trade-sca-usdc.md)
+
