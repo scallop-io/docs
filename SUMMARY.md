@@ -5,7 +5,6 @@
 * [Scallop Coin 🔮](scallop-coin.md)
 * [Road Map🗺](scallops-road-map.md)
 * [Scallop Q&A](why-solana.md)
-* [----------------------------------------](undefined.md)
 * [Function](function.md)
 * [SPL Wallet](untitled.md)
 * [Create a SCA address](create-a-sca-address.md)
