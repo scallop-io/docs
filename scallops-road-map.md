@@ -1,16 +1,6 @@
 # Road Map🗺
 
-#### 2021 Q2
-
-Scallop born
-
-First Page of Scallop
-
-SCA presale
-
-Join Solana Hackathon Asia
-
-#### 2021 Q3
+#### 2021 Q3⏱
 
 Launch Scallop
 
