@@ -2,7 +2,7 @@
 description: $SCA
 ---
 
-# Scallop Coin 🔮
+# Scallop Coin
 
 ## **Scallop Coin \(SCA\)** Token model**：**
 
