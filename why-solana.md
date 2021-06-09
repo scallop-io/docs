@@ -8,5 +8,11 @@ Solana is a , secure , and and censorship resistant blockchain with Proof-of-His
 
 ### **Why SOL?**
 
-"Staking your SOL tokens on Solana is the best way you can help secure the world's highest-performing blockchain network, and [earn rewards](https://docs.solana.com/implemented-proposals/staking-rewards) for doing so!" - These sentences are form Solana and we are planning to be a Solana validator too.
+"Staking your SOL tokens on Solana is the best way you can help secure the world's highest-performing blockchain network, and earn rewards for doing so!" - These sentences are form Solana and we are planning to be a Solana Validator too.
+
+
+
+### How do our program choose winners randomly?
+
+We use Chainlink VRF on Solana , it's a real random function on blockchain which can help our program choose one \(or a few\) winner of each week.     
 
