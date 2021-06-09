@@ -30,7 +30,7 @@ Start multinational official community
 
 Apply to list on some great DEX on Solana
 
-Do cool things with another Solana project 😉
+More partnership's SPL token for extra reward 😉
 
 Support more SPL wallet .
 
