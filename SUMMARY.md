@@ -3,7 +3,6 @@
 * [About Scallop🦪](README.md)
 * [Rules of Scallop👩‍🏫](rules.md)
 * [Road Map🗺](scallops-road-map.md)
-* [Scallop Q&A](why-solana.md)
 
 ## Scallop Coin <a id="sca-token"></a>
 
@@ -11,4 +10,8 @@
 * [SPL Wallet](sca-token/spl-wallet.md)
 * [Create a SCA address](sca-token/create-a-sca-address.md)
 * [Trade SCA/USDC](sca-token/trade-sca-usdc.md)
+
+## other
+
+* [Scallop Q&A](other/why-solana.md)
 

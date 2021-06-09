@@ -2,35 +2,37 @@
 
 #### 2021 Q2
 
-Scallop born
+Scallop born🎂
 
 Scallop official Telegram group, Twitter, Medium
 
-First Page of Scallop
+Up the first page of Scallop
+
+Join Solana Hackathon🦾
 
 SCA presale
 
-Join Solana Hackathon Asia
-
 #### 2021 Q3
 
-Launch Scallop
+Launch Scallop app, open the first Scallop tank
 
 First SCA airdrop
 
 SCA token staking pool 
 
-Scallop fossil token event \(The first Scallop's decorations\)
+Scallop fossil token event \(The first Scallop decorations\)
 
-Start multinational official community 
+Start multinational official community
 
 Apply to list on some great DEX on Solana
+
+Do cool things with another Solana project 😉
 
 Marine conservation group's cooperation
 
 #### 2021 Q4
 
-SOL/USDT Swap
+Simple SPL token Swap  \(SCA/USDC, etc.\)
 
 First SCA burning
 
@@ -42,9 +44,17 @@ Apply to list on CoinGecko, CoinMarketCap, Blockfolio etc.
 
 First  Scallop decorations bidding event
 
-First  Scallop's donation
+First Scallop donation
 
-#### 2022 Q1
+Second SCA airdrop
+
+#### 2022 H1
+
+You can use our token to vote or proposal something on Scallop
+
+Show our partner project's NFT or Collectibles on Scallop tank
 
 Scallop Shop opening
+
+#### 2022 H2
 
