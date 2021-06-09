@@ -12,7 +12,19 @@ Solana is a , secure , and and censorship resistant blockchain with Proof-of-His
 
 
 
+### Is Scallop a simulation game?
+
+You can say it's a game or a no loss lottery or a way to stake SOL and earn tokens and decorations.
+
+
+
 ### How do our program choose winners randomly?
 
 We use Chainlink VRF on Solana , it's a real random function on blockchain which can help our program choose one \(or a few\) winner of each week.     
+
+
+
+### Will there be a SCA airdrop? If yes, what is the airdrop condition?
+
+Well there will be twice, we haven't set up our airdrop rules but it will not be filling google forms.
 
