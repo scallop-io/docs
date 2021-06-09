@@ -64,6 +64,8 @@ You can use our token to vote or proposal something on Scallop
 
 Show our partner project's NFT or Collectibles on Scallop tank
 
+Read the address and have colorful Scallop \(one and only\)! 
+
 Scallop Shop opening
 
 #### 2022 H2
