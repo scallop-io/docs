@@ -4,7 +4,7 @@
 
 Scallop born🎂
 
-Scallop official Telegram group, Twitter, Medium
+Scallop official Telegram group, Twitter, Medium, Discord
 
 Up the first page of Scallop
 
