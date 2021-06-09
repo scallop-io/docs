@@ -27,8 +27,8 @@ description: $SCA
 * Max Supply ****1,000,000,000 SCA.
 * The total SCA mining reserve consists of 60%.
 * 75% of Market/Liquidity unlocked at beginning, 5% will unlock at each quarter.
-* All team tokens are vested on-chain with a cliff of 6 months and 3 year linear vesting
-* 3% of scallop pool's SOL staking reward will buy back SCA and burn.
+* All team tokens are vested on-chain with a cliff of 6 months and 3 year linear vesting.
+* 3% of scallop pool's SOL staking reward will buy back SCA and burn which means SCA is a Deflationary Token.
 
 #### 
 
