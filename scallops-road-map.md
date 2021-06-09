@@ -62,7 +62,7 @@ More & more Scallop Decorations event
 
 You can use our token to vote or proposal something on Scallop
 
-Show our partner project's NFT or Collectibles on Scallop tank
+Show our partner project's NFTs or Collectibles on Scallop tank
 
 Read the address and have colorful Scallop \(one and only\)! 
 
