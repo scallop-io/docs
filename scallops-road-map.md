@@ -32,6 +32,8 @@ Apply to list on some great DEX on Solana
 
 Do cool things with another Solana project 😉
 
+Support more SPL wallet .
+
 Marine conservation group's cooperation
 
 #### 2021 Q4
@@ -65,4 +67,6 @@ Show our partner project's NFT or Collectibles on Scallop tank
 Scallop Shop opening
 
 #### 2022 H2
+
+Call MoonPay API, users can buy SOL on Scallop.
 
