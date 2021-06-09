@@ -8,6 +8,7 @@
 
 * [Tokenomic \(optimizing\)](sca-token/scallop-coin.md)
 * [Token Utility](sca-token/token-utility.md)
+* [Staking](sca-token/staking.md)
 * [SPL Wallet](sca-token/spl-wallet.md)
 * [Create a SCA address](sca-token/create-a-sca-address.md)
 * [Trade SCA/USDC](sca-token/trade-sca-usdc.md)
