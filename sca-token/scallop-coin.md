@@ -2,7 +2,7 @@
 description: $SCA
 ---
 
-# Tokenomic\(optimizing\)
+# Tokenomic \(optimizing\)
 
 ## **Scallop Coin \(SCA\)** Token model**：**
 
