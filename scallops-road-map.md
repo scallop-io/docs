@@ -40,6 +40,8 @@ New SPL token scallop tank
 
 New SOL scallop tank 
 
+Second Scallop Decorations event
+
 Apply to list on CoinGecko, CoinMarketCap, Blockfolio etc.
 
 First  Scallop decorations bidding event
@@ -49,6 +51,8 @@ First Scallop donation
 Second SCA airdrop
 
 #### 2022 H1
+
+More & more Scallop Decorations event
 
 You can use our token to vote or proposal something on Scallop
 
