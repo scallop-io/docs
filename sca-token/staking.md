@@ -1,3 +1,7 @@
+---
+description: "Stake to earn more\U0001F4C8!"
+---
+
 # Staking
 
 no limit - no bonus🥲
