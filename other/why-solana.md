@@ -14,7 +14,8 @@ Solana is a , secure , and and censorship resistant blockchain with Proof-of-His
 
 ### What will your program do with my tokens?
 
-Our program will use the funds to earn rewards from staking SOL or some trustworthy liquidity pool from another project \(e.g., ORCA, Serum\) or some great decentralized lending project.
+Our program will use the funds to earn rewards from staking SOL or some trustworthy liquidity pool from another project \(e.g., ORCA, Serum\) or some great decentralized lending project.  
+We will announced where did the funds go and user might can choose it in the future.
 
 
 
