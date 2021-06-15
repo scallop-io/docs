@@ -14,9 +14,11 @@ Up the first page of Scallop
 
 Join Solana Hackathon🦾
 
-SCA presale
+Start SCA presale
 
 #### 2021 Q3
+
+---After presale---
 
 Launch Scallop app, open the first Scallop tank
 
