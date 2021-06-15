@@ -52,8 +52,6 @@ New SOL scallop tank
 
 Second Scallop Decorations event\(Nautilus\)!
 
-Apply to list on CoinGecko, CoinMarketCap, Blockfolio etc.
-
 First Scallop decorations bidding event
 
 First Scallop donation
