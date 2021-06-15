@@ -36,7 +36,7 @@ Apply to list on some great DEX on Solana
 
 More partnership's SPL token for extra reward 😉
 
-Support more SPL wallet .
+Support more SPL wallet
 
 Marine conservation group's cooperation
 
