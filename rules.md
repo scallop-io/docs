@@ -14,6 +14,7 @@ During the game users can win the Scallop Decorations by carrying out a task, li
 
 * The more you stake, the more chance you will have of winning and the more you win.
 * There will be more partnership's SPL token for extra reward.
+* Our program will use SOL from Scallop tank to earn rewards from staking SOL or some trustworthy liquidity pool from another project or some great decentralizedlending project.
 * If user didn't unstake theirs SOL it can keep staking and join next week's harvesting.
 * We use Chainlink VRF on Solana which it's a real random function on blockchain that can help our program choose one \(or a few\) winner of each week.     
 * Scallop will setup more & more tanks with different address limit or tokens for users!
