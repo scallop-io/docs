@@ -12,6 +12,12 @@ Solana is a , secure , and and censorship resistant blockchain with Proof-of-His
 
 
 
+### What will your program do with my tokens?
+
+Our program will use the funds to earn rewards from staking SOL or some trustworthy liquidity pool from another project or some great decentralized lending project.
+
+
+
 ### Is Scallop a simulation game?
 
 You can say it's a game or a no loss lottery or a way to stake SOL and earn tokens and decorations.
