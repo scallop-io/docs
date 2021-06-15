@@ -18,6 +18,8 @@ Start SCA presale
 
 #### 2021 Q3
 
+First Scallop decorations event
+
 ---After presale---
 
 Launch Scallop app, open the first Scallop tank
@@ -26,7 +28,7 @@ First SCA airdrop
 
 SCA token staking pool 
 
-Scallop fossil token event \(The first Scallop decorations\)
+Scallop fossil token event
 
 Start multinational official community
 
