@@ -2,7 +2,7 @@
 description: Join now to win tokens and decorations ✨!
 ---
 
-# About Scallop🦪
+# About Scallop 🦪
 
 ## **What is Scallop**🦪**?**
 

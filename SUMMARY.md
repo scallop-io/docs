@@ -1,8 +1,8 @@
 # Table of contents
 
-* [About Scallop🦪](README.md)
-* [Rules of Scallop👩‍🏫](rules.md)
-* [Road Map🗺](scallops-road-map.md)
+* [About Scallop 🦪](README.md)
+* [Rules of Scallop 👩‍🏫](rules.md)
+* [Road Map 🗺](scallops-road-map.md)
 
 ## Scallop Coin <a id="sca-token"></a>
 
@@ -15,5 +15,5 @@
 
 ## other
 
-* [Scallop Q&A](other/why-solana.md)
+* [Scallop Q&A 🎙](other/why-solana.md)
 

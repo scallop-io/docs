@@ -2,7 +2,7 @@
 description: "Ask question \U0001F64B‍♂️➡ https://discord.gg/Scallop"
 ---
 
-# Scallop Q&A
+# Scallop Q&A 🎙
 
 ### **Why Solana?**
 
