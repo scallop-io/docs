@@ -6,7 +6,7 @@
 
 ## Scallop Coin <a id="sca-token"></a>
 
-* [Tokenomic \(optimizing\)](sca-token/scallop-coin.md)
+* [Tokenomic](sca-token/scallop-coin.md)
 * [Token Utility](sca-token/token-utility.md)
 * [Staking](sca-token/staking.md)
 * [SPL Wallet](sca-token/spl-wallet.md)

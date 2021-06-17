@@ -2,7 +2,7 @@
 description: $SCA
 ---
 
-# Tokenomic \(optimizing\)
+# Tokenomic
 
 ## **Scallop Coin \(SCA\)** Token model**：**
 
@@ -31,13 +31,7 @@ description: $SCA
 
 #### 
 
-#### SCA Presale for **Investors \(**planning**\)：**
 
-Tokens: 50,000,000 SCA 
-
-Raise: 150,000 USDC
-
-Presale Price: 0.003
 
 
 
