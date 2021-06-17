@@ -2,7 +2,7 @@
 
 ### **Why Solana?**
 
-Solana is a really fast, high security, decentralized blockchain and we think Solana will be a world computer.
+Solana is a really fast, high security, decentralized blockchain and Scallop team think Solana will be a world computer and be a part of all humans life, just like we are all the testimony of how internet entered our world and change everything. 
 
 
 
