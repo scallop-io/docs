@@ -14,7 +14,7 @@ Up the first page of Scallop
 
 Join Solana Hackathon🦾
 
-Start SCA presale
+Start SCA presale for investors
 
 #### 2021 Q3
 
