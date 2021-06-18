@@ -17,7 +17,7 @@ description: $SCA
 | **Adviser / Helper** | **2%** | **20,000,000** |
 | **Marine Conservation Group** | **3%** | **30,000,000** |
 | **Ecosystem / Community** | **2.5%** | **25,000,000** |
-| **Airdrop** | **0.5%** | **5,000,000** |
+| **Airdrop** | **0.5%** | **5,000,00** |
 
 
 
