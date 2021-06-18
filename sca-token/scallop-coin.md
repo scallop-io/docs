@@ -4,7 +4,7 @@ description: $SCA
 
 # Tokenomic
 
-## **Scallop Coin \(SCA\)** Token model**：**
+## **Scallop** token **\(SCA\)** Token model**：**
 
 ![](../.gitbook/assets/chart.png)
 
