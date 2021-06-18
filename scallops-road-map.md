@@ -18,6 +18,8 @@ Start SCA presale for investors
 
 #### 2021 Q3
 
+Launch Scallop on test-net
+
 First Scallop decorations event
 
 ---After presale---
