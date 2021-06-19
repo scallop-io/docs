@@ -2,7 +2,7 @@
 description: "Follow or join us plz\U0001F647‍♀️\U0001F647\U0001F647‍♂️!"
 ---
 
-# Community 📲
+# Community 🎎
 
 -Twitter [https://twitter.com/Scallop\_io](https://twitter.com/Scallop_io)   
 -Discord: [https://discord.gg/Scallop](https://discord.gg/Scallop)  
