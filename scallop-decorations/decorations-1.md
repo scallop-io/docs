@@ -13,3 +13,5 @@ In Scallop, if you have some token in your address which we list, you can show i
 * Get it in some friendship event.
 * Buy them on serum watch [Buy&Sale. ](buy-and-sell.md)
 
+We will have our own Scallop Decorations Market in the future!
+
