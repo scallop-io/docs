@@ -10,3 +10,5 @@ Scallop is a scallop growing simulation game on Solana with a user-funded pooled
 
 ![](.gitbook/assets/scallop.png)
 
+![](.gitbook/assets/scallop-feng-mian-0603.png)
+
