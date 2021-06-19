@@ -8,5 +8,5 @@ description: "Give me more Scallop Decorations\U0001F52A!"
 
 The first Scallop Decorations!
 
-
+![](../.gitbook/assets/seaweed.jpeg)
 
