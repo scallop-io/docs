@@ -17,7 +17,7 @@
 
 * [Decorations✨!](scallop-decorations/decorations-1.md)
 * [Scallop Decorations](scallop-decorations/decorations.md)
-* [Untitled](scallop-decorations/untitled-1.md)
+* [Showing Decorations](scallop-decorations/untitled-1.md)
 
 ## other
 
