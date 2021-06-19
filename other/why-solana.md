@@ -12,7 +12,7 @@ Solana is a super fast, high security and composability, decentralized blockchai
 
 ### **Why SOL?**
 
-"Staking your SOL tokens on Solana is the best way you can help secure the world's highest-performing blockchain network, and earn rewards for doing so!" - These sentences are form Solana and we are planning to be a Solana Validator too.
+The gas fee of Solana is really low so we will use some swap program for other project and to what's the highest reward's pool need and we are also planning to be a Solana Validator too so SOL might be a better choice. 
 
 
 
