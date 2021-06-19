@@ -12,7 +12,12 @@
 * [SPL Wallet](sca-token/spl-wallet.md)
 * [Create a SCA address](sca-token/create-a-sca-address.md)
 * [Trade SCA/USDC](sca-token/trade-sca-usdc.md)
-* [Decorations✨!](sca-token/decorations.md)
+
+## Scallop Decorations
+
+* [Decorations✨!](scallop-decorations/decorations-1.md)
+* [Scallop Decorations](scallop-decorations/decorations.md)
+* [Untitled](scallop-decorations/untitled-1.md)
 
 ## other
 
