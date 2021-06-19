@@ -43,5 +43,7 @@ Well, there will be twice, we haven't set up our airdrop rules but it will not b
 
 ### I want to make Scallop memes !
 
+Your welcome.
+
 ![](../.gitbook/assets/scallop.png)
 
