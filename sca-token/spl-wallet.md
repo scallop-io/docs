@@ -10,19 +10,5 @@ Before you get started on Scallop, you'll need a Solana Program Library \(SPL\) 
 
 -----\(Coming Soon!\)-----  
   
-[Phantom](https://phantom.app/) offers a wallet and browser extension with a streamlined, user friendly interface.   
-  
-Sollet Extension
-
-[Solong](https://solongwallet.com/) **** 
-
-[Bonfida](https://bonfida.com/wallet/) 
-
-**Ledger**
-
-**Math Wallet**
-
-**Solong**  
-  
-Oxygen Wallet
+[Phantom](https://phantom.app/) offers a wallet and browser extension with a streamlined, user friendly interface. 
 
