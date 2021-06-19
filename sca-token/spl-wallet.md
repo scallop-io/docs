@@ -1,3 +1,7 @@
+---
+description: "Don't give anyone your Mnemonic Phrase\U0001F511!"
+---
+
 # SPL Wallet
 
 Before you get started on Scallop, you'll need a Solana Program Library \(SPL\) wallet for storing your funds on the Solana blockchain and for interacting with the features on Scallop. Remember that you'll need SOL in your wallet to complete any transactions on Solana. A few recommended wallets are listed below:
