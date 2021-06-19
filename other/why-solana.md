@@ -12,7 +12,7 @@ Solana is a super fast, high security and composability, decentralized blockchai
 
 ### **Why SOL?**
 
-The gas fee of Solana is really low so we will use some swap program from other great project and swap it to what are the highest reward's pool need and we are also planning to be a Solana Validator too so SOL might be a better choice. 
+The gas fee of Solana is really low so we will use some swap program from other great project and swap it to the tokens which are the highest reward's pool need and we are also planning to be a Solana Validator too so SOL might be a better choice. 
 
 
 
