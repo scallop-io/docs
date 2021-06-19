@@ -15,7 +15,7 @@
 
 ## Scallop Decorations
 
-* [Decorations ✨!](scallop-decorations/decorations-1.md)
+* [Decorations ✨](scallop-decorations/decorations-1.md)
 * [Scallop's](scallop-decorations/decorations.md)
 * [Friend's](scallop-decorations/untitled-1.md)
 * [Buy & Sell](scallop-decorations/buy-and-sell.md)
