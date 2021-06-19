@@ -11,5 +11,5 @@ In Scallop, if you have some token in your address which we list, you can show i
 * Carrying out some tasks in the game.
 * Get it in some official event.
 * Get it in some friendship event.
-* Buy it on serum watch [Buy&Sale. ](buy-and-sell.md)
+* Buy them on serum watch [Buy&Sale. ](buy-and-sell.md)
 
