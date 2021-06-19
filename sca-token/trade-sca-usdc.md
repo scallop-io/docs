@@ -6,5 +6,5 @@ description: >-
 
 # Trade SCA/USDC
 
-Coming Soon too, plz jump to [Q&A](../other/why-solana.md).
+Coming Soon too
 

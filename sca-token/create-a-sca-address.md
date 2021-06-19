@@ -4,5 +4,5 @@ description: This guide takes you through how to set up and create a new SCA add
 
 # Create a SCA address
 
-Coming soon, plz jump to [Q&A](../other/why-solana.md).
+Coming soon
 
