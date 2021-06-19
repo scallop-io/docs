@@ -1,5 +1,5 @@
 ---
-description: What can decorations do?
+description: Decorations? Collectibles? NFTs?
 ---
 
 # Decorations ✨
