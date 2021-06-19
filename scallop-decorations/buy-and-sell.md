@@ -2,7 +2,7 @@
 description: Buy&Sell decorations on serum
 ---
 
-# Buy&Sell
+# Buy & Sell
 
 Coming soon four
 
