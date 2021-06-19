@@ -22,6 +22,6 @@
 
 ## other
 
-* [Community](other/community.md)
+* [Community 📲](other/community.md)
 * [Scallop Q&A 🎙](other/why-solana.md)
 
