@@ -10,6 +10,12 @@ Solana is a super fast, high security and composability, decentralized blockchai
 
 
 
+### Is Scallop a simulation game?
+
+You can say it's a game or a no loss lottery or a way to stake SOL and earn tokens and decorations.
+
+
+
 ### **Why SOL?**
 
 The gas fee of Solana is really low so we will use some swap program from other great project and swap it to the tokens which are the highest reward's pool need, we are also planning to be a Solana Validator too so SOL might be a better choice. 
@@ -20,12 +26,6 @@ The gas fee of Solana is really low so we will use some swap program from other 
 
 Our program will use the funds to earn rewards from staking SOL or some trustworthy liquidity pool from another project \(e.g., ORCA, Serum\) or some great decentralized lending project.  
 We will announced where did the funds go and user might can choose it in the future.
-
-
-
-### Is Scallop a simulation game?
-
-You can say it's a game or a no loss lottery or a way to stake SOL and earn tokens and decorations.
 
 
 
