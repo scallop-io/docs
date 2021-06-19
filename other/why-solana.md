@@ -39,3 +39,7 @@ We use Chainlink VRF on Solana , it's a real random function on blockchain which
 
 Well, there will be twice, we haven't set up our airdrop rules but it will not be filling google forms. Actually our core team love airdrop too but we want to have it without harming our tokenomic, so we will set a limit for it.
 
+### Make Scallop memes !
+
+![](../.gitbook/assets/scallop.png)
+
