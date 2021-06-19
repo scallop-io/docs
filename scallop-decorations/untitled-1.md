@@ -1,5 +1,5 @@
 ---
-description: Scallop Tank will show up these NFT too !!
+description: Scallop Tank will show up these NFTs too !!
 ---
 
 # Friend's
