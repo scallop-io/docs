@@ -1,5 +1,5 @@
 ---
-description: $SCA
+description: About $SCA
 ---
 
 # Tokenomic

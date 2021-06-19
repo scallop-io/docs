@@ -1,5 +1,5 @@
 ---
-description: SCA to the moon!
+description: "SCA to the moon\U0001F680!"
 ---
 
 # Road Map 🗺
