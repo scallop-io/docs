@@ -6,7 +6,7 @@ description: "Ask question \U0001F64B‍♂️➡ https://discord.gg/Scallop"
 
 ### **Why Solana?**
 
-Solana is a really fast, high security and composability, decentralized blockchain and Scallop team think Solana will be a world computer and be a part of all humans life, just like we are all the testimony of how internet entered our world and changed everything. 
+Solana is a super fast, high security and composability, decentralized blockchain and Scallop team think Solana will be a world computer and be a part of all humans life, just like we are all the testimony of how internet entered our world and changed everything. 
 
 
 
