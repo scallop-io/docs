@@ -12,6 +12,7 @@
 * [SPL Wallet](sca-token/spl-wallet.md)
 * [Create a SCA address](sca-token/create-a-sca-address.md)
 * [Trade SCA/USDC](sca-token/trade-sca-usdc.md)
+* [Decorations✨!](sca-token/decorations.md)
 
 ## other
 
