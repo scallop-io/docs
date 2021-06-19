@@ -22,7 +22,7 @@ The gas fee of Solana is really low so we will use some swap program from other 
 
 
 
-### What will your program do with my tokens?
+### How do your program earn reward with my tokens?
 
 Our program will use the funds to earn rewards from staking SOL or some trustworthy liquidity pool from another project \(e.g., ORCA, Serum\) or some great decentralized lending project.  
 We will announced where did the funds go and user might can choose it in the future.
