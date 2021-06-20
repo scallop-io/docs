@@ -36,7 +36,7 @@ We use Chainlink VRF on Solana , it's a real random function on blockchain which
 
 ###  What is Scallop Decorations? Are they NFTs?
 
-You can call it a Scallop Decorations, a On Chain Collectible, or a NFT.
+You can call it Scallop Decorations, On Chain Collectible, or NFT.
 
 
 
