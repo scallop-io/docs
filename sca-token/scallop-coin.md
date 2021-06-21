@@ -23,7 +23,7 @@ description: About $SCA
 
 #### The basic SCA tokenomics are**：**
 
-* Max Supply ****240000000SCA.
+* Max Supply ****240000000 SCA.
 * The total SCA mining reserve consists of 60%.
 * 60% of Market/Liquidity will unlocked at beginning, 40% will join the market quarterly for a year. 
 * All team tokens are vested on-chain with a cliff of 6 months and 3 year linear vesting.
