@@ -8,22 +8,22 @@ description: About $SCA
 
 ![](../.gitbook/assets/chart.png)
 
-| Max Supply **1,000,000,000 SCA** | **100%** | **1,000,000,000** |
-| :--- | :--- | :--- |
-| **Gaming & Staking Reward** | **60%** | **600,000,000** |
-| **Market / Liquidity** | **10%** | **100,000,000** |
-| **Core team**  | **17%** | **170,000,000** |
-| **Investors** | **5%** | **50,000,000** |
-| **Adviser / Helper** | **2%** | **20,000,000** |
-| **Marine Conservation Group** | **3%** | **30,000,000** |
-| **Ecosystem / Community** | **2.5%** | **25,000,000** |
-| **Airdrop** | **0.5%** | **5,000,00** |
+| Max Supply ****240000000 **SCA** | **100%** | 240000000 |
+| :--- | :--- | ---: |
+| **Gaming & Staking Reward** | **60%** | **144000000** |
+| **Market / Liquidity** | **10%** | **24000000** |
+| **Core team**  | **17%** | **40800000** |
+| **Investors** | **5%** | **12000000** |
+| **Adviser / Helper** | **2%** | **4800000** |
+| **Marine Conservation Group** | **3%** | **7200000** |
+| **Ecosystem / Community** | **2.5%** | **6000000** |
+| **Airdrop** | **0.5%** | **1200000** |
 
 
 
 #### The basic SCA tokenomics are**：**
 
-* Max Supply ****1,000,000,000 SCA.
+* Max Supply ****240000000SCA.
 * The total SCA mining reserve consists of 60%.
 * 100% of Market/Liquidity will unlocked at beginning.
 * All team tokens are vested on-chain with a cliff of 6 months and 3 year linear vesting.
