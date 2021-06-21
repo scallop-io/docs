@@ -34,9 +34,9 @@ We will announced where did the funds go and user might can choose it in the fut
 We use Chainlink VRF on Solana , it's a real random function on blockchain which can help our program choose one \(or a few\) winner of each week.       
 
 
-###  What is Scallop Decorations? Are they NFTs?
+###  What are Scallop Decorations? Are they NFTs?
 
-You can call it Scallop Decorations, On Chain Collectible, or NFT.
+You can call them Scallop Decorations, On Chain Collectibles, or NFTs.
 
 
 
