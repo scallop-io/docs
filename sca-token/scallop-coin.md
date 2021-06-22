@@ -8,7 +8,7 @@ description: About $SCA
 
 ![](../.gitbook/assets/chart.png)
 
-| Max Supply ****240000000 **SCA** | **100%** | 240000000 |
+| Max Supply | **100%** | 240000000 |
 | :--- | :--- | ---: |
 | **Gaming & Staking Reward** | **60%** | **144000000** |
 | **Market / Liquidity** | **10%** | **24000000** |
