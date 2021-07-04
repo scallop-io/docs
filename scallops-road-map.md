@@ -28,8 +28,6 @@ Launch Scallop app, open the first Scallop tank
 
 First SCA airdrop
 
-SCA token staking pool 
-
 Scallop fossil token event
 
 Start multinational official community
@@ -39,6 +37,8 @@ Apply to list on some great DEX on Solana
 More partnership's SPL token for extra reward 😉
 
 Marine conservation group's cooperation
+
+SCA token staking pool
 
 #### 2021 Q4
 
