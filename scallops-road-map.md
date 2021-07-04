@@ -24,7 +24,7 @@ Launch Scallop on test-net
 
 ---After presale---
 
-Launch Scallop app, open the first Scallop tank
+Launch Scallop mainnet-beta
 
 First SCA airdrop
 
