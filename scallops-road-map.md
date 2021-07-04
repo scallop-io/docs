@@ -38,11 +38,11 @@ Apply to list on some great DEX on Solana
 
 More partnership's SPL token for extra reward 😉
 
-Support more SPL wallet
-
 Marine conservation group's cooperation
 
 #### 2021 Q4
+
+Support more SPL wallet
 
 Simple SPL token Swap  \(SCA/USDC, etc.\)
 
@@ -52,7 +52,7 @@ New SPL token scallop tank
 
 New SOL scallop tank 
 
-Second Scallop Decorations event\(Nautilus\)!
+Second Scallop Decorations event \(Nautilus\)!
 
 First Scallop decorations bidding event
 
