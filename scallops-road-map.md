@@ -22,7 +22,9 @@ Start SCA presale for investors
 
 Launch Scallop on test-net
 
----After presale---
+SCA token launch
+
+---After token launch---
 
 Launch Scallop mainnet-beta
 
