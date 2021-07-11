@@ -6,7 +6,7 @@ description: "Give me more Scallop Decorations\U0001F52A!"
 
 ####  Seaweed![:seedling:](https://discord.com/assets/38002403475def186f4b7ac64cc9d04f.svg) :
 
-The first Scallop Decorations! Seaweed is the most common Scallop Decorations in every Scallop tanks!
+Seaweed is the first Scallop Decorations and the most common Scallop Decorations in every Scallop tanks!
 
 Address : SeawdHf3NHG6gxCrezQxr5oJAHTLJd6JsQxxd144yaz  
 Symbol : Seaweed  
