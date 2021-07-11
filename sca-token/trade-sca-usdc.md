@@ -6,5 +6,7 @@ description: >-
 
 # Trade SCA/USDC
 
-Coming soon too
+Coming soon
+
+
 
