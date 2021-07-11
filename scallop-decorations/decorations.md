@@ -4,7 +4,7 @@ description: "Give me more Scallop Decorations\U0001F52A!"
 
 # Scallop's
 
-####  Seaweed![:seedling:](https://discord.com/assets/38002403475def186f4b7ac64cc9d04f.svg):
+####  Seaweed![:seedling:](https://discord.com/assets/38002403475def186f4b7ac64cc9d04f.svg) :
 
 The first Scallop Decorations! Seaweed is the most common Scallop Decorations in every Scallop tanks!
 
@@ -16,4 +16,17 @@ Supply : Unlimited
 Rarity : ★✰✰✰✰
 
 ![](../.gitbook/assets/seaweed.jpeg)
+
+#### 
+
+#### Scallop Fossil :
+
+???
+
+Address : ???  
+Symbol : Fossil  
+Name : Scallop Fossil Decorations  
+Decimals : 0  
+Supply : Limited  
+Rarity : ★★★★★
 
