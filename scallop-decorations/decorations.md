@@ -12,7 +12,7 @@ Address : SeawdHf3NHG6gxCrezQxr5oJAHTLJd6JsQxxd144yaz
 Symbol : Seaweed  
 Name : Scallop Seaweed Decorations  
 Decimals : 0  
-Supply : Unlimited  
+Supply : 338 \(Unlimited\)  
 Rarity : ★✰✰✰✰
 
 ![](../.gitbook/assets/seaweed.jpeg)
