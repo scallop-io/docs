@@ -10,7 +10,6 @@
 * [Token Utility](sca-token/token-utility.md)
 * [Staking](sca-token/staking.md)
 * [SPL Wallet](sca-token/spl-wallet.md)
-* [Create a SCA address](sca-token/create-a-sca-address.md)
 * [Trade SCA/USDC](sca-token/trade-sca-usdc.md)
 
 ## Scallop Decorations
@@ -22,6 +21,7 @@
 
 ## other
 
+* [Create Token address](other/create-a-sca-address.md)
 * [Community 🎎](other/community.md)
 * [Scallop Q&A 🎙](other/why-solana.md)
 
