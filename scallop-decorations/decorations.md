@@ -27,6 +27,6 @@ Address : ???
 Symbol : Fossil  
 Name : Scallop Fossil Decorations  
 Decimals : 0  
-Supply : Limited  
+Supply : ??? \(Limited\)  
 Rarity : ★★★★★
 
