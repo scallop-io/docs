@@ -15,6 +15,7 @@ In Scallop, if you have some token in your address which we listed, you can show
 
 #### Hints 🧐**：**
 
+* You can check the detail of it on [Solana explorer.](https://explorer.solana.com/address/SeawdHf3NHG6gxCrezQxr5oJAHTLJd6JsQxxd144yaz)
 * Some of Scallop Decorations are unlimited but we won't mint it without any announcement.
 * Unlimited decorations might be limited in the future.
 * limited decorations can't be minted even we want to.
