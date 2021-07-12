@@ -16,13 +16,15 @@ Join Solana Hackathon🦾
 
 First Scallop decorations event
 
-Start SCA presale for investors
-
 #### 2021 Q3
 
 Launch Scallop on test-net
 
+Find Scallop investors 
+
 SCA token launch
+
+Start SCA presale 
 
 ---After token launch---
 
