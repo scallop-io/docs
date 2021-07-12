@@ -11,7 +11,7 @@ In Scallop, if you have some token in your address which we listed, you can show
 * Carrying out some tasks in the game.
 * Get them in some official event.
 * Get them in some other project's event.
-* Buy them on serum ➡[Buy & Sell](buy-and-sell.md)[. ](buy-and-sell.md)
+* Buy them on serum ➡ [Buy & Sell](buy-and-sell.md)[. ](buy-and-sell.md)
 
 #### Hints 🧐**：**
 
