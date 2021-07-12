@@ -18,7 +18,7 @@ In Scallop, if you have some token in your address which we listed, you can show
 * You can check the detail of it on [Solana Explorer.](https://explorer.solana.com/address/SeawdHf3NHG6gxCrezQxr5oJAHTLJd6JsQxxd144yaz)
 * Some of Scallop Decorations are unlimited but we won't mint it without any announcement.
 * Unlimited decorations might be limited in the future.
-* limited decorations can't be minted even we want to.
+* Limited decorations can't be minted even we want to.
 * Holding some kind of Scallop Decorations can let you get more extra tokens.
 
 We will have our own Scallop Decorations Market and the illustrated book of Scallop Decorations in the future!
