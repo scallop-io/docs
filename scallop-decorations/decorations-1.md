@@ -13,16 +13,14 @@ In Scallop, if you have some token in your address which we listed, you can show
 * Get them in some other project's event.
 * Buy them on serum ➡[Buy & Sell](buy-and-sell.md)[. ](buy-and-sell.md)
 
-We will have our own Scallop Decorations Market and the illustrated book of Scallop Decorations in the future!
-
-
-
 #### Hints 🧐**：**
 
 * Some of Scallop Decorations are unlimited but we won't mint it without any announcement.
 * Unlimited decorations might be limited in the future.
 * limited decorations can't be minted even we want to.
 * Holding some kind of Scallop Decorations can let you get more extra tokens.
+
+We will have our own Scallop Decorations Market and the illustrated book of Scallop Decorations in the future!
 
 
 
