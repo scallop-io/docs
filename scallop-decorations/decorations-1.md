@@ -1,5 +1,5 @@
 ---
-description: Decorations? Collectibles? NFTs?
+description: 'You can call them Scallop Decorations, On Chain Collectibles, or NFTs.'
 ---
 
 # Decorations ✨
