@@ -9,9 +9,20 @@ In Scallop, if you have some token in your address which we listed, you can show
 #### How do I get decorations?
 
 * Carrying out some tasks in the game.
-* Get it in some official event.
-* Get it in some friendship event.
-* Buy them on serum watch [Buy & Sell](buy-and-sell.md)[. ](buy-and-sell.md)
+* Get them in some official event.
+* Get them in some other project's event.
+* Buy them on serum ➡[Buy & Sell](buy-and-sell.md)[. ](buy-and-sell.md)
 
-We will have our own Scallop Decorations Market in the future!
+We will have our own Scallop Decorations Market and the illustrated book of Scallop Decorations in the future!
+
+
+
+#### Hints 🧐**：**
+
+* Some of Scallop Decorations are unlimited but we won't mint it without any announcement.
+* Unlimited decorations might be limited in the future.
+* limited decorations can't be minted even we want to.
+* Holding some kind of Scallop Decorations can let you get more extra tokens.
+
+
 
