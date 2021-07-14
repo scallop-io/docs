@@ -7,5 +7,7 @@ description: "Follow or join us plz\U0001F647‍♀️\U0001F647\U0001F647‍♂
 -Twitter [https://twitter.com/Scallop\_io](https://twitter.com/Scallop_io)   
 -Discord: [https://discord.gg/Scallop](https://discord.gg/Scallop)  
 -Telegram: [https://t.me/scallop\_io](https://t.me/scallop_io)   
--Medium: [https://scallopio.medium.com/](https://scallopio.medium.com/scallop-c030758d9c40)
+-Medium: [https://scallopio.medium.com](https://scallopio.medium.com/scallop-c030758d9c40)  
+-Instageam: [https://www.instagram.com/scallop.io](https://www.instagram.com/scallop.io)   
+-Facebook [https://www.facebook.com/Scallop.io](https://www.facebook.com/Scallop.io)
 
