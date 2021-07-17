@@ -21,12 +21,12 @@ Rarity : ★✰✰✰✰
 
 #### Scallop Fossil 🪨:
 
-![](../.gitbook/assets/fossil.png)
-
 Address : ???  
 Symbol : Fossil  
 Name : Scallop Fossil Decorations  
 Decimals : 0  
 Supply : ??? \(Limited\)  
 Rarity : ★★★★★
+
+![](../.gitbook/assets/fossil.png)
 
