@@ -19,7 +19,7 @@ Rarity : ★✰✰✰✰
 
 #### 
 
-#### Scallop Fossil 🪨:
+#### Scallop Fossil 🗿:
 
 Address : ???  
 Symbol : Fossil  
