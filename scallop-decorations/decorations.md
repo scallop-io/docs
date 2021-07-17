@@ -21,7 +21,7 @@ Rarity : ★✰✰✰✰
 
 #### Scallop Fossil 🪨:
 
-???
+![](../.gitbook/assets/fossil.png)
 
 Address : ???  
 Symbol : Fossil  
