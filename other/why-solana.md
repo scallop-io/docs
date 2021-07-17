@@ -31,7 +31,7 @@ We will announced where did the funds go and user might can choose it in the fut
 
 ### How do Scallop program choose winners randomly?
 
-We use Chainlink VRF on Solana , it's a real random function on blockchain which can help our program choose one \(or a few\) winner of each week.       
+We use Switchboard VRF on Solana , it's a real random function on blockchain which can help our program choose one \(or a few\) winner of each week.       
 
 
 ###  What are Scallop Decorations? Are they NFTs?
