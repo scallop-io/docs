@@ -21,6 +21,8 @@ Rarity : ★✰✰✰✰
 
 #### Scallop Fossil 🗿:
 
+The first limited Scallop Decorations🗿. If you got a Scallop Fossil, means you're an OG Scalloper.
+
 Address : ???  
 Symbol : Fossil  
 Name : Scallop Fossil Decorations  
