@@ -23,11 +23,11 @@ Rarity : ★✰✰✰✰
 
 The first limited Scallop Decorations🗿. If you got a Scallop Fossil, means you're an OG Scalloper.
 
-Address : ???  
+Address : FossiLkXJZ1rePN8jWBqHDZZ3F7ET8p1dRGhYKHbQcZR  
 Symbol : Fossil  
 Name : Scallop Fossil Decorations  
 Decimals : 0  
-Supply : ??? \(Limited\)  
+Supply : 400 \(Limited\)  
 Rarity : ★★★★★
 
 ![](../.gitbook/assets/fossil.png)
