@@ -12,7 +12,7 @@ no limit - no bonus🥲
 
 30 days - 20% bonus
 
-90 days - 30% bonus
+60 days - 30% bonus
 
 
 
