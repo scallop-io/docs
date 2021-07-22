@@ -7,7 +7,7 @@ description: This guide takes you through how to mint SPL token address.
 In this guide, we will use [Sollet](https://sollet.io/) to be our SPL wallet.
 
 {% hint style="info" %}
-Your wallet will need about less than 0.005 SOL to create the token address.
+Your wallet will need about less than 0.01 SOL to create the token address.
 {% endhint %}
 
 
