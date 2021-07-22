@@ -1,3 +1,7 @@
+---
+description: If you need some pictures of Scallop you can contact us!
+---
+
 # Logo & Pictures🎨
 
 ![](../.gitbook/assets/sca.png)
