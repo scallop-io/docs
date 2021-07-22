@@ -1,8 +1,8 @@
 ---
-description: This guide takes you through how create SCA or Decorations address.
+description: This guide takes you through how to mint SPL token address.
 ---
 
-# Create Token address
+# Mint Token address
 
 In this guide, we will use [Sollet](https://sollet.io/) to be our SPL wallet.
 
