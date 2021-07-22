@@ -1,4 +1,4 @@
-# Logo & Pictures
+# Logo & Pictures🎨
 
 ![](../.gitbook/assets/sca.png)
 
