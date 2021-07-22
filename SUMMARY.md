@@ -23,6 +23,6 @@
 
 * [Create Token address](other/create-a-sca-address.md)
 * [Community 🎎](other/community.md)
-* [Logo & Pictures🎨](other/logo-and-pictures.md)
+* [Logo & Pictures 🎨](other/logo-and-pictures.md)
 * [Scallop Q&A 🎙](other/why-solana.md)
 
