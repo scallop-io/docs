@@ -4,13 +4,15 @@ description: If you need some pictures of Scallop you can contact us!
 
 # Logo & Pictures 🎨
 
-![](../.gitbook/assets/sca.png)
+![Scallop with black font](../.gitbook/assets/logo-black.png)
 
-![](../.gitbook/assets/logo-black.png)
+![Scallop with white font](../.gitbook/assets/logo-white.png)
 
-![](../.gitbook/assets/logo-white.png)
+![Scallop, Scallop token \(SCA\)](../.gitbook/assets/sca.png)
 
-![](../.gitbook/assets/seaweed.png)
+![Scallop Seaweed Decorations](../.gitbook/assets/seaweed.png)
 
-![](../.gitbook/assets/fossil%20%281%29.png)
+![Scallop Fossil Decorations](../.gitbook/assets/fossil%20%281%29.png)
+
+![Scallop logo with no background](../.gitbook/assets/scallop.png)
 

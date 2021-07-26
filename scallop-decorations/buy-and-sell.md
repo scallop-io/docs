@@ -1,5 +1,5 @@
 ---
-description: Buy&Sell decorations on Serum Dex
+description: Buy & Sell decorations on Serum Dex
 ---
 
 # Buy & Sell
