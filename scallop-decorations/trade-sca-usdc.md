@@ -4,11 +4,11 @@ description: Trade Scallop Decorations on Serum Dex!
 
 # Buy & Sell
 
-This guide takes you through you how to trade Scallop Decorations on Serum DEX UI.  
-In this guide, we will use [official Serum Dex](https://dex.projectserum.com/) to be our Serum DEX, and try to add Fossil/USDC pair .  
+This guide takes you through you how to trade Scallop Decorations on Serum DEX UI,  
+We will use [official Serum Dex](https://dex.projectserum.com/) to be our Serum DEX, and try to add Fossil/USDC pair .  
   
-  
-  
+
+
 Click this "+".
 
 ![](../.gitbook/assets/image%20%2810%29.png)
