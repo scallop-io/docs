@@ -9,7 +9,7 @@ We will use [official Serum Dex](https://dex.projectserum.com/) to be our Serum 
   
 
 
-Open Serum Dex and Click this "+".
+Visit Serum Dex and Click this "+".
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
