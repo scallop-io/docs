@@ -13,7 +13,7 @@
 
 ## Scallop Decorations
 
-* [Decorations ✨](scallop-decorations/decorations-2.md)
+* [Decorations ✨](scallop-decorations/decorations.md)
 * [Scallop's](scallop-decorations/scallop.md)
 * [Friend's](scallop-decorations/friend.md)
 * [Buy & Sell](scallop-decorations/buy-and-sell.md)
