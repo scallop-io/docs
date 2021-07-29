@@ -10,14 +10,13 @@
 * [Token Utility](sca-token/token-utility.md)
 * [Staking](sca-token/staking.md)
 * [SPL Wallet](sca-token/spl-wallet.md)
-* [Trade SCA/USDC](sca-token/trade-sca-usdc.md)
 
 ## Scallop Decorations
 
 * [Decorations ✨](scallop-decorations/decorations-1.md)
 * [Scallop's](scallop-decorations/decorations.md)
 * [Friend's](scallop-decorations/untitled-1.md)
-* [Buy & Sell](scallop-decorations/buy-and-sell.md)
+* [Buy & Sell](scallop-decorations/trade-sca-usdc.md)
 
 ## other
 
