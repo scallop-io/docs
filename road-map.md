@@ -64,7 +64,7 @@ First Scallop donation
 
 Second SCA airdrop
 
-Scallop 1.0
+upgrade to Scallop 1.0
 
 #### 2022 H1
 
