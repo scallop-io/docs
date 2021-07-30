@@ -76,6 +76,8 @@ Read the address and have colorful Scallop \(one and only\)!
 
 Scallop Shop opening
 
+Scallop 2.0 \(we will be a 2D animation game\)
+
 #### 2022 H2
 
 Call MoonPay API, users can buy SOL on Scallop.
