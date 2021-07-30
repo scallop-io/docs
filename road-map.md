@@ -38,7 +38,7 @@ Launch Scallop 0.1\(beta\) on main-net
 
 Start multinational official community  
   
-Show our partner project's NFTs or Collectibles on Scallop tank
+Show our friends project's NFTs or Collectibles on Scallop tank
 
 Marine conservation group's cooperation
 
