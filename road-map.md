@@ -36,7 +36,9 @@ Start SCA presale
 
 Launch Scallop 0.1\(beta\) on main-net
 
-Start multinational official community
+Start multinational official community  
+  
+Show our partner project's NFTs or Collectibles on Scallop tank
 
 Marine conservation group's cooperation
 
@@ -69,8 +71,6 @@ Scallop 1.0
 More & more Scallop Decorations event
 
 You can use our token to vote or proposal something on Scallop
-
-Show our partner project's NFTs or Collectibles on Scallop tank
 
 Read the address and have colorful Scallop \(one and only\)! 
 
