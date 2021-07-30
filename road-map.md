@@ -18,7 +18,15 @@ First Scallop decorations event
 
 #### 2021 Q3
 
-Launch Scallop on test-net
+Scallop fossil token event  
+  
+First SCA airdrop  
+  
+More partnership's SPL token for extra reward 😉
+
+Launch Scallop on test-net  
+  
+Apply to list on some great DEX on Solana
 
 Find Scallop investors 
 
@@ -26,19 +34,9 @@ SCA token launch
 
 Start SCA presale 
 
----After token launch---
-
-Launch Scallop mainnet-beta
-
-First SCA airdrop
-
-Scallop fossil token event
+Launch Scallop 0.1\(beta\) on mainnet
 
 Start multinational official community
-
-Apply to list on some great DEX on Solana
-
-More partnership's SPL token for extra reward 😉
 
 Marine conservation group's cooperation
 
@@ -63,6 +61,8 @@ First Scallop decorations bidding event
 First Scallop donation
 
 Second SCA airdrop
+
+Scallop 1.0
 
 #### 2022 H1
 
