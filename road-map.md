@@ -34,7 +34,7 @@ SCA token launch
 
 Start SCA presale 
 
-Launch Scallop 0.1\(beta\) on mainnet
+Launch Scallop 0.1\(beta\) on main-net
 
 Start multinational official community
 
