@@ -56,7 +56,7 @@ New SPL token scallop tank
 
 New SOL scallop tank 
 
-Second Scallop Decorations event \(Nautilus\)!
+Scallop Nautilus Decorations event!
 
 First Scallop decorations bidding event
 
