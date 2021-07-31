@@ -1,5 +1,5 @@
 ---
-description: "Ask question \U0001F64B‍♂️➡ https://discord.gg/Scallop"
+description: "Ask questions \U0001F64B‍♂️➡ https://discord.gg/Scallop"
 ---
 
 # Scallop Q&A 🎙
