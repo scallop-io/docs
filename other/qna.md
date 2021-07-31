@@ -6,7 +6,7 @@ description: "Ask questions \U0001F64B‍♂️➡ https://discord.gg/Scallop"
 
 ### **Why Solana?**
 
-Solana is a super fast, high security and composability, decentralized blockchain and Scallop team think Solana will be a world computer and be a part of all humans life, just like we are all the testimony of how internet entered our world and changed everything. 
+Solana is a super fast, high security and composability, decentralized blockchain and Scallop team think Solana will be a world computer and be a part of all humans life, just like we are all the testimony of how the internet entered our world and changed everything. 
 
 
 
@@ -14,7 +14,7 @@ Solana is a super fast, high security and composability, decentralized blockchai
 
 You can say we're a gaming project or a no loss lottery project or even a NFTs project.  
 We are a way you can stake your SOL to earn extra tokens and on-chain collectibles and NFTs.  
-The presentation of front-end will be a gradual evolution at beta ver. It will be more like Defi project with simple animation, as time flows we will make it more like 2D gaming project.
+The presentation of the front-end will be a gradual evolution in the beta version. It will be more like a Defi project with simple animation, as time flows we will make it more like a 2D gaming project.
 
 
 
@@ -24,7 +24,7 @@ The gas fee of Solana is really low so we will use some swap program from other 
 
 
 
-### How does Scallop program earn reward with my tokens?
+### How does Scallop program earn rewards with my tokens?
 
 Our program will use the pool 's fund to earn rewards from :
 
@@ -32,7 +32,7 @@ Our program will use the pool 's fund to earn rewards from :
 * Lending at some lending project.
 * Liquidity mining at some liquidity pool.
 
-You can see where will the funds go at our front-end and users might can choose it in the future.
+You can see where the funds will go at our front-end and users might can choose it in the future.
 
 
 
