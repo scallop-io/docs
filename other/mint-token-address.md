@@ -20,7 +20,7 @@ Select the "MANUAL INPUT" tab.
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
-Enter the token details \(here we use Seaweed\):
+Enter the token details \(Here we use Seaweed\):
 
 * Token mint address:  SeawdHf3NHG6gxCrezQxr5oJAHTLJd6JsQxxd144yaz
 * Token name:  Scallop Seaweed Decorations
