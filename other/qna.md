@@ -36,7 +36,7 @@ You can see where will the funds go at our front-end and users might can choose 
 
 
 
-### How does Scallop program choose winners randomly?
+### How do Scallop program choose winners randomly?
 
 We use Switchboard VRF on Solana , it's a real random function on blockchain which can help our program choose one \(or a few\) winner of each week.       
 
