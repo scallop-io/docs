@@ -26,7 +26,7 @@ Enter the token details \(Here we use Seaweed\):
 * Token name:  Scallop Seaweed Decorations
 * Token symbol: Seaweed
 
-Click "ADD". When the transaction is confirmed, you will see your Seaweed address in Sollet.
+Click "ADD" and after the transaction is confirmed, you will see your Seaweed address in Sollet.
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
