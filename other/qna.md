@@ -49,5 +49,5 @@ You can call them Scallop Decorations, On Chain Collectibles, or NFTs \(Non-fung
 
 ### Will there be a SCA airdrop? If yes, what is the airdrop condition?
 
-Well, there will be twice, we haven't set up our airdrop rules but it will not be filling google forms. Actually our core team love airdrop too but we want to have it without harming our tokenomic, so we will set a condition and limit for it.
+Well, there will be twice, we haven't set up our airdrop rules but it will not be filling google forms. Actually our core team love airdrops too but we want to have it without harming our tokenomic, so we will set a condition and limit for it.
 
