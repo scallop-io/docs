@@ -32,7 +32,7 @@ Our program will use the pool 's fund to earn rewards from :
 * Lending at some lending project.
 * Liquidity mining at some liquidity pool.
 
-You can see where the funds will go at our front-end and users might can choose it in the future.
+You can see where the funds will go at our front-end and users might choose it in the future.
 
 
 
