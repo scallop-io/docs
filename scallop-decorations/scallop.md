@@ -21,7 +21,7 @@ Rarity : ★✰✰✰✰
 
 #### Scallop Fossil 🗿:
 
-The first limited Scallop Decorations. Users who have a Scallop Fossil means he is an OG Scalloper and our early supporter.
+The first limited Scallop Decorations. Users who have a Scallop Fossil means he is an OG Scalloper and our early supporters.
 
 Address : FossiLkXJZ1rePN8jWBqHDZZ3F7ET8p1dRGhYKHbQcZR  
 Market id : NF5PoXovc9wpWMPMrGeCQSmJRAEEUFCR3UZGVHTonf9  
