@@ -10,6 +10,7 @@
 * [Token Utility](sca-token/token-utility.md)
 * [Staking](sca-token/staking.md)
 * [SPL Wallet](sca-token/spl-wallet.md)
+* [Mint Token address](sca-token/mint-token-address.md)
 
 ## Scallop Decorations
 
@@ -20,8 +21,7 @@
 
 ## other
 
-* [Mint Token address](other/mint-token-address.md)
-* [Community 🎎](other/community.md)
 * [Logo & Pictures 🎨](other/logo-and-pictures.md)
+* [Community 🎎](other/community.md)
 * [Scallop Q&A 🎙](other/qna.md)
 
