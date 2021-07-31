@@ -9,8 +9,8 @@ At Scallop, if you have some tokens in your address which we listed at [Scallop'
 #### How do I get decorations?
 
 * Carry out some tasks at Scallop.
-* Get them at some events by our official community .
-* Get them at some events by other friendship project.
+* Get them in some events by our official community .
+* Get them in some events by other friendship project.
 * Buy them on serum ➡ [Buy & Sell](buy-and-sell.md)
 
 #### Hints 🧐**：**
