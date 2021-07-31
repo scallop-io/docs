@@ -22,14 +22,14 @@ Market Label : Scallop Fossil Decorations
 Base Label : Fossil  
 
 
+And click "Add".  
+
+
 ![](../.gitbook/assets/image%20%2813%29.png)
-
-Click "Add".  
-
-
-![](../.gitbook/assets/image%20%2812%29.png)
 
 {% hint style="success" %}
 Now you can trade Scallop Decorations!
 {% endhint %}
+
+![](../.gitbook/assets/image%20%2812%29.png)
 
