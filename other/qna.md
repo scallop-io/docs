@@ -24,14 +24,19 @@ The gas fee of Solana is really low so we will use some swap program from other 
 
 
 
-### How do your program earn reward with my tokens?
+### How do Scallop program earn reward with my tokens?
 
-Our program will use the funds to earn rewards from staking SOL or some trustworthy liquidity pool from another project \(e.g., ORCA, Serum\) or some great decentralized lending project.  
-We will announced where did the funds go and user might can choose it in the future.
+Our program will use the pool 's fund to earn rewards from :
+
+* Staking SOL on Solana Validator.
+* Lending at some lending project.
+* Liquidity mining at some liquidity pool.
+
+You can see where will the funds go at our front-end and users might can choose it in the future.
 
 
 
-### How do Scallop program choose winners randomly?
+### How does Scallop program choose winners randomly?
 
 We use Switchboard VRF on Solana , it's a real random function on blockchain which can help our program choose one \(or a few\) winner of each week.       
 
