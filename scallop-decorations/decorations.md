@@ -6,7 +6,7 @@ description: >-
 
 # Decorations ✨
 
-At Scallop, if you have some tokens in your address which we listed at [Scallop's](scallop.md) and [Friend's](friend.md), you can show it in the Scallop tank to make your tank more beautiful and colorful which means you can call Scallop is a small NFTs ecosystem.
+At Scallop, if you have some tokens in your address which we listed at [Scallop's](scallop.md) and [Friend's](friend.md), you can show it in the Scallop tank to make your tank more beautiful and colorful which means you can call Scallop a small NFTs ecosystem.
 
 #### How do I get decorations?
 
@@ -21,8 +21,8 @@ At Scallop, if you have some tokens in your address which we listed at [Scallop'
 * Some kinds of Scallop Decorations are unlimited but we won't mint it without any announcement.
 * Unlimited Scallop Decorations might be limited in the future.
 * Holding some kinds of Scallop Decorations might let you get more extra tokens in some events.
-* We will show more & more tokens in Scallop Tank in the future!
-* There will be Scallop Decorations market and an illustrated book of Scallop Decorations.
+* We will show more & more tokens in Scallop tank in the future!
+* There will be a Scallop Decorations market and an illustrated book of Scallop Decorations.
 
 
 
