@@ -22,7 +22,7 @@ Our program will use the fund of pools to earn rewards from :
 
 * The more you stake, the more you win, the more chance you will have of winning. 
 * There will be extra partnership SPL token rewards. 
-* If users didn't unstake theirs SOL, they can keep staking and join the harvesting of next week. 
+* If users didn't unstake their SOL, they can keep staking and join the harvesting of next week. 
 * We are going to use Switchboard VRF which is a real random function on Solana that will help our program to choose one \(or a few\) winner of each week. 
 * We will setup more pools with different maximum address limit or tokens for users!
 
