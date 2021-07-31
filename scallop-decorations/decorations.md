@@ -4,7 +4,7 @@ description: 'You can call them Scallop Decorations, On Chain Collectibles, or N
 
 # Decorations ✨
 
-At Scallop, if you have some tokens in your address which we listed at [Scallop's](scallop.md) and [Friend's](friend.md), you can show it in the Scallop tank to make your tank more beautiful and colorful! We will show more tokens in the future!
+At Scallop, if you have some tokens in your address which we listed at [Scallop's](scallop.md) and [Friend's](friend.md), you can show it in the Scallop tank to make your tank more beautiful and colorful! We will show more & more tokens in the future!
 
 #### How do I get decorations?
 
