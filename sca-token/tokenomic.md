@@ -21,13 +21,13 @@ description: About $SCA
 
 
 
-#### The basic SCA tokenomics are**：**
+#### The basic SCA tokenomic are**：**
 
 * Max Supply ****240000000 SCA.
 * The total SCA mining reserve consists of 60%.
 * 60% of Market/Liquidity will unlocked at beginning, 40% will join the market quarterly for a year. 
-* All team tokens are vested on-chain with a cliff of 6 months and 3 year linear vesting.
-* 93% of scallop pool's SOL staking reward will buy back SCA and burn which means SCA is a Deflationary Token.
+* All team tokens are locked on-chain with a cliff of 6 months and 3 year linear unlocking.
+* 93% of SOL staking reward at Scallop pool will buy back SCA and burn which means SCA is a deflationary token.
 
 #### 
 
