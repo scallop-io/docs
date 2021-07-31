@@ -70,7 +70,7 @@ upgrade to Scallop 1.0
 
 More & more Scallop Decorations event
 
-You can use SCA to vote or proposal something on Scallop
+You can use SCA to vote or propose something on Scallop
 
 One and only Scallop NFTs 
 
