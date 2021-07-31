@@ -72,7 +72,7 @@ More & more Scallop Decorations event
 
 You can use our token to vote or proposal something on Scallop
 
-Read the address and have colorful Scallop \(one and only\)! 
+One and only Scallop NFTs 
 
 Scallop Shop opening
 
