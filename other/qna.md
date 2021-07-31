@@ -12,7 +12,7 @@ Solana is a super fast, high security and composability, decentralized blockchai
 
 ### Is Scallop a Defi gaming project?
 
-You can say it's a gaming project or a no loss lottery project or even a NFTs project.  
+You can say we're a gaming project or a no loss lottery project or even a NFTs project.  
 We are a way you can stake your SOL to earn extra tokens and on-chain collectibles and NFTs.  
 The presentation of front-end will be a gradual evolution at beta ver. It will be more like Defi project with simple animation, as time flows we will make it more like 2D gaming project.
 
