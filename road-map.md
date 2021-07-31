@@ -70,7 +70,7 @@ upgrade to Scallop 1.0
 
 More & more Scallop Decorations event
 
-You can use our token to vote or proposal something on Scallop
+You can use SCA to vote or proposal something on Scallop
 
 One and only Scallop NFTs 
 
@@ -79,6 +79,4 @@ Open Scallop shop
 Scallop 2.0 \(we will be a 2D animation game\)
 
 #### 2022 H2
-
-Call MoonPay API, users can buy SOL on Scallop.
 
