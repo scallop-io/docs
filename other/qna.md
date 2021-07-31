@@ -10,7 +10,7 @@ Solana is a super fast, high security and composability, decentralized blockchai
 
 
 
-### Is Scallop a simulation game?
+### Is Scallop a Defi game?
 
 You can say it's a game or a no loss lottery or a way to stake SOL and earn extra tokens and on-chain collectibles and NFTs.
 
