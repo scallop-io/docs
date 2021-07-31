@@ -19,7 +19,7 @@ The presentation of front-end will be a gradual evolution at beta ver. It will b
 
 ### **Why SOL?**
 
-The gas fee of Solana is really low so we will use some swap program from other great project and swap it to the tokens which are the highest reward's pool need, we are also planning to be a Solana Validator too so SOL might be a better choice. 
+The gas fee of Solana is really low so we will use some swap program from other great project and swap it to the tokens which the highest APY pool needed, we are also planning to be a Solana Validator too so SOL might be a better choice. 
 
 
 
