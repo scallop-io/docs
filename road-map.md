@@ -74,7 +74,7 @@ You can use our token to vote or proposal something on Scallop
 
 One and only Scallop NFTs 
 
-Scallop Shop opening
+Open Scallop shop
 
 Scallop 2.0 \(we will be a 2D animation game\)
 
