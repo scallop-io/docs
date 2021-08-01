@@ -10,7 +10,7 @@ Users can stake SOL to the Scallop tank and get a scallop to grow, after staking
 
 During the game users can win the Scallop Decorations by carrying out some tasks, like stake more than 10 SOL in the Scallop tank for a month or stake more than 10000 SCA in the staking pool for two weeks, we will show the tasks you can carry on our apps.
 
-Our program will use the fund of pools to earn rewards from :
+Our program will use the fund of pools to earn rewards by:
 
 * Staking SOL on Solana Validator.
 * Lending at some lending project.
