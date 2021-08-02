@@ -4,17 +4,17 @@ description: "Ask questions \U0001F64B‍♂️➡ https://discord.gg/Scallop"
 
 # Scallop Q&A 🎙
 
-### **Why Solana?**
-
-Solana is a super fast, high security and composability, decentralized blockchain and Scallop team think Solana will be a world computer and be a part of all humans life, just like we are all the testimony of how the internet entered our world and changed everything. 
-
-
-
 ### Is Scallop a Defi gaming project?
 
 You can say we're a gaming project or a no loss lottery project or even a NFTs project.  
 We are a way you can stake your SOL to earn extra tokens and on-chain collectibles and NFTs.  
 The presentation of the front-end will be a gradual evolution in the beta version. It will be more like a Defi project with simple animation, as time flows we will make it more like a 2D gaming project.
+
+
+
+### **Why Solana?**
+
+Solana is a super fast, high security and composability, decentralized blockchain and Scallop team think Solana will be a world computer and be a part of all humans life, just like we are all the testimony of how the internet entered our world and changed everything. 
 
 
 
