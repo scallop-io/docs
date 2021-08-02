@@ -6,9 +6,9 @@ description: "Ask questions \U0001F64B‍♂️➡ https://discord.gg/Scallop"
 
 ### Is Scallop a Defi gaming project?
 
-You can say we're a gaming project or a no loss lottery project or even a NFTs project.  
+You can say we're a Defi gaming project or a no loss lottery project or even a NFTs project.  
 We are a way you can stake your SOL to earn extra tokens and on-chain collectibles and NFTs.  
-The presentation of the front-end will be a gradual evolution in the beta version. It will be more like a Defi project with simple animation, as time flows we will make it more like a 2D gaming project.
+The presentation of the front-end will be a gradual evolution in the beta version. At first, It will be like a Defi project with simple animation, as time flows we will make it more like a 2D gaming project.
 
 
 
