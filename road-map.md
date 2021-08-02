@@ -4,7 +4,7 @@ description: "SCA to the moon\U0001F680!"
 
 # Road Map 🗺
 
-#### 2021 Q2
+#### Q2 2021
 
 Scallop born🎂
 
@@ -12,7 +12,7 @@ Solana Hackathon🦾
 
 First Scallop Decorations
 
-#### 2021 Q3
+#### Q3 2021
 
 Scallop Fossil token
 
@@ -24,7 +24,7 @@ SCA token launch
 
 Launch Scallop on main-net
 
-#### 2021 Q4
+#### Q4 2021
 
 SCA token staking pool
 
@@ -34,7 +34,7 @@ Scallop Nautilus Decorations \(Bidding event\)
 
 Second SCA airdrop
 
-#### 2022 H1
+#### H1 2022
 
 You can use SCA to vote or propose something on Scallop
 
