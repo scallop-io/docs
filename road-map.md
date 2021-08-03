@@ -14,7 +14,7 @@ First Scallop Decorations
 
 #### Q3 2021
 
-Scallop Fossil token
+Scallop Fossil Decorations 
 
 First SCA airdrop
 
