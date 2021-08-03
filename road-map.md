@@ -10,11 +10,11 @@ Scallop born🎂
 
 Solana Hackathon🦾
 
-First Scallop Decorations
+First Scallop Decorations \(Seaweed🌱\)
 
 #### Q3 2021
 
-Scallop Fossil Decorations 
+Scallop Fossil Decorations 🗿
 
 First SCA airdrop
 
