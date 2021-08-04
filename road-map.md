@@ -38,7 +38,7 @@ Second SCA airdrop
 
 You can use SCA to vote or propose something on Scallop
 
-Scallop NFTs 
+Scallop NFTs Decorations
 
 Scallop shop
 
