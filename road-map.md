@@ -16,7 +16,7 @@ First Scallop Decorations \(Seaweed🌱\)
 
 Scallop Fossil Decorations 🗿
 
-First SCA airdrop
+First SCA airdrop💸
 
 Launch Scallop on test-net
 
@@ -24,7 +24,7 @@ SCA token launch
 
 #### Q4 2021
 
-Launch Scallop on main-net
+Launch Scallop on main-net🚀
 
 SCA token staking pool
 
@@ -40,7 +40,7 @@ Another token Scallop pool
 
 Scallop NFTs Decorations
 
-Second SCA airdrop
+Second SCA airdrop💸
 
 Scallop shop
 
@@ -48,5 +48,5 @@ Scallop shop
 
 Vote with your SCA
 
-Scallop Decorations Eggs
+Scallop Decorations Eggs🥚
 
