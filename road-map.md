@@ -48,5 +48,7 @@ Scallop shop
 
 Vote with your SCA
 
+Illustrated book of Scallop Decorations 
+
 Scallop Decorations Eggs🥚
 
