@@ -28,7 +28,7 @@ Launch Scallop on main-net
 
 SCA token staking pool
 
-SCA/USDC liquidity pool, Swap
+SCA/USDC Liquidity pool, Swap
 
 Scallop Nautilus Decorations \(Bidding event\)
 
