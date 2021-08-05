@@ -22,23 +22,31 @@ Launch Scallop on test-net
 
 SCA token launch
 
-Launch Scallop on main-net
-
 #### Q4 2021
+
+Launch Scallop on main-net
 
 SCA token staking pool
 
-SCA/USDC Swap
+SCA/USDC liquidity pool, Swap
 
 Scallop Nautilus Decorations \(Bidding event\)
 
-Second SCA airdrop
+More ways to earn rewards
 
-#### H1 2022
+#### Q1 2022
 
-You can use SCA to vote or propose something on Scallop
+Another token Scallop pool
 
 Scallop NFTs Decorations
 
+Second SCA airdrop
+
 Scallop shop
+
+#### Q2 2022
+
+Vote with your SCA
+
+Scallop Decorations Eggs
 
