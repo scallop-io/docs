@@ -32,7 +32,7 @@ SCA/USDC Liquidity pool, Swap
 
 Scallop Nautilus Decorations \(Bidding event\)
 
-More ways to earn rewards
+More ways to let the funds to earn rewards
 
 #### Q1 2022
 
