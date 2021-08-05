@@ -10,5 +10,7 @@ The SCA token is designed to shift towards governance. We are focusing on some i
 * Scallop Improvements
 * Set up new SPL token tank
 
+You can use SCA to buy Scallop Decorations too.
+
  
 
