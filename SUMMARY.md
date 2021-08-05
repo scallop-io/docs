@@ -17,6 +17,7 @@
 * [Decorations ✨](scallop-decorations/decorations.md)
 * [Scallop's](scallop-decorations/scallop.md)
 * [Friend's](scallop-decorations/friend.md)
+* [Scallop NFTs Decorations](scallop-decorations/scallop-nfts-decorations.md)
 * [Buy & Sell](scallop-decorations/buy-and-sell.md)
 
 ## other
