@@ -16,7 +16,7 @@ Our program will use the fund of pools to earn rewards by:
 * Lending at some lending project.
 * Liquidity mining at some liquidity pool.
 
- You can see where the funds will go on our front-end.
+You can see where the funds will go on our front-end.
 
 ### Notice🔎**：**
 
