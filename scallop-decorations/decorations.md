@@ -1,7 +1,7 @@
 ---
 description: >-
-  You can call them Scallop Decorations, On-chain collectibles, or NFTs
-  (Non-fungible tokens).
+  You can say Scallop Decorations is an on-chain collectibles, it can be
+  Fungible Tokens or NFTs.
 ---
 
 # Decorations ✨

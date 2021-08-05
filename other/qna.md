@@ -43,7 +43,7 @@ We use Switchboard VRF which is a real random function on Solana and it will hel
 
 ###  What are Scallop Decorations? Are they NFTs?
 
-You can call them Scallop Decorations, On Chain Collectibles, or NFTs \(Non-fungible tokens\).
+You can say Scallop Decorations is an on-chain collectibles, it can be fungible tokens or NFTs.
 
 
 
