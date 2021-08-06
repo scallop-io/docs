@@ -22,17 +22,15 @@ Our program will use the fund of pools to earn rewards by:
 
 You can see where the funds will go on our front-end.
 
-### Notice🔎**：**
-
-* The more you stake, the more you win, the more chance you will have of winning. 
-* There will be extra partnership SPL token rewards. 
-* If users keep staking, they can join the harvesting of next week.
-* We are going to use Switchboard VRF on Solana and it will help our program to choose one \(or a few\) winner of each week. 
-* We will set up more pools with different maximum address limits or different token pools for users!
-
 ### **Tasks**🏅**：**
 
 During the game users can win Scallop Decorations or extra SPL token rewards by carrying out some tasks**.**
+
+### Notice🔎**：**
+
+* If users keep staking, they can join the harvesting of next week.
+* We are going to use Switchboard VRF on Solana and it will help our program to choose one \(or a few\) winner of each week. 
+* We will set up more pools with different maximum address limits or different token pools for users!
 
   
 
