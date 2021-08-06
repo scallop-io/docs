@@ -32,7 +32,6 @@ description: About $SCA
 
 * 93% of SOL staking reward at Scallop pool.
 * Part of token of from NFTs Decorations.
-* Part of token from Scallop Decorations Eggs.
 
 SCA burning will be quarterly.
 
