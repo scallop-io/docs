@@ -1,5 +1,5 @@
 ---
-description: NFTs
+description: Scallop NFTs
 ---
 
 # Scallop NFTs Decorations
