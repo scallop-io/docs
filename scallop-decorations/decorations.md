@@ -22,7 +22,7 @@ At Scallop, if you have some tokens in your address which we listed at [Scallop'
 * Unlimited Scallop Decorations might be limited in the future.
 * Holding some kinds of Scallop Decorations might let you get more extra tokens in some events.
 * We will show more & more tokens in Scallop tank in the future!
-* There will be a **Scallop Decorations market** and an **Scallop illustrated book** of Scallop Decorations.
+* There will be a **Scallop Decorations market** and an **Scallop Decorations illustrated book**.
 
 
 
