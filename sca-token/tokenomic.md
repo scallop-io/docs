@@ -11,9 +11,9 @@ description: About $SCA
 | Max Supply | **100%** | 240000000 |
 | :--- | :--- | ---: |
 | **Gaming & Staking Reward** | **60%** | **144000000** |
-| **Market / Liquidity** | **10%** | **24000000** |
+| **Investors** | **10%** | **24000000** |
 | **Core team**  | **17%** | **40800000** |
-| **Investors** | **5%** | **12000000** |
+| **Market / Liquidity** | **5%** | **12000000** |
 | **Adviser / Helper** | **2%** | **4800000** |
 | **Marine Conservation Group** | **3%** | **7200000** |
 | **Ecosystem / Community** | **2.5%** | **6000000** |
