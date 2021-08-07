@@ -6,7 +6,7 @@ description: About $SCA
 
 ## **Scallop** token **\(SCA\)** Token model**：**
 
-![](../.gitbook/assets/chart.png)
+![](../.gitbook/assets/chart%20%281%29.png)
 
 | Max Supply | **100%** | 240000000 |
 | :--- | :--- | ---: |
