@@ -12,7 +12,7 @@ There will be different tiers and address limits of pools to let users to stake 
 
 * 1 SOL/1000 address.
 * 10 SOL/1000 address.
-* 100 SOL/100 address.
+* 100 SOL/1000 address.
 
 Our program will use the fund of pools to earn rewards by:
 
