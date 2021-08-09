@@ -4,9 +4,9 @@ description: About $SCA
 
 # Tokenomic
 
-## **Scallop** token **\(SCA\)** Token model**：**
+## **Scallop** token **\(SCA\)** model**：**
 
-![](../.gitbook/assets/chart%20%281%29.png)
+![SCA token model.](../.gitbook/assets/image%20%2814%29.png)
 
 | Max Supply | **100%** | 240000000 |
 | :--- | :--- | ---: |
@@ -26,7 +26,7 @@ description: About $SCA
 * Max Supply ****240000000 SCA.
 * The total SCA mining reserve consists of 60%.
 * 40% of Market/Liquidity will be unlocked at the beginning, 60% will join the market quarterly for half and a year.
-* All team tokens are locked on-chain with a cliff of 6 months and 3 year linear unlocking.
+* Core team & Investor tokens are locked on-chain with a cliff of 6 months and 3 year linear unlocking.
 
 #### SCA buyback \(SCA is a deflationary token\):
 
