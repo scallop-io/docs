@@ -25,7 +25,7 @@ Base Label : Fossil
 And click "Add".  
 
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 {% hint style="success" %}
 Now you can trade Scallop Decorations!
