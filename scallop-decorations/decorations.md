@@ -6,7 +6,7 @@ description: >-
 
 # Decorations ✨
 
-At Scallop, if you have some tokens in your address which we listed at [Scallop's](scallop.md) and [Friend's](friend.md), you can show it in the Scallop tank to make your tank more beautiful and colorful which means you can also call Scallop a **small NFTs ecosystem**.
+At Scallop, if you have some tokens in your address which we listed at [Scallop's](scallop.md) and [Friend's](friend.md), you can show it in the Scallop tank to make your tank more beautiful and colorful which means you can also call Scallop a **small on-chian collectibles ecosystem**.
 
 #### How do I get decorations?
 
