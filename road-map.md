@@ -8,7 +8,7 @@ description: "SCA to the moon\U0001F680!"
 
 Scallop born🎂
 
-Solana Hackathon🦾
+Solana Hackathon🦾 \(**16th place at Solana Hackathon Asia 2021.**\)
 
 First Scallop Decorations \(Seaweed🌱\)
 
