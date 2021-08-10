@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About Scallop 🦪](README.md)
+* [About Scallop 🦪✨](README.md)
 * [Rules of Scallop 👩‍🏫](rules.md)
 * [Road Map 🗺](road-map.md)
 
