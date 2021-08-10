@@ -18,7 +18,7 @@ Fill in the form with these text.
 
   
 Market id : NF5PoXovc9wpWMPMrGeCQSmJRAEEUFCR3UZGVHTonf9  
-Market Label : Scallop Fossil Decorations  
+Market Label : Fossil/USDC  
 Base Label : Fossil  
 
 
