@@ -16,7 +16,7 @@
 ## Scallop Token \(SCA\) <a id="sca-token"></a>
 
 * [Tokenomic](sca-token/tokenomic.md)
-* [Utility](sca-token/token-utility.md)
+* [Token Utility](sca-token/token-utility.md)
 * [Staking](sca-token/staking.md)
 * [Mint Address](sca-token/mint-token-address.md)
 
