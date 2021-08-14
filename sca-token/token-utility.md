@@ -4,7 +4,7 @@ description: What can SCA do?
 
 # Utility
 
-SCA token is designed to shift towards governance. We are focusing on some interesting voting projects on Solana. Once this is ready, we will shift governance to token holders. This will allow holders to vote on some subject like:
+SCA token is designed to shift towards governance, we are focusing on some interesting voting projects on Solana, once ready, we will shift governance to token holders.
 
 * Treasury Usage
 * Scallop Improvements
