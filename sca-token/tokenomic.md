@@ -31,7 +31,7 @@ description: About $SCA
 #### SCA buyback \(SCA is a deflationary token\):
 
 * 93% of SOL staking reward at Scallop pool.
-* Part of token of from NFTs Decorations.
+* Part of token of from Scallop Decorations.
 
 SCA burning will be quarterly.
 
