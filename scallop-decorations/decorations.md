@@ -29,7 +29,7 @@ In Scallop, if you have some tokens in your address which we listed at [Scallop'
 ### Usage
 
 * Make your Scallop tank more beautiful and colorful 
-* Holding some kinds of Scallop Decorations will let you get more extra tokens in some events.
+* Holding some kinds of Scallop Decorations might let you get more extra tokens in events.
 * There will be a Decorations Market and Illustrated book of Scallop Decorations. 
 
 
