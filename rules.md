@@ -1,5 +1,5 @@
 ---
-description: Must read it before you join Scallop!
+description: Must read me before you join Scallop!
 ---
 
 # Rules 👩‍🏫
