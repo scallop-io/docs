@@ -3,13 +3,13 @@
 * [About Scallop 🦪✨](README.md)
 * [Rules of Scallop 👩‍🏫](rules.md)
 * [Road Map 🗺](road-map.md)
+* [SPL Wallet](spl-wallet.md)
 
 ## Scallop Token <a id="sca-token"></a>
 
 * [Tokenomic](sca-token/tokenomic.md)
 * [Token Utility](sca-token/token-utility.md)
 * [Staking](sca-token/staking.md)
-* [SPL Wallet](sca-token/spl-wallet.md)
 * [Mint Token address](sca-token/mint-token-address.md)
 
 ## Scallop Decorations
