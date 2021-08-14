@@ -8,8 +8,8 @@
 ## Scallop Decorations
 
 * [Decorations ✨](scallop-decorations/decorations.md)
-* [Ours](scallop-decorations/scallop.md)
-* [Friend's](scallop-decorations/friend.md)
+* [Minted by Us](scallop-decorations/scallop.md)
+* [Minted by Our Friends](scallop-decorations/friend.md)
 * [NFTs Decorations](scallop-decorations/scallop-nfts-decorations.md)
 * [Buy & Sell](scallop-decorations/buy-and-sell.md)
 
