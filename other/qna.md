@@ -18,12 +18,6 @@ We choose Solana because Solana is a super fast, high security, composability an
 
 
 
-### **Why SOL?**
-
-The gas fee of Solana is really low so we will use some swap program from other great project and swap it to the tokens which the highest APY pool needed, we are also planning to be a Solana Validator too so SOL might be a better choice. 
-
-
-
 ### How does Scallop program earn rewards with my tokens?
 
 Our program will use the pool 's fund to earn rewards from :
