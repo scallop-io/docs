@@ -8,13 +8,17 @@ description: >-
 
 ### **What are Scallop Decorations?**
 
-In Scallop, if you have some tokens in your address which we listed at [Scallop's](scallop.md) and [Friend's](friend.md), you can show it in the Scallop tank, which means you can also call Scallop a small on-chain collectibles ecosystem.
+In Scallop, if you have some tokens in your address which we listed at [Scallop's](scallop.md) and [Friend's](friend.md), you can show it in the Scallop tank, which means **you can also call Scallop a small on-chain collectibles ecosystem.**
 
 #### How do I get decorations?
 
-* Carry out some tasks in Scallop.
-* We will give them away in some events in our official community.
-* You can also get them in some events hosted by friendship projects.
+* Carry out tasks in Scallop.
+* 
+  We will give them away in some events in our community.
+
+* 
+  Might get them in events which are hosted by friendship projects.
+
 * Buy them on serum ➡ [Buy & Sell](buy-and-sell.md)
 
 #### Hints 🧐**：**
