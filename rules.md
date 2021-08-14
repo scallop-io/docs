@@ -2,7 +2,7 @@
 description: Must read it before you join Scallop!
 ---
 
-# Rules of Scallop 👩‍🏫
+# Rules 👩‍🏫
 
 ### Rules📋**：**
 

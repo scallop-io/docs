@@ -1,7 +1,7 @@
 # Table of contents
 
 * [About Scallop 🦪✨](README.md)
-* [Rules of Scallop 👩‍🏫](rules.md)
+* [Rules 👩‍🏫](rules.md)
 * [Road Map 🗺](road-map.md)
 * [SPL Wallet](spl-wallet.md)
 
