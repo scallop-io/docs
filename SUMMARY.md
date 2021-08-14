@@ -10,7 +10,7 @@
 * [Tokenomic](sca-token/tokenomic.md)
 * [Utility](sca-token/token-utility.md)
 * [Staking](sca-token/staking.md)
-* [Mint Token address](sca-token/mint-token-address.md)
+* [Mint Address](sca-token/mint-token-address.md)
 
 ## Scallop Decorations
 
