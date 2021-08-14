@@ -21,7 +21,7 @@ description: About $SCA
 
 
 
-#### The basic SCA tokenomic are**：**
+#### The basic SCA token model are**：**
 
 * Max Supply ****240000000 SCA.
 * The total SCA mining reserve consists of 60%.
