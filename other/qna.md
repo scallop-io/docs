@@ -14,7 +14,7 @@ The presentation of the front-end will be a gradual evolution in the beta versio
 
 ### **Why Solana?**
 
-We choose Solana because Solana is a super fast, high security and composability, decentralized blockchain and our team both think Solana will be a world computer and be a part of all humans life, just like we are all the witness of how internet entered our world, and it had changed everything. 
+We choose Solana because Solana is a super fast, high security, composability and decentralized blockchain and our team both think Solana will be a world computer and be a part of all humans life, just like we are all the witness of how internet entered our world, and it had changed everything. 
 
 
 
