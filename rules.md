@@ -22,15 +22,38 @@ Our program will use the fund of pools to earn rewards by:
 
 You can see where the funds will go on our front-end.
 
-### **Tasks**🏅**：**
-
-During the game users can win Scallop Decorations or extra SPL token rewards by carrying out some tasks**.**
-
-### Notice🔎**：**
+#### Notice🔎**：**
 
 * If users keep staking, they can join the harvesting of next week.
 * We are going to invoke Switchboard VRF on Solana and it will help our program to choose one \(or a few\) winner of each week. 
 * We will set up more pools with different maximum address limits or different token pools for users!
+
+### **Tasks**🏅**：**
+
+
+
+We don’t want users to join us for months and get nothing so during the game: users can carry out some tasks like:
+
+* Join 10 SOL lottery pools over a month.
+* Stake more than 10K SCA over two weeks.
+* Offer $100 to SCA/USDC Liquidity.
+
+
+
+to win:
+
+* Scallop Decorations
+* Extra SPL token
+* SCA
+* NFTs
+
+
+
+
+
+Extra SPL token rewards will be the token minted by partnership projects, we will use SCA or Scallop Decorations to trade their tokens or NFTs.
+
+
 
   
 
