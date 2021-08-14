@@ -28,9 +28,9 @@ In Scallop, if you have some tokens in your address which we listed at [Scallop'
 
 ### Usage
 
-* Make your tank more beautiful and colorful 
+* Make your Scallop tank more beautiful and colorful 
 * Holding some kinds of Scallop Decorations will let you get more extra tokens in some events.
-* There will be a **Market** and **Illustrated book** of Scallop Decorations. 
+* There will be a Decorations Market and Illustrated book of Scallop Decorations. 
 
 
 
