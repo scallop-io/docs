@@ -8,7 +8,7 @@ description: >-
 
 ### **What are Scallop Decorations?**
 
-In Scallop, if you have some tokens in your address which we listed at [Scallop's](scallop.md) and [Friend's](friend.md), you can show it in the Scallop tank, which means **you can also call Scallop a small on-chain collectibles ecosystem.**
+In Scallop, if your address has some tokens or NFTs which we listed, it will be shown at Scallop tank, which means **you can call Scallop a small on-chain collectibles ecosystem.**
 
 #### How do I get decorations?
 
