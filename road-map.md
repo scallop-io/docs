@@ -12,43 +12,51 @@ Solana Hackathon🦾 \(16th Place at Solana Hackathon Asia 2021.\)
 
 First Scallop Decorations \(Seaweed🌱\)
 
+
+
 #### Q3 2021
 
-Scallop Fossil Decorations 🗿
+Scallop Fossil 🗿
 
-First SCA airdrop💸
+SCA Airdrop 💸
 
-Launch Scallop on test-net
+Scallop on Test-net
 
-SCA token launch
+SCA Token
+
+
 
 #### Q4 2021
 
-Launch Scallop on main-net🚀
+Scallop on Main-net🚀
 
-SCA token staking pool
+SCA Staking
 
-SCA/USDC Liquidity pool, Swap
+SCA/USDC Liquidity 
 
-Scallop Nautilus Decorations \(Bidding event\)
+Invoke Swapping on Scallop
 
-More ways to let the funds to earn rewards
+Scallop Nautilus \(Bidding\)
+
+
 
 #### Q1 2022
 
-Another token Scallop pool
-
 Scallop NFTs Decorations
 
-Second SCA airdrop💸
+SCA airdrop 2 💸
 
-Scallop shop
+Scallop Shop
+
+
 
 #### Q2 2022
 
-Vote with your SCA
+Vote with SCA
 
-Illustrated book of Scallop Decorations 
+Illustrated Book
 
-Scallop Decorations Eggs🥚
+Scallop Decorations Eggs 🥚
+
+
 
