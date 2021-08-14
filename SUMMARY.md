@@ -22,7 +22,7 @@
 
 ## other
 
-* [Scallop FAQs 🎙](other/qna.md)
+* [FAQs 🎙](other/qna.md)
 * [Logo & Pictures 🎨](other/logo-and-pictures.md)
 * [Community 🎎](other/community.md)
 

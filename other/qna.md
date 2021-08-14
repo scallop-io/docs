@@ -2,7 +2,7 @@
 description: "Ask questions \U0001F64B‍♂️➡ https://discord.gg/Scallop"
 ---
 
-# Scallop FAQs 🎙
+# FAQs 🎙
 
 ### Is Scallop a Defi gaming project?
 
