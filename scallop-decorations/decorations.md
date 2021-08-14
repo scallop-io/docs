@@ -26,15 +26,13 @@ In Scallop, if your address has some tokens or NFTs which we listed, it will be 
 * You can check the details of all Scallop Decorations on [Solana Explorer.](https://explorer.solana.com/address/SeawdHf3NHG6gxCrezQxr5oJAHTLJd6JsQxxd144yaz)
 * Some kinds of Scallop Decorations are unlimited but we won't mint it without any announcement.
 * Unlimited Scallop Decorations might be limited in the future.
-* Holding some kinds of Scallop Decorations might let you get more extra tokens in some events.
 * We will show more & more tokens in Scallop tank in the future!
-* There will be a **Scallop Decorations market** and a **Decorations illustrated book**.
-
+* 
 ### Usage
 
 * Make your Scallop tank more beautiful and colorful 
 * Holding some kinds of Scallop Decorations might let you get more extra tokens in events.
-* There will be a Decorations Market and Illustrated book of Scallop Decorations. 
+* There will be a **Scallop Decorations market** and a **Decorations illustrated book**.
 
 
 
