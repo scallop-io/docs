@@ -17,7 +17,7 @@ In Scallop, if your address has some tokens or NFTs which we listed, it will be 
   We will give them away in some events in our community.
 
 * 
-  Might get them in events which are hosted by friendship projects.
+  Users might will get them in events which are hosted by friendship projects.
 
 * Buy them on serum ➡ [Buy & Sell](buy-and-sell.md)
 
