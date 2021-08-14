@@ -29,7 +29,7 @@ During the game users can win Scallop Decorations or extra SPL token rewards by 
 ### Notice🔎**：**
 
 * If users keep staking, they can join the harvesting of next week.
-* We are going to use Switchboard VRF on Solana and it will help our program to choose one \(or a few\) winner of each week. 
+* We are going to invoke Switchboard VRF on Solana and it will help our program to choose one \(or a few\) winner of each week. 
 * We will set up more pools with different maximum address limits or different token pools for users!
 
   
