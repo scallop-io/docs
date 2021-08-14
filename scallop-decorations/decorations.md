@@ -27,7 +27,7 @@ In Scallop, if your address has some tokens or NFTs which we listed, it will be 
 * Some kinds of Scallop Decorations are unlimited but we won't mint it without any announcement.
 * Unlimited Scallop Decorations might be limited in the future.
 * We will show more & more tokens in Scallop tank in the future!
-* 
+
 ### Usage
 
 * Make your Scallop tank more beautiful and colorful 
