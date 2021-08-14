@@ -12,7 +12,6 @@ Wallets we will support are listed below:
 * Sollet.io
 * Solong
 * Solflare
-* Ledger
 
 
 
