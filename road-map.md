@@ -32,9 +32,7 @@ Scallop on Main-net🚀
 
 SCA Staking
 
-SCA/USDC Liquidity 
-
-Invoke Swapping on Scallop
+SCA Swap, Liquidity Pools
 
 Scallop Nautilus \(Bidding\)
 
@@ -54,9 +52,13 @@ Scallop Shop
 
 Vote with SCA
 
-Illustrated Book
+Decorations Market
+
+Decorations Illustrated Book
 
 Scallop Decorations Eggs 🥚
+
+
 
 
 
