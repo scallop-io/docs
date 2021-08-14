@@ -13,7 +13,7 @@
 * [NFTs Decorations](scallop-decorations/scallop-nfts-decorations.md)
 * [Buy & Sell](scallop-decorations/buy-and-sell.md)
 
-## Scallop Token <a id="sca-token"></a>
+## Scallop Token \(SCA\) <a id="sca-token"></a>
 
 * [Tokenomic](sca-token/tokenomic.md)
 * [Utility](sca-token/token-utility.md)
