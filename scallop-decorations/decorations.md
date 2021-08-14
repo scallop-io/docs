@@ -6,7 +6,9 @@ description: >-
 
 # Decorations ✨
 
-At Scallop, if you have some tokens in your address which we listed at [Scallop's](scallop.md) and [Friend's](friend.md), you can show it in the Scallop tank to make your tank more beautiful and colorful which means you can also call Scallop a small on-chain collectibles ecosystem.
+### **What is Scallop Decorations?**
+
+In Scallop, if you have some tokens in your address which we listed at [Scallop's](scallop.md) and [Friend's](friend.md), you can show it in the Scallop tank, which means you can also call Scallop a small on-chain collectibles ecosystem.
 
 #### How do I get decorations?
 
@@ -23,6 +25,12 @@ At Scallop, if you have some tokens in your address which we listed at [Scallop'
 * Holding some kinds of Scallop Decorations might let you get more extra tokens in some events.
 * We will show more & more tokens in Scallop tank in the future!
 * There will be a **Scallop Decorations market** and a **Decorations illustrated book**.
+
+### Usage
+
+* Make your tank more beautiful and colorful 
+* Holding some kinds of Scallop Decorations will let you get more extra tokens in some events.
+* There will be a **Market** and **Illustrated book** of Scallop Decorations. 
 
 
 
