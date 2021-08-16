@@ -70,6 +70,10 @@ Extra SPL token rewards will be the token minted by partnership projects, we wil
 
 
 
+![](.gitbook/assets/1280-800.png)
+
+
+
   
 
 
