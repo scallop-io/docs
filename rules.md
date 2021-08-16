@@ -51,18 +51,12 @@ We don’t want users to join us for months and get nothing so during the game: 
 * 
   Offer $100 values to SCA/USDC Liquidity pools over a month.
 
-
-
-
-
 To win:
 
 * Scallop Decorations
 * Extra SPL tokens
 * SCA
 * NFTs
-
-
 
 
 
