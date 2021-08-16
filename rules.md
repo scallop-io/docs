@@ -6,7 +6,7 @@ description: Must read me before you join Scallop!
 
 ### Rules📋**：**
 
-Users can stake tokens to the Scallop tank and get a scallop to grow, after staking over 7 days users will have the qualification of harvest. **Every Friday 20:00 \(GMT+8\) will be the harvest time.** 
+Users can stake tokens to the Scallop tank and get a scallop to grow, after staking over 7 days, users will have the qualification of harvesting. **Every Friday 20:00 \(GMT+8\) will be the harvest time.** 
 
 
 
@@ -22,13 +22,19 @@ There will be different tiers and address limits of pools to let users to stake 
 
 You can see where the funds will go on the front-end, our program will use the fund of pools to earn rewards by:
 
-* Staking SOL on Solana Validator.
-* Lending at some lending project.
-* Liquidity mining at some liquidity pool.
+* Stake SOL on Solana Validator.
+* 
+  Stake SPL tokens.
+
+* 
+  Lend to some lending projects.
+
+* 
+  Join some liquidity pools.
 
 #### Notice🔎**：**
 
-* If users keep staking, they can join the harvesting of next week.
+* If users keep staking, they can harvest every week.
 * We are going to invoke Switchboard VRF on Solana and it will help our program to choose one \(or a few\) winner of each week. 
 * We will set up more pools with different maximum address limits or different token pools for users!
 
@@ -38,16 +44,21 @@ You can see where the funds will go on the front-end, our program will use the f
 
 We don’t want users to join us for months and get nothing so during the game: users can carry out some tasks like:
 
-* Join 10 SOL lottery pools over a month.
-* Stake more than 10K SCA over two weeks.
-* Offer $100 to SCA/USDC Liquidity.
+* Join 10 SOL pools over a month.
+* 
+  Stake more than 10K SCA over two weeks.
+
+* 
+  Offer $100 values to SCA/USDC Liquidity pools over a month.
 
 
 
-to win:
+
+
+To win:
 
 * Scallop Decorations
-* Extra SPL token
+* Extra SPL tokens
 * SCA
 * NFTs
 
