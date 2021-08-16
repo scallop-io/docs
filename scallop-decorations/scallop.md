@@ -4,7 +4,7 @@ description: "Give me more Scallop Decorations\U0001F52A!"
 
 # Minted by Us
 
-####  Seagrass![:seedling:](https://discord.com/assets/38002403475def186f4b7ac64cc9d04f.svg) :
+#### Seagrass![:seedling:](https://discord.com/assets/38002403475def186f4b7ac64cc9d04f.svg) :
 
 Seagrass is the first Scallop Decorations and the most common Scallop Decorations in every Scallop tank! 
 
@@ -15,7 +15,7 @@ Decimals : 0
 Supply : 338 \(Unlimited\)  
 Rarity : ★✰✰✰✰
 
-![](../.gitbook/assets/seaweed.jpeg)
+![](../.gitbook/assets/seaweed-token.png)
 
 #### 
 
@@ -31,5 +31,5 @@ Decimals : 0
 Supply : 400 \(Limited\)  
 Rarity : ★★★★★
 
-![](../.gitbook/assets/fossil.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
