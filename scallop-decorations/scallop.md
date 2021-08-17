@@ -6,7 +6,7 @@ description: "Give me more Scallop Decorations\U0001F52A!"
 
 #### Seagrass![:seedling:](https://discord.com/assets/38002403475def186f4b7ac64cc9d04f.svg) :
 
-Seagrass is the first Scallop Decorations and the most common Scallop Decorations in every Scallop tank! 
+Seagrass can reach heights of 200 feet \(60m\), which is as tall as a 20-story building🏢.
 
 Address : SeawdHf3NHG6gxCrezQxr5oJAHTLJd6JsQxxd144yaz  
 Symbol : Seagrass  
