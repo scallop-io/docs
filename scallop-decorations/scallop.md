@@ -21,7 +21,7 @@ Rarity : ★✰✰✰✰
 
 #### Scallop Fossil 🗿:
 
-Scallop Fossil is the first limited Scallop Decorations, users who have a Fossil means they are OG Scallopers and also our early supporters.
+There were archaeologists found Scallop fossils on Mount Everest🏔!
 
 Address : FossiLkXJZ1rePN8jWBqHDZZ3F7ET8p1dRGhYKHbQcZR  
 Serum Market ID : NF5PoXovc9wpWMPMrGeCQSmJRAEEUFCR3UZGVHTonf9  
