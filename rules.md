@@ -32,7 +32,6 @@ You can see where the funds will go on the front-end, our program will use the f
 
 * If users keep staking, they can harvest every week.
 * We are going to invoke Switchboard VRF on Solana and it will help our program to choose one \(or a few\) winner of each week. 
-* We will set up more pools.
 
 ### **Tasks**🏅**：**
 
