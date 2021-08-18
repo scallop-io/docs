@@ -10,7 +10,7 @@ Scallop Born🎂
 
 Solana Hackathon🦾 \(**16th Place at Solana Hackathon Asia 2021.**\)
 
-First Scallop Decorations \(Seaweed🌱\)
+First Scallop Decorations \(Seagrass🌱\)
 
 
 
