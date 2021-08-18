@@ -6,7 +6,9 @@ description: Must read me before you join Scallop!
 
 ### Rules📋**：**
 
-Users can stake tokens to the Scallop tank and get a scallop to grow, after staking over 7 days, users will have the qualification of harvesting. **Every Friday 20:00 \(GMT+8\) will be the harvest time.** 
+Users can stake tokens and get scallops to grow at Scallop tank , after staking over 7 days, users will have the qualification of harvesting.   
+  
+**Every Friday 20:00 \(GMT+8\) will be the harvest time.** 
 
 After harvesting, one \(or a few\) of winners chosen by program randomly will get Scallop token \(SCA\) with the same value of staking reward, 7% of staking reward will be kept in the staking pool and 93% will be SCA buyback.
 
