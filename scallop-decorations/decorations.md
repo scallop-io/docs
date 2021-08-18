@@ -28,6 +28,8 @@ In Scallop, if your address has some tokens , no matter these are Fungible Token
 
 Users can check the details of all Scallop Decorations on Solana Explorer and some kinds of Scallop Decorations are unlimited but we won't mint it without any announcement, unlimited Scallop Decorations might be limited in the future.
 
+Usage:
+
 *  Make your Scallop tank more beautiful and colorful .
 * There will be an Illustrated book of Scallop Decorations. 
 * Holding some kinds of Scallop Decorations might let you get more extra tokens in events or staking pools.
