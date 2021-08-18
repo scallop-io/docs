@@ -31,6 +31,7 @@ Users can check the details of all Scallop Decorations on Solana Explorer and so
 *  Make your Scallop tank more beautiful and colorful .
 * There will be an Illustrated book of Scallop Decorations. 
 * Holding some kinds of Scallop Decorations might let you get more extra tokens in events or staking pools.
+* We will note some trivia next to Scallop Decorations.
 
 
 
