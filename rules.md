@@ -8,17 +8,13 @@ description: Must read me before you join Scallop!
 
 Users can stake tokens to the Scallop tank and get a scallop to grow, after staking over 7 days, users will have the qualification of harvesting. **Every Friday 20:00 \(GMT+8\) will be the harvest time.** 
 
+After harvesting, one \(or a few\) of winners chosen by program randomly will get Scallop token \(SCA\) with the same value of staking reward, 7% of staking reward will be kept in the staking pool and 93% will be SCA buyback.
 
+There will be different tiers and address limits and different SPL token of pools to let users to stake tokens, ex:
 
-After harvesting, one \(or a few\) of winners chosen by program randomly will get Scallop token \(SCA\) with the same value of staking reward, 7% of staking reward will be kept in the staking pool and 93% will be SCA buyback.
-
-
-
-There will be different tiers and address limits of pools to let users to stake tokens, ex:
-
-* 1 SOL/1000 address.
 * 10 SOL/1000 address.
-* 100 SOL/1000 address.
+* 10 RAY/1000 address.
+* 100 SOL/100 address.
 
 You can see where the funds will go on the front-end, our program will use the fund of pools to earn rewards by:
 
@@ -36,7 +32,7 @@ You can see where the funds will go on the front-end, our program will use the f
 
 * If users keep staking, they can harvest every week.
 * We are going to invoke Switchboard VRF on Solana and it will help our program to choose one \(or a few\) winner of each week. 
-* We will set up more pools with different maximum address limits or different token pools for users!
+* We will set up more pools.
 
 ### **Tasks**🏅**：**
 
