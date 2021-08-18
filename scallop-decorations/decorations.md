@@ -10,9 +10,7 @@ description: >-
 
 
 
-In Scallop, if your address has some tokens , no matter these are Fungible Tokens or Non-Fungible Tokens \(NFTs\) which we listed, you can call them Scallop Decorations, it will be shown at Scallop tank and Interact with our game, which means **you can call Scallop a small on-chain collectibles ecosystem.**
-
-
+In Scallop, if your address has some tokens , no matter these are Fungible Tokens or Non-Fungible Tokens \(NFTs\) which we listed, you can call them Scallop Decorations, it will be shown at Scallop tank and Interact with our game, which means **you can call Scallop a small on-chain collectibles ecosystem.**
 
 The goal of Scallop Decorations will be On-chain collectibles, we want users to love collecting them like collecting Yugioh Cards, and holding some kinds of Scallop Decorations will have some benefit in Scallop app.
 
