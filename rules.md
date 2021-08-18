@@ -26,7 +26,7 @@ You can see where the funds will go on the front-end, our program will use the f
   Lend to some lending projects.
 
 * 
-  Join some liquidity pools.
+  Join some liquidity mining pool.
 
 #### Notice🔎**：**
 
