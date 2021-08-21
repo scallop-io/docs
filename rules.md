@@ -14,9 +14,11 @@ Users can stake tokens and get scallops to grow at Scallop tank , after staking 
 
 There will be different tiers and address limits and different SPL token of pools to let users to stake tokens, ex:
 
-* 10 SOL/1000 address.
-* 10 RAY/1000 address.
-* 100 SOL/100 address.
+* 100 SCA/1000 address
+* 100 RAY/1000 address
+* 10 SOL/1000 address
+* 100 SOL/100 address
+* 100 USDC/∞ address
 
 You can see where the funds will go on the front-end, our program will use the fund of pools to earn rewards by:
 
