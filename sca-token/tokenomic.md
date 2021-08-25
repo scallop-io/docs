@@ -35,7 +35,7 @@ description: About $SCA
 * 93% of SOL staking reward at Scallop pool.
 * Part of token of from Scallop Decorations.
 
-SCA burning will be quarterly.
+If users return SCA and get back the token they staked, the return SCA will be burned too. The burning will be quarterly.
 
 
 
