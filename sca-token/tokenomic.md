@@ -4,7 +4,7 @@ description: About SCA
 
 # Tokenomic
 
-## **Scallop** token **\(SCA\)** model**：**
+## **Scallop** Token **\(SCA\)** Model**：**
 
 ![](https://lh6.googleusercontent.com/H2BEDZK0-kos6C4q84KveB4UJdJMSeWw6tHtaTpdZEJHRFetOPqv_0ttGlCXXcLOcahjmb0F860NjRdn9Cw9hGiKo8A12fpuS9RCMdd2_3oOZNQYbC9kX8-wQi_MuGGs0Sm0mGT-=s0)
 
