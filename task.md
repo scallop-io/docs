@@ -1,3 +1,7 @@
+---
+description: Win tokens and Scallop Decorations✨!
+---
+
 # Task 🏅
 
 We don’t want users to join us for months and get nothing so during the game users can carry out some tasks like:

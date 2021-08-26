@@ -1,5 +1,5 @@
 ---
-description: Join now to win tokens and decorations ✨!
+description: 'A DeFi game on Solana, stake to win tokens and NFTs✨!'
 ---
 
 # About Scallop 🦪✨
