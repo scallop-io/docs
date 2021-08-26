@@ -2,6 +2,7 @@
 
 * [About Scallop 🦪✨](README.md)
 * [Rules 👩‍🏫](rules.md)
+* [Task 🏅](task.md)
 * [Road Map 🗺](road-map.md)
 * [SPL Wallet](spl-wallet.md)
 
