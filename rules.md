@@ -41,7 +41,7 @@ You can see where the funds will go, our program will use them to earn rewards b
 
 
 
-We don’t want users to join us for months and get nothing so during the game: users can carry out some tasks like:
+We don’t want users to join us for months and get nothing so during the game users can carry out some tasks like:
 
 * Join 10 SOL pools over a month.
 * 
@@ -59,7 +59,7 @@ To win:
 
 
 
-Extra SPL token rewards will be the token minted by partnership projects, we will use SCA or Scallop Decorations to trade their tokens or NFTs.
+There will be 2 ~ 3 tasks that will be parallel at the same time. Extra SPL token rewards will be the token minted by partnership projects, we will use SCA or Scallop Decorations to trade their tokens or NFTs.
 
 
 
