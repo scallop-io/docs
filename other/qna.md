@@ -36,10 +36,12 @@ You can see where the funds will go, our program will use them to earn rewards b
 
 ### How does Scallop program choose winners randomly?
 
-We use Switchboard VRF which is a real random function on Solana and it will help our program to choose one \(or a few\) winner of each week  
+We use **Switchboard VRF** which is a real random function on Solana and it will help our program to choose one \(or a few\) winner of each week.
+
+By the way we also use **Switchboard Oracle** to get the prize of SPL tokens.  
 
 
-###  What are Scallop Decorations? Are they NFTs?
+### What are Scallop Decorations? Are they NFTs?
 
 You can say Scallop Decorations is an on-chain collectibles, it can be fungible tokens or NFTs.
 
