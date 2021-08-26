@@ -3,7 +3,6 @@
 * [About Scallop 🦪✨](README.md)
 * [Rules 👩‍🏫](rules.md)
 * [Task 🏅](task.md)
-* [Road Map 🗺](road-map.md)
 * [SPL Wallet](spl-wallet.md)
 
 ## Scallop Decorations
@@ -23,6 +22,7 @@
 
 ## other
 
+* [Road Map 🗺](other/road-map.md)
 * [FAQs 🎙](other/qna.md)
 * [Logo & Pictures 🎨](other/logo-and-pictures.md)
 * [Community 🎎](other/community.md)
