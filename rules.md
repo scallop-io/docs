@@ -14,10 +14,9 @@ After harvesting, one or a few winner\(s\) chosen by **Switchboard VRF** \(Verif
 
 There will be different tiers of pools with the different address limits, different SPL tokens to let users stake tokens, ex:
 
-* 100 SCA/1000 address
+* 10 SCA/1000 address
 * 100 RAY/1000 address
 * 10 SOL/1000 address
-* 100 SOL/100 address
 * 100 USDC/∞ address
 
 You can see where the funds will go, our program will use the fund of pools to earn rewards by:
