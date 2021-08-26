@@ -43,12 +43,12 @@ You can see where the funds will go, our program will use them to earn rewards b
 
 We don’t want users to join us for months and get nothing so during the game users can carry out some tasks like:
 
-* Join 10 SOL pools over a month.
+* Stake at some staking pools for over a month.
 * 
   Stake more than 10K SCA over two weeks.
 
 * 
-  Offer $100 values to SCA/USDC Liquidity pools over a month.
+  Offer $100 values to SCA/USDC Liquidity pools for a month.
 
 To win:
 
