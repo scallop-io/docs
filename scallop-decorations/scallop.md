@@ -12,7 +12,7 @@ Address : SeawdHf3NHG6gxCrezQxr5oJAHTLJd6JsQxxd144yaz
 Symbol : Seagrass  
 Name : Scallop Seagrass Decorations  
 Decimals : 0  
-Supply : 338 \(Unlimited\)  
+Supply : 438 \(Unlimited\)  
 Rarity : ★✰✰✰✰
 
 ![](../.gitbook/assets/seaweed-token.png)
