@@ -19,7 +19,7 @@ After harvesting, one or a few winner\(s\) chosen by **Switchboard VRF** \(Verif
 * 10 SOL/1000 address
 * 100 USDC/∞ address
 
-You can see where the funds will go, our program will use the fund of pools to earn rewards by:
+You can see where the funds will go, our program will use them to earn rewards by:
 
 * Stake SOL on Solana Validator.
 * 
@@ -35,9 +35,7 @@ You can see where the funds will go, our program will use the fund of pools to e
 
 * If users keep staking, they can harvest every week.
 * 
-  Users can get back the token they staked while they return SCA and the return SCA will be burned.
-
-
+  Users can get back the token they staked while they return SCA.
 
 ### **Tasks**🏅**：**
 
