@@ -20,15 +20,19 @@ We choose Solana because Solana is a super fast, high security, composability an
 
 ### How does Scallop program earn rewards with my tokens?
 
-Our program will use the pool 's fund to earn rewards from :
+You can see where the funds will go, our program will use them to earn rewards by:
 
-* Staking SOL on Solana Validator.
-* Lending at some lending project.
-* Liquidity mining at some liquidity pool.
+* Stake SOL on Solana Validator or other SOL staking projects.
+* 
+  Stake the SPL tokens which have their own staking program.
 
-You can see where the funds will go at our front-end and users might choose it in the future.
+* 
+  Lend to some lending projects.
 
+* 
+  Join some liquidity mining pool.
 
+### 
 
 ### How does Scallop program choose winners randomly?
 
