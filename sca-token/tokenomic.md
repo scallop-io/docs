@@ -27,7 +27,7 @@ description: About SCA
 
 * Max Supply ****240000000 SCA.
 * The total SCA mining reserve consists of 60%.
-* 40% of Market/Liquidity will be unlocked at the beginning, 60% will join the market quarterly for half and a year.
+* 40% of Market/Liquidity will be unlocked at the beginning, 10% will join the market quarterly.
 * Team tokens are locked on-chain with a cliff of 6 months and 1~3 year linear unlocking.
 
 #### SCA buyback \(SCA is a deflationary token\):
