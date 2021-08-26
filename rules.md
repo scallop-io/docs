@@ -10,7 +10,7 @@ Users can stake their tokens into Scallop Pools to grow scallops in Scallop Tank
 
 **Every Friday 20:00 \(GMT+8\) will be the harvest time**, users will have the qualification of harvesting after staking over 7 days.
 
-After harvesting, one or a few winner\(s\) chosen by **Switchboard VRF** \(Verified Random Functions\) will share out the reward SCA \(With the value of 93% staking reward\), 7% of staking reward will be kept in the staking pool and other will be SCA buyback.
+After harvesting, one or a few winner\(s\) chosen by **Switchboard VRF** \(Verified Random Functions\) will share out the reward SCA \(With the same value of 93% staking reward\), 7% of staking reward will be kept in the staking pool and other will be SCA buyback.
 
 There will be different tiers and address limits and different SPL token of pools to let users to stake tokens, ex:
 
