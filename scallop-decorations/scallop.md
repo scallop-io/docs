@@ -4,7 +4,7 @@ description: "Give me more Scallop Decorations\U0001F52A!"
 
 # Minted by Us
 
-#### Seagrass![:seedling:](https://discord.com/assets/38002403475def186f4b7ac64cc9d04f.svg) :
+#### Seagrass 🌱:
 
 Seagrass can reach heights of 200 feet \(60m\), which is as tall as a 20-story building🏢.
 
