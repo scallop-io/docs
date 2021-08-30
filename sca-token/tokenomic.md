@@ -1,5 +1,5 @@
 ---
-description: About SCA
+description: About SCA (Coming soon).
 ---
 
 # Tokenomic
