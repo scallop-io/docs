@@ -6,7 +6,7 @@ description: About SCA (Coming soon).
 
 ## **Scallop** Token **\(SCA\)** Model**：**
 
-![](https://lh6.googleusercontent.com/H2BEDZK0-kos6C4q84KveB4UJdJMSeWw6tHtaTpdZEJHRFetOPqv_0ttGlCXXcLOcahjmb0F860NjRdn9Cw9hGiKo8A12fpuS9RCMdd2_3oOZNQYbC9kX8-wQi_MuGGs0Sm0mGT-=s0)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 | **Allocation** | **Percentage** | **Number of Tokens**  |
 | :--- | ---: | ---: |
@@ -15,7 +15,7 @@ description: About SCA (Coming soon).
 | **Core Team** | **18.00%** | **43,200,000** |
 | **Investor** | **10.00%** | **24,000,000** |
 | **Market / Liquidity** | **5.00%** | **12,000,000** |
-| **Adviser** | **3.00%** | **7,200,000** |
+| **Advisor** | **3.00%** | **7,200,000** |
 | **Ecosystem / Community** | **2.50%** | **6,000,000** |
 | **Marine Conservation Group** | **1.00%** | **2,400,000** |
 | **Airdrop** | **0.50%** | **1,200,000** |
