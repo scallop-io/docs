@@ -4,7 +4,7 @@ description: Scallop NFTs! (Coming soon)
 
 # NFTs Decorations
 
-We will mint NFTs \(Non-Fungible Tokens\) by using **Metaplex**, and they are going to be Scallop Decorations too, like Scallop Hermit Crab NFTs.   
+We will mint NFTs \(Non-Fungible Tokens\) by using **Metaplex** with Solana NFT Metadata Standard, and they are going to be Scallop Decorations too, like Scallop Hermit Crab NFTs.   
   
 Each NFTs Decorations will have many different attributes which mean each of NFTs Decorations will be one and only.  
   
