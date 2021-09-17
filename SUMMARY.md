@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About Scallop 🦪✨](README.md)
+* [About Scallop 🦪🍴](README.md)
 * [Rules 👩‍🏫](rules.md)
 * [Task 🏅](task.md)
 * [SPL Wallet](spl-wallet.md)

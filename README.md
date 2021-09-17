@@ -2,7 +2,7 @@
 description: 'A DeFi game on Solana, stake to win tokens and NFTs✨!'
 ---
 
-# About Scallop 🦪✨
+# About Scallop 🦪🍴
 
 ## **What is Scallop?**
 
