@@ -6,7 +6,7 @@ description: Must read me before you join Scallop!
 
 ### Rules📋**：**
 
-Users can stake their tokens into Scallop Pools to grow scallops in Scallop Tank, while they stake tokens they will also get the same value of SCA \(Scallop Token\) of the token they stake. 
+Users can stake their tokens into Scallop Pools to grow scallops in Scallop Tank, while they stake tokens, they can get the same worth of Scallop Token \(SCA\) as the token they staked.
 
 **Every Friday 20:00 \(GMT+8\) will be the harvest time**, users will have the qualification of harvesting after staking over 7 days.
 
