@@ -26,5 +26,5 @@
 * [FAQs 🎙](other/qna.md)
 * [Community 🎎](other/community.md)
 * [Logo & Pictures 🎨](other/logo-and-pictures.md)
-* [White Paper🧾](other/white-paper.md)
+* [White Paper 🧾](other/white-paper.md)
 
