@@ -1,6 +1,4 @@
 # White Paper
 
-{% page-ref page="white-paper.md" %}
-
-
+Scallop White Paper : [https://doc.scallop.io/whitepaper.pdf](https://doc.scallop.io/whitepaper.pdf)
 
