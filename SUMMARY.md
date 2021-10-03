@@ -1,9 +1,9 @@
 # Table of contents
 
 * [About Scallop 🦪🍴](README.md)
-* [White Paper](white-paper.md)
 * [Rules 👩‍🏫](rules.md)
 * [Task 🏅](task.md)
+* [Road Map 🗺](road-map.md)
 * [SPL Wallet](spl-wallet.md)
 
 ## Scallop Decorations
@@ -23,8 +23,8 @@
 
 ## other
 
-* [Road Map 🗺](other/road-map.md)
 * [FAQs 🎙](other/qna.md)
-* [Logo & Pictures 🎨](other/logo-and-pictures.md)
 * [Community 🎎](other/community.md)
+* [Logo & Pictures 🎨](other/logo-and-pictures.md)
+* [White Paper🧾](other/white-paper.md)
 
