@@ -49,5 +49,5 @@ You can say Scallop Decorations is an on-chain collectibles, it can be fungible 
 
 ### Will there be a SCA airdrop? If yes, what is the airdrop condition?
 
-Well, there will be twice, we haven't set up our airdrop rules but it will not be filling google forms. Actually our core team love airdrops too but we want to have it without harming our tokenomic, so we will set a condition and limit for it.
+Well, there will be twice, we haven't set up our airdrop rules. Actually our core team love airdrops too but we want to have it without harming our token model, so we will set a condition and limit for it.
 
