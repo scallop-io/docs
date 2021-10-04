@@ -18,17 +18,23 @@ First Scallop Decorations \(Seagrass🌱\)
 
 Scallop Fossil 🗿
 
-SCA Airdrop 💸
-
-Scallop on Test-net
-
-SCA Token
-
 
 
 #### Q4 2021
 
-Scallop on Main-net🚀
+
+
+Scallop on Dev-net
+
+
+
+#### 2022
+
+SCA Airdrop 💸
+
+SCA Token
+
+Scallop on Main-net 🚀
 
 SCA Staking
 
@@ -36,19 +42,11 @@ SCA Swap, Liquidity Pools
 
 Scallop Nautilus \(Bidding\)
 
-
-
-#### Q1 2022
-
 Scallop NFTs Decorations
 
 SCA airdrop 2 💸
 
 Scallop Shop
-
-
-
-#### Q2 2022
 
 Vote with SCA
 
