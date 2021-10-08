@@ -4,15 +4,13 @@ description: Scallop NFTs! (Coming soon)
 
 # NFTs Decorations
 
-We will mint NFTs \(Non-Fungible Tokens\) by using **Metaplex** with Solana NFT Metadata Standard, and they are going to be Scallop Decorations too, like Scallop Hermit Crab NFTs.   
-  
-Each NFTs Decorations will have many different attributes which mean each of NFTs Decorations will be one and only.  
-  
-Total supply of each Scallop NFTs Decorations will be limited, we will sell them or let users bid them, part of income will be SCA buyback.  
-  
-\(Coming soon.\)
+We will mint NFTs \(Non-Fungible Tokens\) Decorations by using **Metaplex** with Solana NFT Metadata Standard, each NFTs Decorations will have many different attributes which means each of them will be one and only, total supply will be limited too.
 
 
 
+You can mint NFT decorations using SCA to buy a **NFT Decorations Egg**, it’s a kind of NFTs candy machine, the price will be a fixed price SCA.
 
+
+
+\(coming soon\)
 
