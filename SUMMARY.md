@@ -7,8 +7,8 @@
 
 ## Scallop Decorations
 
-* [About Decorations ✨](scallop-decorations/decorations.md)
-* [Illustrated Book](scallop-decorations/illustrated-book.md)
+* [Overview](scallop-decorations/decorations.md)
+* [Decorations✨](scallop-decorations/decorations-1.md)
 * [NFTs Decorations](scallop-decorations/scallop-nfts-decorations.md)
 * [Buy & Sell](scallop-decorations/buy-and-sell.md)
 

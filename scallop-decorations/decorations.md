@@ -4,7 +4,7 @@ description: >-
   Fungible Tokens or NFTs.
 ---
 
-# About Decorations ✨
+# Overview
 
 ### **What are Scallop Decorations?**
 
