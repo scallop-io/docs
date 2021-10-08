@@ -12,7 +12,7 @@ Address : SeawdHf3NHG6gxCrezQxr5oJAHTLJd6JsQxxd144yaz
 Symbol : Seagrass  
 Name : Scallop Seagrass Decorations  
 Decimals : 0  
-Supply : 438 \(Unlimited\)  
+Max Supply : 10000 \(Tentative\)  
 Rarity : ★✰✰✰✰
 
 ![](../.gitbook/assets/seaweed-token.png)
@@ -28,7 +28,7 @@ Serum Market ID : NF5PoXovc9wpWMPMrGeCQSmJRAEEUFCR3UZGVHTonf9
 Symbol : Fossil  
 Name : Scallop Fossil Decorations  
 Decimals : 0  
-Supply : 400 \(Limited\)  
+Max Supply : 400 \(Fixed\)  
 Rarity : ★★★★★
 
 ![](../.gitbook/assets/image%20%2816%29.png)
