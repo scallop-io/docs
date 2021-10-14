@@ -1,5 +1,5 @@
 ---
-description: "SCA to the moon\U0001F680!"
+description: SCA to the moon🚀!
 ---
 
 # Road Map 🗺
@@ -8,9 +8,9 @@ description: "SCA to the moon\U0001F680!"
 
 Scallop Born🎂
 
-Solana Season Hackathon🦾 \(**16th Place at Solana Season 🔥Hackathon Asia 2021.**\)
+Solana Season Hackathon🦾 (**16th Place at Solana Season 🔥Hackathon Asia 2021.**)
 
-First Scallop Decorations \(Seagrass🌱\)
+First Scallop Decorations (Seagrass🌱)
 
 
 
@@ -18,7 +18,9 @@ First Scallop Decorations \(Seagrass🌱\)
 
 Scallop Fossil 🗿
 
-Ignition 🔥 \| Solana Hackathon
+White Paper 📃
+
+Ignition 🔥 | Solana Hackathon
 
 
 
@@ -26,15 +28,17 @@ Ignition 🔥 \| Solana Hackathon
 
 
 
-Scallop on Dev-net
+Scallop on Dev-net 🧑‍💻
+
+Decorations Illustrated Book
 
 
 
-#### 2022
+#### H1 2022
+
+SCA Token Launch
 
 SCA Airdrop 💸
-
-SCA Token
 
 Scallop on Main-net 🚀
 
@@ -42,23 +46,14 @@ SCA Staking
 
 SCA Swap, Liquidity Pools
 
-Scallop Nautilus \(Bidding\)
-
-Scallop NFTs Decorations
-
-SCA airdrop 2 💸
-
-Scallop Shop
-
-Vote with SCA
+Scallop Decorations Eggs 🥚
 
 Decorations Market
 
-Decorations Illustrated Book
-
-Scallop Decorations Eggs 🥚
 
 
 
 
 
+
+
