@@ -10,7 +10,7 @@ description: >-
 
 
 
-In Scallop, if your address has some tokens , no matter these are Fungible Tokens or Non-Fungible Tokens \(NFTs\) which we listed, you can call them Scallop Decorations, it will be shown at Scallop tank and Interact with our game, which means **you can call Scallop a small on-chain collectibles ecosystem.**
+In Scallop, if your address has some tokens , no matter these are Fungible Tokens or Non-Fungible Tokens (NFTs) which we listed, you can call them Scallop Decorations, it will be shown at Scallop tank and Interact with our game, which means **you can call Scallop a small on-chain collectibles ecosystem.**
 
 The goal of Scallop Decorations will be On-chain collectibles, we want users to love collecting them like collecting Yugioh Cards, and holding some kinds of Scallop Decorations will have some benefit in Scallop app.
 
@@ -19,8 +19,8 @@ In Scallop, if your address has some tokens , no matter these are Fungible Token
 * Carry out tasks in Scallop.
 * We will give them away in some events in our community.
 * Users might get them in events which are hosted by our friendship projects.
-*  Buy them on **Serum** DEX UI.
-* There will be a **Decorations Market** \(Q2 2022\).
+*  Buy them on **Serum** DEX UI.
+* There will be a **Decorations Market** (Q2 2022).
 
 
 
@@ -28,12 +28,12 @@ Users can check the details of all Scallop Decorations on Solana Explorer and so
 
 Usage:
 
-*  Make your Scallop tank more beautiful and colorful .
+*  Make your Scallop tank more beautiful and colorful .
 * There will be an Illustrated book of Scallop Decorations. 
-* Holding some kinds of Scallop Decorations might let you get more extra tokens in events or staking pools.
+* Holding some kinds of Scallop Decorations might let you get more extra tokens in events.
 * We will note some trivia next to Scallop Decorations.
+* It will interact with our application.
 
 
 
-![](https://lh5.googleusercontent.com/Ne4FCSct0Mg-Dn4kEeoTCWx69Znekyqs4iDYmPy_gMz-aL5R9Tm_e8PmhI0AW0MkS_42r2kU8vxQnyM_ZSmki23cHA9yu8Cf04HzGEvf2ANADWWzm7hAq0Enqd7cYN88pDDkTjaJMc8)
-
+![](https://lh5.googleusercontent.com/Ne4FCSct0Mg-Dn4kEeoTCWx69Znekyqs4iDYmPy_gMz-aL5R9Tm_e8PmhI0AW0MkS\_42r2kU8vxQnyM_ZSmki23cHA9yu8Cf04HzGEvf2ANADWWzm7hAq0Enqd7cYN88pDDkTjaJMc8)
