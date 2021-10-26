@@ -1,20 +1,12 @@
 ---
-description: "Ask questions \U0001F64B‍♂️➡ https://discord.gg/Scallop"
+description: Ask questions 🙋‍♂️➡ https://discord.gg/Scallop
 ---
 
 # FAQs 🎙
 
-### Is Scallop a DeFi gaming project?
-
-You can say we're a DeFi gaming project or a no loss lottery project or even a NFTs project.  
-We are a way you can stake your SPL tokens to earn extra tokens and on-chain collectibles and NFTs.  
-The presentation of the front-end will be a gradual evolution in the beta version. At first, It will be like a DeFi project with simple animation, as time flows we will make it more like a 2D gaming project.
-
-
-
 ### **Why Solana?**
 
-We choose Solana because Solana is a super fast, high security, composability and decentralized blockchain and our team both think Solana will be a world computer and be a part of all humans life, just like we are all the witness of how internet entered our world, and it had changed everything. 
+We choose Solana because Solana is a super fast, high security, composability and decentralized blockchain and our team both think Solana will be a world computer and be a part of all humans life, just like we are all the witness of how internet entered our world, and it had changed everything.&#x20;
 
 
 
@@ -23,31 +15,33 @@ We choose Solana because Solana is a super fast, high security, composability an
 You can see where the funds will go, our program will use them to earn rewards by:
 
 * Stake SOL on Solana Validator or other SOL staking projects.
-* 
-  Stake the SPL tokens which have their own staking program.
+*
 
-* 
-  Lend to some lending projects.
+    Stake the SPL tokens which have their own staking program.
+*
 
-* 
-  Join some liquidity mining pool.
+    Lend to some lending projects.
+*
 
-### 
+    Join some liquidity mining pool.
+
+###
 
 ### How does Scallop program choose winners randomly?
 
-We use **Switchboard VRF** which is a real random function on Solana and it will help our program to choose one \(or a few\) winner of each week.
+We use **Switchboard VRF** which is a real random function on Solana and it will help our program to choose one (or a few) winner of each week.
 
-By the way we also use **Switchboard Oracle** to get the price of SPL tokens.  
+By the way we also use **Switchboard Oracle **to get the price of SPL tokens.\
 
 
 ### What are Scallop Decorations? Are they NFTs?
 
 You can say Scallop Decorations is an on-chain collectibles, it can be fungible tokens or NFTs.
 
+[Click ](broken-reference)to know more.
+
 
 
 ### Will there be a SCA airdrop? If yes, what is the airdrop condition?
 
 Well, there will be twice, we haven't set up our airdrop rules. Actually our core team love airdrops too but we want to have it without harming our token model, so we will set a condition and limit for it.
-
