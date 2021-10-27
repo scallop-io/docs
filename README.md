@@ -10,4 +10,6 @@ Scallop is a no loss lottery on Solana, users can stake their tokens in Scallop 
 
 At the end of each week, one or a few winner(s) chosen by program randomly will share out some SCA as the staking reward. During the game users can win tokens and Scallop Decorations by carrying out some tasks✨!
 
+Linktree🌲 : https://linktr.ee/scallop\_io
+
 ![](.gitbook/assets/scallop-feng-mian-0926.png)
