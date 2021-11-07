@@ -1,5 +1,5 @@
 ---
-description: A DeFi game on Solana, stake to win tokens and NFTs✨!
+description: A no loss lottery on Solana, stake to win tokens and NFTs✨!
 ---
 
 # About Scallop 🦪🍴
