@@ -8,7 +8,6 @@ description: What can SCA do?
 
 SCA token is designed to shift towards governance, we are focusing on some interesting voting projects on Solana, once ready, we will shift governance to token holders.
 
-* Treasury Usage
 * Scallop Improvements
 * Set up new SPL token tank
 
@@ -26,5 +25,4 @@ You can buy some kinds of Scallop Decorations and Scallop NFTs Decorations with 
 
 
 
- 
-
+&#x20;

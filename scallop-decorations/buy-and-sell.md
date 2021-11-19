@@ -9,7 +9,7 @@ Now you can trade Scallop Fossil Decorations on CATO DEX: [https://www.catodex.c
 {% endhint %}
 
 This guide takes you through you how to trade Scallop Decorations on Serum DEX,\
-We will use official Serum Dex to be our Serum DEX, and try to add Fossil/USDC pair .\
+We will use the official Serum Dex to be our Serum DEX, and try to add Fossil/USDC pair .\
 
 
 Visit Serum Dex and Click this "+".
@@ -18,7 +18,7 @@ Visit Serum Dex and Click this "+".
 
 
 
-Fill in the form with these text.
+Fill in the form with this text.
 
 \
 Market id : NF5PoXovc9wpWMPMrGeCQSmJRAEEUFCR3UZGVHTonf9\

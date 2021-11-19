@@ -6,24 +6,24 @@ description: About SCA (Coming soon).
 
 ## **Scallop **Token **(SCA) **Model**：**
 
-![](<../.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/螢幕擷取畫面 2021-11-19 173638.png>)
 
-| **Allocation**                | **Percentage** | **Number of Tokens ** |
-| ----------------------------- | -------------: | --------------------: |
-| **Gaming Reward**             |     **30.00%** |        **72,000,000** |
-| **Staking Reward**            |     **30.00%** |        **72,000,000** |
-| **Core Team**                 |     **18.00%** |        **43,200,000** |
-| **Investor**                  |     **10.00%** |        **24,000,000** |
-| **Market / Liquidity**        |      **5.00%** |        **12,000,000** |
-| **Advisor**                   |      **3.00%** |         **7,200,000** |
-| **Ecosystem / Community**     |      **2.50%** |         **6,000,000** |
-| **Marine Conservation Group** |      **1.00%** |         **2,400,000** |
-| **Airdrop**                   |      **0.50%** |         **1,200,000** |
-| **Total**                     |    **100.00%** |       **240,000,000** |
+| **Allocation**                        | **Percentage** | **Number of Tokens ** |
+| ------------------------------------- | -------------: | --------------------: |
+| **Gaming Reward**                     |     **30.00%** |        **72,000,000** |
+| **Staking Reward**                    |     **30.00%** |        **72,000,000** |
+| **Core Team**                         |     **18.00%** |        **43,200,000** |
+| **Investor**                          |     **10.00%** |        **24,000,000** |
+| **Liquidity**                         |      **4.00%** |         **9,600,000** |
+| **Ecosystem / Community / Marketing** |      **3.50%** |         **8,400,000** |
+| **Advisor**                           |      **3.00%** |         **7,200,000** |
+| **IDO**                               |      **1.00%** |         **2,400,000** |
+| **Airdrop**                           |      **0.50%** |         **1,200,000** |
+| **Total**                             |    **100.00%** |       **240,000,000** |
 
 ####
 
-#### The basic SCA token model are**：**
+#### The basic SCA token model is**：**
 
 * SCA is a **deflationary token.**
 * Max Supply** 240000000 SCA**.

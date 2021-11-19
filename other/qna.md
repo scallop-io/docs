@@ -6,7 +6,7 @@ description: Ask questions 🙋‍♂️➡ https://discord.gg/Scallop
 
 ### **Why Solana?**
 
-We choose Solana because Solana is a super fast, high security, composability and decentralized blockchain and our team both think Solana will be a world computer and be a part of all humans life, just like we are all the witness of how internet entered our world, and it had changed everything.&#x20;
+We choose Solana because Solana is a super fast, high security, composability, and decentralized blockchain, Scallop team think Solana will be a world computer and be a part of all humans life, just like we are all the witness of how the internet entered our world, and it had changed everything.&#x20;
 
 
 
@@ -29,19 +29,19 @@ You can see where the funds will go, our program will use them to earn rewards b
 
 ### How does Scallop program choose winners randomly?
 
-We use **Switchboard VRF** which is a real random function on Solana and it will help our program to choose one (or a few) winner of each week.
+We use **Switchboard VRF** which is a real random function on Solana and it will help our program to choose one (or a few) winners of each week.
 
-By the way we also use **Switchboard Oracle **to get the price of SPL tokens.\
+By the way, we also use **Switchboard Oracle **to get the price of SPL tokens.\
 
 
 ### What are Scallop Decorations? Are they NFTs?
 
-You can say Scallop Decorations is an on-chain collectibles, it can be fungible tokens or NFTs.
+You can say Scallop Decorations is an on-chain collectible, it can be fungible tokens or NFTs.
 
 [Click ](broken-reference)to know more.
 
 
 
-### Will there be a SCA airdrop? If yes, what is the airdrop condition?
+### Will there be an SCA airdrop? If yes, what is the airdrop condition?
 
-Well, there will be twice, we haven't set up our airdrop rules. Actually our core team love airdrops too but we want to have it without harming our token model, so we will set a condition and limit for it.
+Well, there will be twice, we haven't set up our airdrop rules. Actually, Scallop team loves airdrops too but we want to have it without harming our token model, so we will set a condition and limit for it.
