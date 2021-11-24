@@ -10,6 +10,7 @@ SCA token is designed to shift towards governance, we are focusing on some inter
 
 * Scallop Improvements
 * Set up new SPL token tank
+* New Scallop Decorations
 
 **Liquidity Mining**
 

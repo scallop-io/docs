@@ -6,38 +6,31 @@ description: Must read me before you join Scallop!
 
 ### Rules📋**：**
 
-Users can stake their tokens into Scallop Pools to grow scallops in Scallop Tank, while they stake tokens, they can get the same worth of Scallop Token (SCA) as the token they staked.
+Users can deposit their tokens into Scallop Pools to grow scallops in Scallop Tank and join the no loss lottery, while they deposit tokens, they can get the same worth of Scallop USDC (sUSDC) as the token they deposited.
 
-**Every Friday 20:00 (GMT+8) will be the harvest time**, users will have the qualification of harvesting after staking over 7 days.
+Every Friday 20:00 (GMT+8) will be the harvest time, users will have the qualification of harvesting after staking over 7 days.
 
-After harvesting, one or a few winner(s) chosen by** Switchboard VRF** (Verified Random Functions) will share out the reward SCA (With the same value of 93% staking reward), 7% of the staking reward will be kept in the staking pool and other will be SCA buyback.
+After harvesting, winners chosen by Switchboard VRF will share out the reward SCA (With the same value of 93% staking reward), and 7% of the lottery reward will be kept in the Scallop Pool.
 
-There will be different tiers of pools with different address limits, different SPL tokens to let users stake tokens, ex:
+We will set a ticket price, like 100 USDC pool, 1 SOL pool, etc. Users can buy more than 1 ticket at one Scallop Pool. The number of winners amount will be 1/1000 of the total address amount.
 
-* 10 SCA/1000 address
-* 100 RAY/1000 address
-* 10 SOL/1000 address
-* 100 USDC/∞ address
+There will be different tiers of Scallop Pools with accepting different SPL tokens, different tokens amounts, different earning ways, ex:
 
-You can see where the funds will go, our program will use them to earn rewards by:
+* 10 SOL to stake at Marinade.
+* &#x20;100 RAY to stake at Raydium.&#x20;
+* 100 USDC to lend at Jet Protocol.&#x20;
+* 100 USDT to do LP mining at ORCA.
 
-* Stake SOL on Solana Validator.
-*
+You can see where the Scallop Pools fund will go, our program will use them to earn rewards by:
 
-    Stake SPL tokens.
-*
-
-    Lend to some lending projects.
-*
-
-    Join some liquidity mining pool.
+* Stake SOL on Solana Validator or other SOL staking protocols.&#x20;
+* Stake the SPL tokens which have their own staking program.&#x20;
+* Lend at some lending protocols.&#x20;
+* Join some liquidity mining pools (Especially stable pools).
 
 #### Notice🔎**：**
 
-* If users keep staking, they can harvest every week.
-*
-
-    Users can get back the token they staked while they return SCA.
+* If users want to leave the Scallop Pool (Withdraw), they can choose to leave immediately and it will cost some fee, or they can leave after the next harvesting and he can’t be the winner in the week of leaving.
 
 
 

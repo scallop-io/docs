@@ -4,23 +4,20 @@ description: Win tokens and Scallop Decorations✨!
 
 # Task 🏅
 
-We don’t want users to join us for months and get nothing so during the game users can carry out some tasks like:
+During the participation, users can carry out some tasks to win some prizes because we won’t let users join us for a long time and win nothing
 
-* Stake at some staking pools for over a month.
-*
+Users can carry out some tasks such as:
 
-    Stake more than 10K SCA over two weeks.
-*
-
-    Offer $100 values to SCA/USDC Liquidity pools for a month.
+* Join some Scallop Pools and didn't leave there for over a time.&#x20;
+* Deposit more than the number of tokens we set in the event.&#x20;
+* Offer $1000 values locked to SCA/USDC Liquidity pools for a time.
 
 To win:
 
-* Scallop Decorations
-* Extra SPL tokens
 * SCA
-* NFTs
+* Scallop Decorations
+* Decorations Egg
 
 
 
-There will be 2 \~ 3 tasks that will be parallel at the same time. Extra SPL token rewards will be the token minted by partnership projects, we will use SCA or Scallop Decorations to trade their tokens or NFTs.
+There will be 2 \~ 3 tasks that will be parallel at the same time.

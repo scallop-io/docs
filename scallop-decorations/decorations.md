@@ -20,19 +20,11 @@ In Scallop, if your address has some tokens, no matter these are Fungible Tokens
 * We will give them away at some events in our community.
 * Users might get them in events hosted by our friendship projects.
 *  Buy them on **Serum** DEX UI.
-* There will be a **Decorations Market** (Q2 2022).
+* There will be a **Decorations Market**.
 
 
 
 Users can check the details of all Scallop Decorations on Solana Explorer and some kinds of Scallop Decorations are unlimited but we won't mint it without any announcement, unlimited Scallop Decorations might be limited in the future.
-
-Usage:
-
-*  Make your Scallop tank more beautiful and colorful.
-* There will be an Illustrated book of Scallop Decorations.&#x20;
-* Holding some kinds of Scallop Decorations might let you get more extra tokens in events.
-* We will note some trivia next to Scallop Decorations.
-* It will interact with our application.
 
 
 
