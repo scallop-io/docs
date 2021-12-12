@@ -6,7 +6,7 @@ description: Must read me before you join Scallop!
 
 ### Rules📋**：**
 
-Users can deposit their tokens into Scallop Pools to grow scallops in Scallop Tank and join the no loss lottery, while they deposit tokens, they can get the same worth of Scallop USDC (sUSDC) as the token they deposited.
+Users can deposit their tokens into Scallop Pools to grow scallops in Scallop Tank and join the no loss lottery, while deposit tokens users will get the same worth of Scallop Wrapped Token (such as sUSDC, sSOL, sUSDT.), the amount will be the same amount with the token they deposited.
 
 Every Friday 20:00 (GMT+8) will be the harvest time, users will have the qualification of harvesting after staking over 7 days.
 
