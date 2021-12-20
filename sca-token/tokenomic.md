@@ -6,7 +6,7 @@ description: About SCA (Coming soon).
 
 ## **Scallop** Token **(SCA)** Model**：**
 
-![](<../.gitbook/assets/Scallop Whiteboard.png>)
+![](../.gitbook/assets/scatoken.png)
 
 |                                   | Percent |            SCA |
 | --------------------------------- | ------: | -------------: |

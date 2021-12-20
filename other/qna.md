@@ -31,7 +31,7 @@ You can see where the funds will go, our program will use them to earn rewards b
 
 We use **Switchboard VRF** which is a real random function on Solana and it will help our program to choose one (or a few) winners of each week.
 
-By the way, we also use **Switchboard Oracle **to get the price of SPL tokens.\
+By the way, we also use **Switchboard Oracle** to get the price of SPL tokens.\
 
 
 ### What are Scallop Decorations? Are they NFTs?
