@@ -10,9 +10,10 @@
 * [Overview](scallop-decorations/decorations.md)
 * [Decorations✨](scallop-decorations/decorations-1.md)
 * [NFTs Decorations](scallop-decorations/scallop-nfts-decorations.md)
+* [Usage](scallop-decorations/usage.md)
 * [Buy & Sell](scallop-decorations/buy-and-sell.md)
 
-## Scallop Token \(SCA\) <a id="sca-token"></a>
+## Scallop Token (SCA) <a href="#sca-token" id="sca-token"></a>
 
 * [Tokenomic](sca-token/tokenomic.md)
 * [Token Utility](sca-token/token-utility.md)
@@ -26,4 +27,3 @@
 * [Community 🎎](other/community.md)
 * [Logo & Pictures 🎨](other/logo-and-pictures.md)
 * [White Paper 🧾](other/white-paper.md)
-
