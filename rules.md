@@ -6,11 +6,9 @@ description: Must read me before you join Scallop!
 
 ### Rules📋**：**
 
-Users can deposit their tokens into Scallop Pools to grow scallops in Scallop Tank and join the no loss lottery, while deposit tokens users will get the same worth of Scallop Wrapped Token (such as sUSDC, sSOL, sUSDT.), the amount will be the same amount with the token they deposited.
+Users can deposit their tokens into Scallop Pools to grow scallops in Scallop tank and join the no-loss lottery, our program will use the deposited tokens to do staking/lending/liquidity mining to earn the lottery reward.
 
-Every Friday 20:00 (UTC+8) will be the harvest time, users will have the qualification to join the no-loss lottery after staking over 7 days.
-
-After harvesting, winners chosen by Switchboard VRF (Verified Random Functions) will share out the reward SCA (With the same value of 93% staking reward), and 7% of the lottery reward will be kept in the Scallop Pool.
+Every Friday 20:00 (UTC+8) will be the harvest time, winners chosen by **Switchboard VRF** (Verified Random Functions) will share out the reward (With the same value of 93% staking reward), and 7% of the lottery reward will be kept in the Scallop Pool.
 
 Users can deposit any amount of SOL or SPL tokens, every time the deposit amount changes, users need to wait for another 7 days to join the lottery, the winning rate is the same as his tokens be deposited in the percentage of the pool token.
 
