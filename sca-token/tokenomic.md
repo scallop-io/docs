@@ -21,7 +21,6 @@ description: About SCA (Coming soon).
 
 #### The basic SCA token model is**：**
 
-* SCA is a deflationary token.
 * &#x20;Initial Circulating Supply 15,625,000 SCA.&#x20;
 * Max Supply 250,000,000 SCA.&#x20;
 * Team tokens are locked on-chain with a cliff of 1\~2 years and 2\~3 year linear unlocking.

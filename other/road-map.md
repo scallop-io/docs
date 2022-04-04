@@ -4,56 +4,23 @@ description: SCA to the moon🚀!
 
 # Road Map 🗺
 
-#### Q2 2021
+#### Q2 2022
 
-Scallop Born🎂
+* Mainnet Launch&#x20;
+* Scallop IDO
+* Scallop Token (SCA)
+* Hermit Crab NFTs
+* Home Page V2
 
-Solana Season Hackathon🦾 (**16th Place at Solana Season 🔥Hackathon Asia 2021.**)
+#### Q3 2022
 
-First Scallop Decorations (Seagrass🌱)
+* Scallop Swap
+* SCA Staking
+* Decorations Staking
+* More Scallop pools
 
+#### Q4 2022
 
-
-#### Q3 2021
-
-Scallop Fossil 🗿
-
-White Paper 📃
-
-Ignition 🔥 | Solana Hackathon
-
-
-
-#### Q4 2021
-
-
-
-Scallop on Dev-net 🧑‍💻
-
-Decorations Illustrated Book
-
-
-
-#### H1 2022
-
-SCA Token Launch
-
-SCA Airdrop 💸
-
-Scallop on Main-net 🚀
-
-SCA Staking
-
-SCA Swap, Liquidity Pools
-
-Scallop Decorations Eggs 🥚
-
-Decorations Market
-
-
-
-
-
-
-
-
+* Scallop Pool V2
+* Scallop DAO
+* Scallop Tamagotchi

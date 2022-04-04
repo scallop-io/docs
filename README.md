@@ -6,9 +6,9 @@ description: A no loss lottery on Solana, stake to win tokens and NFTs✨!
 
 ## **What is Scallop?**
 
-Scallop is a no-loss lottery on Solana, users can deposit their tokens in Scallop pools to grow scallops in Scallop tank, our program will use the deposited tokens to do staking/lending/liquidity mining to earn the lottery reward.
+Scallop is a diverse no-loss lottery protocol on Solana, users can deposit their tokens in Scallop pools to grow scallops in Scallop tank, our program will use the deposited tokens to do staking/lending/liquidity mining to earn the lottery reward.
 
-At the end of each week, winners randomly chosen by Scallop on-chain program will share out the rewards. During the participation, users can win tokens and Scallop Decorations by carrying out some tasks✨!
+Every day Scallop program will chose winners randomly and they can share out the rewards. During the participation, users can win tokens and Scallop Decorations✨!
 
 In the early stage, Scallop will be more close to a no-loss lottery protocol with unique NFTs, we will let it be a play-to-earn Defi game in the future step by step.
 
