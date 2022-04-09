@@ -1,8 +1,11 @@
 # Table of contents
 
 * [About Scallop 🦪🍴](README.md)
-* [Rules 👩‍🏫](rules.md)
-* [Task 🏅](task.md)
+
+## Scallop Pools
+
+* [Rules](scallop-pools/rules.md)
+* [Earning Ways](scallop-pools/earning-ways.md)
 
 ## Scallop Decorations
 
@@ -22,7 +25,6 @@
 ## other
 
 * [Road Map 🗺](other/road-map.md)
-* [FAQs 🎙](other/qna.md)
 * [Community 🎎](other/community.md)
 * [Logo & Pictures 🎨](other/logo-and-pictures.md)
 * [White Paper 🧾](other/white-paper.md)

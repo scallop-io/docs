@@ -4,9 +4,9 @@ description: Give me more Scallop Decorations🔪!
 
 # Decorations✨
 
-#### Seagrass 🌱:
+### Seagrass Decorations🌱:
 
-![](../.gitbook/assets/seaweed-token.png)
+![](../.gitbook/assets/seagrass.png)
 
 Seagrass can reach heights of 200 feet (60m), which is as tall as a 20-story building🏢.
 
@@ -20,9 +20,9 @@ Rarity : ★✰✰✰✰
 
 ####
 
-#### Scallop Fossil 🗿:
+### &#x20;Fossil**Decorations** 🗿:
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/fossil (2).png>)
 
 There were archaeologists found Scallop fossils on Mount Everest🏔!
 
@@ -33,3 +33,16 @@ Name : Scallop Fossil Decorations\
 Decimals : 0\
 Max Supply : 400 (Fixed)\
 Rarity : ★★★★★
+
+### **Moray Decorations**
+
+![](../.gitbook/assets/moray.png)
+
+Moray eels have two jawbones, after finding the target, the eel will bite it and the second jaw will jump out of the throat, and then drag the food into their stomach 💀!&#x20;
+
+Address : MoraycScyx4PNYbecRjnw3qXiC6syZkQRH9PoWUoioL \
+****Symbol : Moray \
+Name : Scallop Moray Decorations \
+Decimals : 0 \
+Current Supply : ? \
+Rarity : ★★★✰✰

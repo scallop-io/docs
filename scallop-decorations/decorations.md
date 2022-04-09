@@ -10,21 +10,14 @@ description: >-
 
 
 
-In Scallop, if your address has some tokens, no matter these are Fungible Tokens or Non-Fungible Tokens (NFTs) which we listed, you can call them Scallop Decorations, it will be shown at Scallop tank and Interact with our game, which means **you can call Scallop a small on-chain collectibles ecosystem.**
-
-The goal of Scallop Decorations will be On-chain collectibles, we want users to love collecting them like collecting Yugioh Cards, and holding some kinds of Scallop Decorations will have some benefit in Scallop app.
+In Scallop, we will list some ocean theme NFTs with Metaplex standard, it will not only include the Scallop minted NFTs, we call them Scallop Decorations, its goal is useful on-chain collectibles, they will be shown at Scallop Tank and interact with our protocol, which means you can say Scallop Decorations is a small on-chain collectibles ecosystem.
 
 How do users get them:
 
-* Carry out tasks at Scallop.
-* We will give them away at some events in our community.
-* Users might get them in events hosted by our friendship projects.
-*  Buy them on **Serum** DEX UI.
-* There will be a **Decorations Market**.
-
-
-
-Users can check the details of all Scallop Decorations on Solana Explorer and some kinds of Scallop Decorations are unlimited but we won't mint it without any announcement, unlimited Scallop Decorations might be limited in the future.
+* Carry out some tasks in Scallop protocol.&#x20;
+* We will give them away at some events in our community.&#x20;
+* Users might get them at events hosted by our friendship projects.&#x20;
+* Buy them on Scallop or Serum DEX or Metaplex market.
 
 
 

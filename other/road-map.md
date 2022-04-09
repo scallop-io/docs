@@ -6,18 +6,18 @@ description: SCA to the moon🚀!
 
 #### Q2 2022
 
-* Mainnet Launch&#x20;
-* Scallop IDO
-* Scallop Token (SCA)
+* Mainnet Launch
 * Hermit Crab NFTs
-* Home Page V2
+* Landing Page V2
+* Scallop IDO
 
 #### Q3 2022
 
+* Scallop Token (SCA)
 * Scallop Swap
-* SCA Staking
-* Decorations Staking
-* More Scallop pools
+* SCA & Decorations Staking
+
+
 
 #### Q4 2022
 
