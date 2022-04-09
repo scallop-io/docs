@@ -32,6 +32,8 @@ We will also let Scallop Pools earn the interest by staking some SPL tokens whic
 
 It will also make Scallop protocol to be a unique Defi lego layer, you can also call it an extention layer.
 
+### ****
+
 ### **Liquidity Mining**
 
 We will also join liquidity pools to earn rewards, but there will be impermanent loss during liquidity mining, so we prefer some stable pools like:
