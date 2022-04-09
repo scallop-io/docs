@@ -1,5 +1,5 @@
 ---
-description: A no loss lottery on Solana, stake to win tokens and NFTs✨!
+description: A diverse no-loss protocol with ocean theme on-chain collectibles and NFTs.
 ---
 
 # About Scallop 🦪🍴
