@@ -34,7 +34,9 @@ Decimals : 0\
 Max Supply : 400 (Fixed)\
 Rarity : ★★★★★
 
-### **Moray Decorations**
+
+
+### **Moray Decorations** 🐍
 
 ![](../.gitbook/assets/moray.png)
 
