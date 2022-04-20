@@ -23,4 +23,4 @@ description: SCA to the moon🚀!
 
 * Scallop Pool V2
 * Scallop DAO
-* Scallop Tamagotchi
+* Scallop Tank V2
