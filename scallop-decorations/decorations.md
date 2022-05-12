@@ -10,7 +10,7 @@ description: >-
 
 
 
-In Scallop, we will list some ocean theme NFTs with Metaplex standard, it will not only include the Scallop minted NFTs, we call them Scallop Decorations, its goal is useful on-chain collectibles, they will be shown at Scallop Tank and interact with our protocol, which means you can say Scallop Decorations is a small on-chain collectibles ecosystem.
+In Scallop, we will list some ocean theme NFTs called Scallop Decorations, its goal is useful on-chain collectibles, they will be shown at Scallop Tank and interact with our protocol, which means you can say Scallop Decorations is a small on-chain collectibles ecosystem.
 
 How do users get them:
 
