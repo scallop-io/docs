@@ -28,4 +28,3 @@
 * [Road Map 🗺](other/road-map.md)
 * [Community 🎎](other/community.md)
 * [Logo & Pictures 🎨](other/logo-and-pictures.md)
-* [White Paper 🧾](other/white-paper.md)
