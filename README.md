@@ -20,4 +20,4 @@ We are going to create ocean-themed tokens and NFTs to be unique on-chain collec
 
 We think Scallop protocol will have a huge opportunity to take a part in the Defi market and have its own community, and we are not only going to make an attractive Defi protocol but also going to create an ocean-themed brand just like another Quiksilver or Billabong but in web3 version, spread blockchain technology, Solana, Web3, Defi, and no-loss protocol to the whole world.
 
-![](<.gitbook/assets/image (21).png>)![](<.gitbook/assets/image (20).png>)
+![](<.gitbook/assets/image (21).png>)
