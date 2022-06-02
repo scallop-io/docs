@@ -1,3 +1,7 @@
+---
+description: 2022.06.02 wrote by Kriss | Scallop
+---
+
 # Preface
 
 Smart Contract and Defi technology have been growing very fast since 2014 when Ethereum was released. In 2019, many Defi projects were announced and it affected the financial concept of all humans, it has made a great impact on the traditional concept of finance around the world. Meanwhile, NFTs walk into people's lives too, and there is a lot of potential in the usage of it in many aspects, it can be used to represent things including photos, videos, audio, and other types of digital assets.
