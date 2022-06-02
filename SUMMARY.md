@@ -1,6 +1,7 @@
 # Table of contents
 
-* [About Scallop 🦪🍴](README.md)
+* [Vision](README.md)
+* [About Scallop 🦪🍴](<README (1).md>)
 
 ## Scallop Pools
 
