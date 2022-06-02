@@ -19,3 +19,5 @@ Common Defi protocols webpages are often overwhelmed with digits and numbers and
 We are going to create ocean-themed tokens and NFTs to be unique on-chain collectibles as the extra protocol rewards, and it would be like Pokemon Cards or action figures, users can see them while they are visiting our site, and it can increase the application stickiness by making them feel like they are checking their collection cabinet, and our NFTs will also interact with our protocol, making Scallop be like a small Web3 NFTs project.
 
 We think Scallop protocol will have a huge opportunity to take a part in the Defi market and have its own community, and we are not only going to make an attractive Defi protocol but also going to create an ocean-themed brand just like another Quiksilver or Billabong but in web3 version, spread blockchain technology, Solana, Web3, Defi, and no-loss protocol to the whole world.
+
+![](<.gitbook/assets/image (21).png>)![](<.gitbook/assets/image (20).png>)
