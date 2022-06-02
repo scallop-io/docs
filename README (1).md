@@ -12,6 +12,9 @@ Scallop is a diverse no-loss protocol on Solana blockchain, it is a finance stra
 
 During the participation, users have chances to win extra tokens and Scallop NFTs by carrying out some tasks. We called Scallop NFTs "Scallop Decorations", it's like a small NFTs ecosystem, and Scallop Decorations will show up in Scallop Tank and interact with Scallop protocol.
 
-Linktree🌲 : [https://linktr.ee/scallop\_io](https://linktr.ee/scallop\_io)
+Linktree🌲 : [https://linktr.ee/scallop\_io](https://linktr.ee/scallop\_io)\
+\
+Dapp (Devnet online only): [https://app.scallop.io/](https://app.scallop.io/) \
+Dapp intro: [https://scallopio.medium.com/how-to-use-scallop-on-solana-devnet-57d4f8e85365](https://scallopio.medium.com/how-to-use-scallop-on-solana-devnet-57d4f8e85365)
 
 ![](.gitbook/assets/scallop-feng-mian-0926.png)
