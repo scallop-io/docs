@@ -20,7 +20,7 @@ Rarity : ★✰✰✰✰
 
 ####
 
-### &#x20;Fossil **Decorations** 🗿:
+### &#x20;Fossil**Decorations** 🗿:
 
 ![](<../.gitbook/assets/fossil (2).png>)
 
