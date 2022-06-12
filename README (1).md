@@ -12,7 +12,7 @@ Scallop is a diverse no-loss protocol on Solana, it is a finance strategy that c
 
 Scallop has a unique user dashboard and NFTs called Scallop Tank and Scallop Decorations, it's like a small NFTs ecosystem, and Scallop Decorations will show up in Scallop Tank and interact with Scallop protocol.
 
-Most of Scallop's team members are in Taiwan, they joined several Solana hackathons and did well in the Asia region, in Solana Ignition Asia they got the highest community vote in over 40 projects. Scallop launched their Devnet beta in April 2022, and the Mainnet launching will be soon.
+Most of Scallop's team members are in Taiwan, they joined several Solana hackathons and did well in the Asia region. In Solana Ignition Asia, they got the highest community vote in over 40 projects. Scallop launched their Devnet beta in April 2022, and the Mainnet launching will be soon.
 
 Linktree🌲 : [https://linktr.ee/scallop\_io](https://linktr.ee/scallop\_io)\
 \
