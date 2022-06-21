@@ -1,5 +1,5 @@
 ---
-description: 2022.06.02 wrote by Kriss | Scallop
+description: by Kriss | Scallop
 ---
 
 # Preface
