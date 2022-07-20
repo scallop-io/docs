@@ -6,21 +6,17 @@ description: SCA to the moon🚀!
 
 #### Q2 2022
 
-* Mainnet Launch
-* Hermit Crab NFTs
-* Landing Page V2
-* Scallop IDO
+* Devnet Beta&#x20;
+* Hackathon 3.0
 
 #### Q3 2022
 
-* Scallop Token (SCA)
-* Scallop Swap
-* SCA & Decorations Staking
+* Fossil NFTs&#x20;
+* Scallop Tools
+* Scallop Mainnet
 
 
 
 #### Q4 2022
 
-* Scallop Pool V2
-* Scallop DAO
-* Scallop Tank V2
+* Scallop Swap
