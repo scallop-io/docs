@@ -6,7 +6,6 @@
 ## Scallop Pools
 
 * [Rules](scallop-pools/rules.md)
-* [Earning Ways](scallop-pools/earning-ways.md)
 * [FAQs](scallop-pools/faqs.md)
 
 ## Scallop Decorations
