@@ -12,6 +12,6 @@ Users can deposit any amount of SOL or SPL tokens, every time the deposit amount
 
 There will be different Scallop Pools with accept different tokens and different earning ways, you can see where the Scallop Pools fund will go, ex:
 
-* USDC no-loss lottery by deposit USDC to lend USDC at **Solend.**
-* SOL no-loss lottery by deposit SOL to stake at **Marinade**.
+* USDC no-loss pool by deposit USDC to lend USDC at **Solend.**
+* SOL no-loss pool by deposit SOL to stake at **Marinade**.
 
