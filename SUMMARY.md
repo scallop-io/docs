@@ -7,6 +7,7 @@
 
 * [Rules](scallop-pools/rules.md)
 * [Earning Ways](scallop-pools/earning-ways.md)
+* [FAQs](scallop-pools/faqs.md)
 
 ## Scallop Decorations
 
@@ -19,8 +20,6 @@
 ## Scallop Token (SCA) <a href="#sca-token" id="sca-token"></a>
 
 * [Tokenomic](sca-token/tokenomic.md)
-* [Token Utility](sca-token/token-utility.md)
-* [Staking](sca-token/staking.md)
 * [Mint Address](sca-token/mint-token-address.md)
 
 ## other
