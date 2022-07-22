@@ -14,8 +14,7 @@ no loss protocol is a kind of smart contract that makes the fund pools use lendi
 
 Pooltogether inspires Scallop a lot, the problems both we solve for no-loss protocols, which traditional finance and Web 2.0 can't are third-party verification and verification randomness, and we build on Solana even solve the issues that other no-loss protocols are facing including high Gas fee and slow transaction, they make other no-loss protocols still not perfect due to it still cost a lot for most of the people and the funds are also not flexible.
 
-We think no-loss protocols are a new financial management strategy. The difference between no-loss protocol and lending, staking, liquidity mining, and options protocols is it could promise there's no principal loss while maximizing the potential yield. Meanwhile, we also found there are no apparent no-loss protocols competitors running or close to launching on Solana Mainnet.\
-
+We think no-loss protocols are a new financial management strategy. The difference between no-loss protocol and lending, staking, liquidity mining, and options protocols is it could promise there's no principal loss while maximizing the potential yield. Meanwhile, we also found there are no apparent no-loss protocols competitors running or close to launching on Solana Mainnet.
 
 Common DeFi protocols webpages are often overwhelmed with digits and numbers and make them lacking in warmness, it's hard to increase the app user’s stickiness because it doesn’t create a connection between protocols and users. We think we can build a new type of DeFi protocol, the core product is a no-loss protocol and combines a unique ocean-themed NFTs ecosystem on it, making Scallop become an enthusiasm protocol, and also make users have chance to win something else while they are having bad luck.
 
