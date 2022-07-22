@@ -8,9 +8,9 @@ All DeFi protocols, including Scallop, come with risks, which are important to u
 
 This is a risk that the **** Scallop smart contracts get exploited to steal or permanently freeze funds. This risk is inherent to all smart contracts and can never be fully eliminated, but can be mitigated in various ways.
 
-#### Invoke Contract Risk
+#### Cross Program Invocation Risk
 
-Scallop relies on some cross-program invocation to earn the yield such as Solend, Marinade. There is a risk that these programs got exploited or some unexpected accidents. These risks are inherent to all smart contract invocations.
+Scallop relies on some cross-program invocation to earn the yield, such as Solend and Marinade. There is a risk that these programs got exploited or some unexpected accidents. These risks are inherent to all smart contract invocations.
 
 **Oracle Risk**
 
