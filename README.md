@@ -10,7 +10,7 @@ In February 2020, Solana released its Mainnet beta, besides the low Gas fees and
 
 In 2022, we can see various kinds of great well-growing DeFi protocols on Solana, such as lending/borrowing protocol, AMM protocols, order books, options, etc. Given that there have been many types of DeFi protocols existing, if we want to build an outstanding protocol in the Solana ecosystem, we need it to be something innovative. Therefore, we have decided to build a no-loss protocol, the core logic of it is inspired by Pooltogether on Ethereum.\
 \
-no loss protocol is a kind of smart contract that makes the fund pools use lending protocols to earn interest and use verified randomness functions to pick one participant to win all the interest, it's a flexible DeFi app that can maximize the potential yield with no principal loss.
+No-loss protocol is a kind of smart contract that makes the fund pools use lending protocols to earn interest and use verified randomness functions to pick one participant to win all the interest, it's a flexible DeFi app that can maximize the potential yield with no principal loss.
 
 Pooltogether inspires Scallop a lot, the problems both we solve for no-loss protocols, which traditional finance and Web 2.0 can't are third-party verification and verification randomness, and we build on Solana even solve the issues that other no-loss protocols are facing including high Gas fee and slow transaction, they make other no-loss protocols still not perfect due to it still cost a lot for most of the people and the funds are also not flexible.
 
