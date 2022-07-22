@@ -20,5 +20,5 @@ Scallop is compatible with a wide range of wallets, including Phantom, Solflare,
 
 Scallop program hasn't been audited, Scallop program is built by Anchor framework which is a high-security Solana development framework, and Scallop core members have done a strict detailed team code review for Scallop program with Scallop advisors.\
 \
-After we have more resources, we will also search for some experienced Solana program auditing teams to do the auditing service, and after the Scallop program is audited, we will let it be an open-source program.
+After we have more resources, we will also search for some experienced Solana program auditing teams to do the auditing service, and after the Scallop program is audited, we will let it become an open-source program.
 
