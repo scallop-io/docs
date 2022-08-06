@@ -16,7 +16,7 @@ The Scallop team has 4 core members and most of them are in Taiwan, they've join
 
 Linktree🌲 : [https://linktr.ee/scallop\_io](https://linktr.ee/scallop\_io)\
 \
-Dapp (Devnet online only): [https://app.scallop.io/](https://app.scallop.io/) \
-Dapp intro: [https://scallopio.medium.com/how-to-use-scallop-on-solana-devnet-57d4f8e85365](https://scallopio.medium.com/how-to-use-scallop-on-solana-devnet-57d4f8e85365)
+App (Devnet online only): [https://app.scallop.io/](https://app.scallop.io/) \
+App intro: [https://scallopio.medium.com/how-to-use-scallop-on-solana-devnet-57d4f8e85365](https://scallopio.medium.com/how-to-use-scallop-on-solana-devnet-57d4f8e85365)
 
 ![](.gitbook/assets/scallop-feng-mian-0926.png)
