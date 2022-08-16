@@ -23,7 +23,7 @@ description: About SCA (Coming soon).
 
 * Initial Circulating Supply 15,625,000 SCA.&#x20;
 * Max Supply 250,000,000 SCA.&#x20;
-* Team tokens are locked on-chain with a cliff of 1 year and 3\~4 years linear unlocking.
+* Team tokens are locked on-chain with a cliff of 1 year and 4 years linear unlocking.
 
 
 
