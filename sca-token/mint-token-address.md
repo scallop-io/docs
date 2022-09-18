@@ -18,7 +18,7 @@ Click the "+" button (Add Token).
 
 Select the "MANUAL INPUT" tab.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 Enter the token details (Here we use Seaweed):
 
