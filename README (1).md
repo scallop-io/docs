@@ -14,6 +14,7 @@ Scallop has a user dashboard called Scallop Tank and on-chain collectibles calle
 
 The Scallop team has 4 core members and most of them are in Taiwan, they've joined many Solana hackathons and did well in the Asia division. In Solana Ignition Asia, they got the highest community vote in over 40 projects. Scallop launched their Devnet beta in April 2022, and the Mainnet is online in August 2022.
 
+Scallop: [https://www.scallop.io/](https://www.scallop.io/)\
 Linktree🌲 : [https://linktr.ee/scallop\_io](https://linktr.ee/scallop\_io)\
 \
 App: [https://app.scallop.io/](https://app.scallop.io/) \
