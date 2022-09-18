@@ -1,6 +1,6 @@
 ---
 description: >-
-  A diverse no-loss protocol on Solana, maximize the potential yield with no
+  The leading no-loss protocol on Solana, maximize the potential yield with no
   principal loss.
 ---
 
@@ -8,7 +8,7 @@ description: >-
 
 ## **What is Scallop?**
 
-Scallop is a diverse no-loss protocol on Solana, it is a finance strategy that can maximize the potential yield with no principal loss. Users can deposit tokens into Scallop Pools, Scallop on-chain program will invoke lending, staking, and stable pool liquidity mining protocols to earn the yield. Every 24 hrs, a winner will be picked from each pool by the on-chain program to get most of the yields, and other yields will keep in the Scallop treasury.
+Scallop is the leading no-loss protocol in Solana ecosystem, Scallop uses DeFi technology to do the premium bonds in traditional finance, users can deposit/withdraw tokens on our on-chain program asset pool, and our on-chain program will use lending, staking, and stable pool liquidity mining protocol to earn the yield, and call the on-chain verifiable random function every day to pick a winner in each pool to get all of the yields, and other yields will keep in the Scallop treasury and will be governance by the community.
 
 Scallop has a user dashboard called Scallop Tank and on-chain collectibles called Scallop Decorations, Scallop Decorations will show up in Scallop Tank and interact with Scallop protocol, these features make Scallop become a unique DeFi protocol.
 
