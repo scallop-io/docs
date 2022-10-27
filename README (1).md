@@ -12,7 +12,7 @@ Scallop is the leading Premium Bonds protocol on Solana, and also going to expan
 
 Scallop has a user dashboard called Scallop Tank and on-chain collectibles called Scallop Decorations, Scallop Decorations will show up in Scallop Tank and interact with Scallop protocol, these features make Scallop become a unique DeFi protocol.
 
-The Scallop team has 5 core members, they've joined many Solana hackathons and did well in the Asia division. In Solana Ignition Asia, they got the highest community vote in over 40 projects. Scallop launched their Devnet beta in April 2022, and the Mainnet is online in August 2022.
+The Scallop team joined many Solana hackathons and did well in the Asia division. In Solana Ignition Asia, they got the highest community vote in over 40 projects. Scallop launched its Devnet beta in April 2022, and the Mainnet is online in August 2022.
 
 Scallop: [https://www.scallop.io/](https://www.scallop.io/)\
 Linktree🌲 : [https://linktr.ee/scallop\_io](https://linktr.ee/scallop\_io)\
