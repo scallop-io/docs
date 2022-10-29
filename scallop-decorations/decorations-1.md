@@ -24,7 +24,7 @@ Rarity: ★✰✰✰✰
 
 Urchin lives on the seabed of every ocean and inhabits every depth zone, the closest echinoderm relatives are the sea cucumbers. Urchin is popular in aquariums, where they are useful for controlling algae. Fossil urchins have been used as protective amulets.
 
-Address : uchinWHVk4SWcGbhyXiurqAAFXTdC7cRvxNofYMPsy3\
+Address: uchinWHVk4SWcGbhyXiurqAAFXTdC7cRvxNofYMPsy3\
 ****Symbol: Urchin\
 Name: Scallop Urchin Decorations \
 Decimals: 0 \
@@ -37,7 +37,7 @@ Rarity: ★★✰✰✰
 
 Moray eels have two jawbones, after finding the target, the eel will bite it and the second jaw will jump out of the throat, and then drag the food into their stomach 💀!&#x20;
 
-Address : MoraycScyx4PNYbecRjnw3qXiC6syZkQRH9PoWUoioL \
+Address: MoraycScyx4PNYbecRjnw3qXiC6syZkQRH9PoWUoioL \
 ****Symbol: Moray \
 Name: Scallop Moray Decorations \
 Decimals: 0 \
