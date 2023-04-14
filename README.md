@@ -4,7 +4,7 @@
 
 Scallop is the Next Generation Interest Rate Machine for the Sui ecosystem. A money market on Sui that emphasizes user-friendliness, with high-interest lending, low-fee borrowing, and premium bonds. \
 \
-Scallop: [https://www.scallop.io/](https://www.scallop.io/)\
+Scallop: [https://www.scallop.io](https://www.scallop.io/)\
 Linktree🌲 : [https://linktr.ee/scallop\_io](https://linktr.ee/scallop\_io)\
 \
 As Users, you can Deposit/Withdraw/Borrow/Repay with the Asset Pools, and Deposit/Withdraw in Collateral Pools.
@@ -15,7 +15,7 @@ What we emphasize are:
 
 * High Security&#x20;
 * High Composability
-* Friendly UI/UX.
+* Friendly UI/UX
 
 <figure><img src=".gitbook/assets/Scallop Sui Deck.png" alt=""><figcaption><p>Scallop on Sui</p></figcaption></figure>
 
