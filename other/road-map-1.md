@@ -1,6 +1,6 @@
 # Achievements🏆
 
-#### 🥇 [1st DeFi project award an official grant from the Sui Foundation.](https://sui.io/resources-sui/sui-foundation-round-1-awardees/)
+**🥇** [**1st DeFi project award an official grant from the Sui Foundation.**](https://sui.io/resources-sui/sui-foundation-round-1-awardees/)
 
 **🥇** [**1st highest community vote project in 2021 Solana Ignition Hackathon Asia.**](https://dorahacks.io/grant/solana-2/top)
 

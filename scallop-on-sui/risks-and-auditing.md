@@ -12,7 +12,7 @@ This is a risk that the Scallop smart contracts get exploited to steal or perman
 
 **Oracle Risk**
 
-Scallop relies on Switchboard for their VRF feeds to pick winners. There is a risk that these oracles report incorrect randomness, causing wrongful winners.
+Scallop relies on Supra Oracles, Switchboard, and Pyth for their price feeds. There is a risk that these oracles report incorrect prices, causing wrongful liquidation.
 
 #### Wallet Providers **Risk**
 
