@@ -1,8 +1,8 @@
 ---
-description: How to Scallop?
+description: How join Scallop Pools?
 ---
 
-# Rules
+# Scallop Pool Rules
 
 Users can deposit tokens into Scallop Pools to grow scallops in Scallop Tank and join the no-loss lottery, our program will invoke SOL or SPL token staking, lending, or liquidity mining protocols (especially stable pools) to earn the interest to be the pool reward.
 
@@ -13,5 +13,4 @@ Users can deposit any amount of SOL or SPL tokens, every time the deposit amount
 There will be different Scallop Pools with accept different tokens and different earning ways, you can see where the Scallop Pools fund will go, ex:
 
 * USDC no-loss pool by deposit USDC to lend USDC at **Solend.**
-* SOL no-loss pool by deposit SOL to stake at **Marinade**.
 
