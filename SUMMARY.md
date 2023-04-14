@@ -4,7 +4,7 @@
 
 ## Scallop on Sui
 
-* [Deposit & Lending](scallop-on-sui/deposit-and-lending.md)
+* [Deposit & Lending](scallop-on-sui/lending-and-deposit.md)
 * [Borrowing](scallop-on-sui/borrowing.md)
 * [Interest Rate](scallop-on-sui/interest-rate.md)
 * [Liquidations](scallop-on-sui/liquidations.md)
