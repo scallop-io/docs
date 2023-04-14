@@ -4,7 +4,7 @@
 
 ## Scallop on Sui
 
-* [Lending & Deposit](scallop-on-sui/lending-and-deposit.md)
+* [Deposit & Lending](scallop-on-sui/deposit-and-lending.md)
 * [Borrowing](scallop-on-sui/borrowing.md)
 * [Interest Rate](scallop-on-sui/interest-rate.md)
 * [Liquidations](scallop-on-sui/liquidations.md)
@@ -18,6 +18,7 @@
 ## Scallop Pools on Solana
 
 * [Scallop Pool Rules](scallop-pools-on-solana/scallop-pool-rules.md)
+* [How join Scallop Pools?](scallop-pools-on-solana/how-join-scallop-pools.md)
 * [FAQs](scallop-pools-on-solana/faqs.md)
 
 ## Scallop Decorations
@@ -27,5 +28,6 @@
 ## other
 
 * [Road Map 🗺](other/road-map.md)
+* [Achievements🏆](other/road-map-1.md)
 * [Community 🎎](other/community.md)
 * [Logo & Pictures 🎨](other/logo-and-pictures.md)

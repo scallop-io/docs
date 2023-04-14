@@ -6,4 +6,12 @@ description: SCA to the moon🚀!
 
 #### Q2 2023
 
-* `//TODO`
+* ScallopV1 on Sui Testnet/Devnet
+* ScallopV1 on Sui Mainnet
+
+#### Q3 2023
+
+* Mixing Asset
+* cToken
+
+
