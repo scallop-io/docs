@@ -1,5 +1,5 @@
 ---
-description: Give me more Scallop Decorations🔪!
+description: Scallop Decorations on Solana
 ---
 
 # Decorations✨
