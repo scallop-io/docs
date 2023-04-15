@@ -7,6 +7,7 @@
 * [Deposit & Lending](scallop-on-sui/lending-and-deposit.md)
 * [Borrowing](scallop-on-sui/borrowing.md)
 * [Interest Rate](scallop-on-sui/interest-rate.md)
+* [Parameters & Fees](scallop-on-sui/parameters-and-fees.md)
 * [Liquidations](scallop-on-sui/liquidations.md)
 * [Oracles](scallop-on-sui/oracles.md)
 * [cTokens](scallop-on-sui/ctokens.md)
