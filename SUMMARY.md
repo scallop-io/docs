@@ -32,4 +32,4 @@
 * [Road Map 🗺](other/road-map.md)
 * [Achievements🏆](other/road-map-1.md)
 * [Community 🎎](other/community.md)
-* [Brand kit 🎨](other/logo-and-pictures.md)
+* [Brand kit 🎨](other/brand-kit.md)
