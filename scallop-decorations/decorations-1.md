@@ -20,7 +20,7 @@ Rarity: ★✰✰✰✰
 
 ### Urchin Decorations
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 Urchin lives on the seabed of every ocean and inhabits every depth zone, the closest echinoderm relatives are the sea cucumbers. Urchin is popular in aquariums, where they are useful for controlling algae. Fossil urchins have been used as protective amulets.
 
@@ -46,7 +46,7 @@ Rarity: ★★★✰✰
 
 ### Nautilus **Decorations**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 Nautilus survive for hundreds of millions of years and is one of the most well-known living fossils. The first submarine is also named Nautilus because the structure of the nautilus inspired human submarine design.
 

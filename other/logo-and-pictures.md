@@ -2,17 +2,26 @@
 description: If you need some pictures of Scallop you can contact us!
 ---
 
-# Logo & Pictures 🎨
+# Brand kit 🎨
 
-![Scallop with black font](../.gitbook/assets/logo-black.png)
+### Scallop Logos with Text
 
-![Scallop with white font](../.gitbook/assets/logo-white.png)
+![Scallop Black Font](../.gitbook/assets/logo-black.png)
 
-![Scallop, Scallop token \(SCA\)](../.gitbook/assets/sca.png)
+![Scallop White Font](../.gitbook/assets/logo-white.png)
 
-![Scallop Seaweed Decorations](../.gitbook/assets/seaweed.png)
 
-![Scallop Fossil Decorations](../.gitbook/assets/fossil%20%281%29.png)
 
-![Scallop logo with no background](../.gitbook/assets/scallop.png)
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>White Font &#x26; Logo</p></figcaption></figure>
 
+###
+
+### Scallop Round Logs
+
+![](../.gitbook/assets/image.png)![](<../.gitbook/assets/image (23).png>)
+
+###
+
+### Scallop Theme Colors
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Scallop Theme Colors</p></figcaption></figure>
