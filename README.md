@@ -2,7 +2,7 @@
 
 ## **Scallop on Sui**
 
-Scallop is the Next Generation Interest Rate Machine for the Sui ecosystem. A money market on Sui that emphasizes user-friendliness, with high-interest lending, low-fee borrowing, and premium bonds. \
+Scallop is the Next Generation Interest Rate Machine for the Sui ecosystem and is also the first Defi protocol awarded an official grant from the Sui Foundation. Currently building a money market on Sui that emphasizes institutional grade, high composability, and high security.\
 \
 Scallop: [https://www.scallop.io](https://www.scallop.io/)\
 Linktree🌲 : [https://linktr.ee/scallop\_io](https://linktr.ee/scallop\_io)\
