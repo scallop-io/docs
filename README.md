@@ -7,7 +7,7 @@ Scallop is the Next Generation Interest Rate Machine for the Sui ecosystem and i
 Scallop: [https://www.scallop.io](https://www.scallop.io/)\
 Linktree🌲 : [https://linktr.ee/scallop\_io](https://linktr.ee/scallop\_io)\
 \
-As Users, you can Deposit/Withdraw/Borrow/Repay with the Asset Pools, and Deposit/Withdraw in Collateral Pools.
+As users, you can Deposit/Withdraw/Borrow/Repay with the Asset Pools, and Deposit/Withdraw in Collateral Pools.
 
 Scallop on Sui Devnet: [https://sui.scallop.io](https://sui.scallop.io)\
 \
