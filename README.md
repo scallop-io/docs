@@ -9,7 +9,7 @@ Linktree🌲 : [https://linktr.ee/scallop\_io](https://linktr.ee/scallop\_io)\
 \
 As Users, you can Deposit/Withdraw/Borrow/Repay with the Asset Pools, and Deposit/Withdraw in Collateral Pools.
 
-Sui Devnet App: (Soon)\
+Scallop on Sui Devnet : [https://sui.scallop.io](https://sui.scallop.io)\
 \
 What we emphasize are:
 
