@@ -5,6 +5,7 @@
 Scallop is the Next Generation Interest Rate Machine for the Sui ecosystem and is also the first Defi protocol awarded an official grant from the Sui Foundation. Currently building a money market on Sui with high-interest lending, low-fee borrowing, and premium bonds.\
 \
 Scallop: [https://www.scallop.io](https://www.scallop.io/)\
+Pitch Deck: [https://docsend.com/view/enzit8ujzgm8ei3m](https://docsend.com/view/enzit8ujzgm8ei3m) _(password: iamascalloper)_\
 Linktree🌲 : [https://linktr.ee/scallop\_io](https://linktr.ee/scallop\_io)\
 \
 As users, you can Deposit/Withdraw/Borrow/Repay with the Asset Pools, and Deposit/Withdraw in Collateral Pools.
