@@ -1,5 +1,7 @@
 # Oracles
 
+### Summary
+
 _`Due to the inconsistent launch times of third-party Oracle services on the Sui mainnet, we will initially only use the Switchboard. Subsequently, we will upgrade and introduce more reliable on-chain price feeds.`_
 
 The components of the Scallop price modules planning include Supra Oracles, Switchboard, and Pyth. These price feeds are essential for assessing account health and determining liquidation. Each Oracle operates with a refresh rate based on their feeds, and we use their **TWAP Oracles** for a better security level, which can be further explored at the following links.
@@ -8,8 +10,13 @@ The components of the Scallop price modules planning include Supra Oracles, Swit
 * **Switchboard**: [https://switchboard.xyz/explorer](https://switchboard.xyz/explorer)
 * **Pyth**: [https://pyth.network/price-feeds](https://pyth.network/price-feeds)
 
-What are **TWAP Oracles?** \
-[https://www.halborn.com/blog/post/what-are-twap-oracles](https://www.halborn.com/blog/post/what-are-twap-oracles)
+#### What are **TWAP Oracles?**&#x20;
+
+Blockchain oracles supply real-world data to smart contracts in DeFi, such as asset prices or election outcomes. To protect DeFi smart contracts from price manipulation, Time Weighted Average Price (TWAP) oracles have been implemented to improve security.
+
+A TWAP oracle provides the average price of an asset over a specific period, making price manipulation costly and difficult for attackers. TWAP oracles calculate asset prices using weighted averages, with time serving as the weight. This method is more accurate than a simple average, as it assigns significance to certain values in a distribution.
+
+TWAP oracles, introduced in Uniswap v2 and improved in Uniswap v3, offer a more secure alternative to spot price or off-chain oracles. They are less susceptible to collusion and more resilient to short-term price fluctuations and flash loans. Thus, TWAP oracles are crucial for DeFi security.
 
 #### Aggregate Multi-Oracle Strategy
 
