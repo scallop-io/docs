@@ -1,19 +1,5 @@
 # Risk Managemant
 
-### Protected Collateral Vault
-
-`//TODO`
-
-### Collateral Weights
-
-| Pool | Asset | Collateral Weights |
-| ---- | ----- | ------------------ |
-| Main | wBTC  | 80%                |
-| Main | wETH  | 70%                |
-| Main | SUI   | 60%                |
-| Main | USDC  | 90%                |
-| Main | USDT  | 90%                |
-
 ### Insurance Fund
 
 `//TODO`

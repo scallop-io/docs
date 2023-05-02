@@ -12,6 +12,7 @@
 * [Oracles](scallop-on-sui/oracles.md)
 * [Risks & Auditing](scallop-on-sui/risks-and-auditing.md)
 * [Risk Managemant](scallop-on-sui/risk-managemant.md)
+* [Transferable Portfolio](scallop-on-sui/transferable-portfolio.md)
 * [Developer Integration](scallop-on-sui/developer-integration.md)
 * [FAQs](scallop-on-sui/faqs.md)
 * [Bug Bounty](scallop-on-sui/bug-bounty.md)
