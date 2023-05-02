@@ -11,8 +11,6 @@ The components of the Scallop price modules planning include Supra Oracles, Swit
 What are **TWAP Oracles?** \
 [https://www.halborn.com/blog/post/what-are-twap-oracles](https://www.halborn.com/blog/post/what-are-twap-oracles)
 
-
-
-### Aggregate Multi-Oracle Strategy
+#### Aggregate Multi-Oracle Strategy
 
 To reduce the risk of price manipulation in lending protocols, we use multiple oracles and evaluate their published prices. If any anomalies are detected, we abort the operation. A primary oracle is chosen as the main data source, while additional oracles serve as supplementary proof for the primary oracle's price.
