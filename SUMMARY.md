@@ -10,7 +10,6 @@
 * [Parameters & Fees](scallop-on-sui/parameters-and-fees.md)
 * [Liquidations](scallop-on-sui/liquidations.md)
 * [Oracles](scallop-on-sui/oracles.md)
-* [Marketing Coins](scallop-on-sui/marketing-coins.md)
 * [Risks & Auditing](scallop-on-sui/risks-and-auditing.md)
 * [Risk Managemant](scallop-on-sui/risk-managemant.md)
 * [Developer Integration](scallop-on-sui/developer-integration.md)
