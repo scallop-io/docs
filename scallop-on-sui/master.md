@@ -2,7 +2,18 @@
 
 ## Sui Wallet
 
-`//TODO`
+These are the Scallop Recommended Sui wallets:
+
+* [**Sui Wallet**](https://github.com/MystenLabs/mysten-app-docs/blob/main/mysten-sui-wallet.md)
+* [**Martian**](https://martianwallet.xyz/)
+* [**Ethos**](https://twitter.com/EthosWalletXYZ)
+* [**Suiet**](https://suiet.app/)
+* [**Elli**](https://elliwallet.com/)
+
+1. Install a wallet you like.
+2. Create a password. (This password is for this browser, in case bad guys steal your tokens by stealing your laptop or use it without asking, etc.)
+3. Save your mnemonic. Do not let anybody know your mnemonic, save it safely. ([Best Ways to Store Your Mnemonic Passphrase and How](https://cryptoadventure.com/best-ways-to-store-your-mnemonic-passphrase-and-how/))
+4. Now you can copy your Sui address and send your SUI to your wallet!
 
 ## Get SUI
 
