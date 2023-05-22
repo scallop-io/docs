@@ -7,7 +7,7 @@
 * [Start](scallop-on-sui/master.md)
 * [Deposit & Lending](scallop-on-sui/lending-and-deposit.md)
 * [Borrowing](scallop-on-sui/borrowing.md)
-* [Interest Rate & Fees](scallop-on-sui/interest-rate-and-fees.md)
+* [Interest Rate & Fees](scallop-on-sui/interest-rate.md)
 * [Liquidations](scallop-on-sui/liquidations.md)
 * [Oracles](scallop-on-sui/oracles.md)
 * [Flash Loan](scallop-on-sui/flash-loan.md)
@@ -18,8 +18,9 @@
 
 ## Scallop Pools on Solana
 
-* [Scallop Pool Rules](scallop-pools-on-solana/scallop-pool-rules.md)
-* [How join Scallop Pools?](scallop-pools-on-solana/how-join-scallop-pools.md)
+* [Intro](scallop-pools-on-solana/intro.md)
+* [Rules](scallop-pools-on-solana/rules.md)
+* [How to join?](scallop-pools-on-solana/how-to-join.md)
 * [FAQs](scallop-pools-on-solana/faqs.md)
 
 ## Scallop Decorations
