@@ -22,3 +22,13 @@ Scallop is compatible with a wide range of wallets, including Phantom, Solflare,
 
 `//TODO`
 
+## Insurance Fund
+
+The Insurance Fund reserve ensures protection for unforeseen losses caused by untimely liquidations within insured pools. Additionally, it safeguards against incorrect price feeds and manipulation issues arising from oracles.
+
+It is crucial to bear in mind that Scallop Insurance Fund payouts are reserved for highly volatile market conditions or instances of oracle failure. Nonetheless, it remains essential for users to exercise due diligence when evaluating the oracles employed or parameters established for each pool. Compensation for minor oversights resulting from a lack of due diligence will not be entertained.
+
+## Borrow/Outflow/Collateralization Rate Limits
+
+Scallop implements a dynamic constraint on the total sum of loans and withdrawals permitted, which can be adjusted for each asset and pool. As an illustration, a limit of $1M may be set for borrowing or withdrawing from the primary pool within a single 24-hour timeframe.
+

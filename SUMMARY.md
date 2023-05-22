@@ -4,15 +4,14 @@
 
 ## Scallop on Sui
 
+* [Start](scallop-on-sui/master.md)
 * [Deposit & Lending](scallop-on-sui/lending-and-deposit.md)
 * [Borrowing](scallop-on-sui/borrowing.md)
-* [Interest Rate](scallop-on-sui/interest-rate.md)
-* [Parameters & Fees](scallop-on-sui/parameters-and-fees.md)
+* [Interest Rate & Fees](scallop-on-sui/interest-rate-and-fees.md)
 * [Liquidations](scallop-on-sui/liquidations.md)
 * [Oracles](scallop-on-sui/oracles.md)
+* [Flash Loan](scallop-on-sui/flash-loan.md)
 * [Risks & Auditing](scallop-on-sui/risks-and-auditing.md)
-* [Risk Managemant](scallop-on-sui/risk-managemant.md)
-* [Transferable Portfolio](scallop-on-sui/transferable-portfolio.md)
 * [Developer Integration](scallop-on-sui/developer-integration.md)
 * [FAQs](scallop-on-sui/faqs.md)
 * [Bug Bounty](scallop-on-sui/bug-bounty.md)
