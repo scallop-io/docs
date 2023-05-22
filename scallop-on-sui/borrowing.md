@@ -1,10 +1,8 @@
 # Borrowing
 
-### Collateral Assets
+## Collateral Assets
 
-To be able to borrow from **assets pools**, you have to deposit to these **collateral pools**. When you deposit some coins to the collateral pools, your coins will be used as collateral to borrow some coins from other **assets pools**. Coins you deposited to the collateral assets will not gain any interest, because no one will be borrowing it. Your collateral will be stored safely inside your `Obligation` object, no one will touch it (if you don’t know yet about the `Obligation` object, we will explain it later).
-
-
+The **Collateral Pools** allow borrowers to deposit collateral and obtain a percentage of borrowing capacity, but suppliers cannot earn any interest from the collateral pool. Borrowers who want to borrow from the asset pool must first deposit collateral into the collateral pools, your collateral will be stored safely inside your Obligation object.&#x20;
 
 ### Collateral Weight
 
@@ -18,8 +16,6 @@ How much you can borrow from the **assets pools** depends on your collateral val
 
 Any changes regarding the **Collateral Weight** of a collateral pool that you deposited into will affect your **Collateral Value**.
 
-
-
 | Pool | Asset | Collateral Weights |
 | ---- | ----- | ------------------ |
 | Main | wBTC  | 80%                |
@@ -27,6 +23,8 @@ Any changes regarding the **Collateral Weight** of a collateral pool that you de
 | Main | SUI   | 60%                |
 | Main | USDC  | 90%                |
 | Main | USDT  | 90%                |
+
+## Borrowing
 
 ### Borrow Weight
 

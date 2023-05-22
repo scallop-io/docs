@@ -1,12 +1,10 @@
-# Deposit & Lending
+# Lending
 
-### Deposit
+## Lending
 
-`//TODO`
+### Asset Pools
 
-### Lending
-
-`//TODO`
+**Asset Pools** suppliers can earn interest through deposits and can withdraw assets at any time.
 
 ### Market Coins
 
