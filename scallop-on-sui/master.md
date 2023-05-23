@@ -1,6 +1,6 @@
 # Start
 
-## 1. Sui Wallet
+## Sui Wallet
 
 These are the Scallop recommended Sui wallets:
 
@@ -15,7 +15,7 @@ These are the Scallop recommended Sui wallets:
 3. Save your mnemonic. Do not let anybody know your mnemonic, save it safely. ([Best Ways to Store Your Mnemonic Passphrase and How](https://cryptoadventure.com/best-ways-to-store-your-mnemonic-passphrase-and-how/))
 4. Now you can copy your Sui address and send your SUI to your wallet!
 
-## 2. Get SUI
+## Get SUI
 
 These are some famous and trustable centralized exchanges in the world, you can use your credit card or some other ways to buy SUI.
 
@@ -27,7 +27,7 @@ These are some famous and trustable centralized exchanges in the world, you can 
 
 After you send your SUI to your Sui wallet, you can start becoming a Scalloper.&#x20;
 
-## 3. Set Account
+## Set Account
 
 Visit [Scallop Dapp](https://app.scallop.io/) and connect your Sui wallet.
 
