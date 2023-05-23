@@ -12,7 +12,7 @@ Collateral Weight usually has a value below 1.
 
 How much you can borrow from the **assets pools** depends on your collateral values. Your collateral value is determined using this formula:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Any changes regarding the **Collateral Weight** of a collateral pool that you deposited into will affect your **Collateral Value**.
 

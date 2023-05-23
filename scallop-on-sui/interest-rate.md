@@ -6,9 +6,9 @@ description: >-
 
 # Interest Rate & Fees
 
-## Interest Rate
+## Dynamics Interest Rate
 
-`//TODO`
+At Scallop, interest rates for borrowing are determined by static linear (or piecewise linear) models. In a general sense, as the demand for borrowing rises or the supply diminishes, interest rates experience an upward trend. Conversely, when the supply increases or the demand for borrowing declines, interest rates decrease accordingly.
 
 ## Fees
 
