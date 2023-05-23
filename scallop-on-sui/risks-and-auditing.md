@@ -10,11 +10,11 @@ This is a risk that the Scallop smart contracts get exploited to steal or perman
 
 **Oracle Risk**
 
-Scallop relies on Supra Oracles, Switchboard, and Pyth for their price feeds. There is a risk that these oracles report incorrect prices, causing wrongful liquidation.
+Scallop relies on Pyth, Switchboard, and Supra Oracles for their price feeds. There is a risk that these oracles report incorrect prices, causing wrongful liquidation.
 
 #### Wallet Providers **Risk**
 
-Scallop is compatible with a wide range of wallets, including Phantom, Solflare, Math Wallet, Coin98, Slope, and an open-source Solana wallet called Sollet.io. A wallet exploit could affect the user.
+Scallop is compatible with a wide range of wallets, including Martian, Suiet, Elli, Ethos Waller, and an open-source Solana wallet called Sui Wallet, any Sui wallet exploit could affect some of the Scallop users.
 
 ## Insurance Fund
 
