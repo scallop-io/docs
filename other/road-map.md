@@ -4,14 +4,20 @@ description: SCA to the moon🚀!
 
 # Road Map 🗺
 
-#### Q2 2023
+## Q2 2023
 
-* ScallopV1 on Sui Testnet/Devnet
-* ScallopV1 on Sui Mainnet
+* Scallop V1 on Sui Testnet/Devnet
+* Auditing, Open Source, Bug Bounty
+* Scallop V1 on Sui Mainnet
 
-#### Q3 2023
+## Q3 2023
 
-* Mixing Asset
-* cToken
+* Mixed Asset Pools
+* Isolate Pools
+* Long-tail Asset support
 
-
+## Q4 2023
+
+* Leveraged Lending
+* Scallop IDO
+* Scallop Token
