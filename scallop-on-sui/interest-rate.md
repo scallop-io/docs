@@ -1,25 +1,11 @@
----
-description: >-
-  Smart contracts on Sui are upgradable, so these are the Scallop V1 starting
-  parameters.
----
-
-# Interest Rate & Fees
+# Interest Rate
 
 ## Dynamics Interest Rate
 
 At Scallop, interest rates for borrowing are determined by static linear (or piecewise linear) models. In a general sense, as the demand for borrowing rises or the supply diminishes, interest rates experience an upward trend. Conversely, when the supply increases or the demand for borrowing declines, interest rates decrease accordingly.
 
-## Fees
+## Upgradable Protocol Parameters
 
-As always, the protocol's fee parameters are dynamic and can be adjusted through governance as the performance and health of the protocol are continually assessed. \
-\
-Costs of using Scallop:
+The smart contracts on Sui are upgradeable, and the Scallop Protocol encompasses interest rate models, liquidation parameters, oracle integrations, and asset pools. These components undergo periodic upgrades and adjustments based on market conditions, strategic considerations, and protocol optimizations. As the governance infrastructure on the Sui chain matures, the governance authority will be gradually transitioned to the community through decentralized governance using tokens.
 
-### Sui Network Fees
-
-At present, Scallop does not impose any additional fees on your transactions. Only the minimal transaction fees associated with the Sui network are necessary for processing your transactions on Scallop. These Sui transaction fees are deducted from your wallet when your transaction is executed.&#x20;
-
-### Borrow Fee
-
-`//TODO`
+###

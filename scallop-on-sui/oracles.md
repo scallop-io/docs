@@ -1,6 +1,6 @@
 # Oracles
 
-### Summary
+## Summary
 
 The components of the Scallop price modules planning include **Pyth, Switchboard**, and **Supra Oracles**. These price feeds are essential for assessing account health and determining liquidation. Each Oracle operates with a refresh rate based on their feeds, and we use their **TWAP Oracles** for a better security level, which can be further explored at the following links.
 
@@ -8,11 +8,11 @@ The components of the Scallop price modules planning include **Pyth, Switchboard
 * **Switchboard**: [https://switchboard.xyz/explorer](https://switchboard.xyz/explorer)
 * **Supra Oracles**: [https://data.supraoracles.com/networks](https://data.supraoracles.com/networks)
 
-#### Aggregate Multi-Oracle Strategy
+## Aggregate Multi-Oracle Strategy
 
 To reduce the risk of price manipulation in lending protocols, we use multiple oracles and evaluate their published prices. If any anomalies are detected, we abort the operation. A primary oracle is chosen as the main data source, while additional oracles serve as supplementary proof for the primary oracle's price.
 
-#### What are **TWAP Oracles?**&#x20;
+## **TWAP Oracles**&#x20;
 
 Blockchain oracles supply real-world data to smart contracts in DeFi, such as asset prices or election outcomes. To protect DeFi smart contracts from price manipulation, Time Weighted Average Price (TWAP) oracles have been implemented to improve security.
 

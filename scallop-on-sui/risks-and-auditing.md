@@ -1,10 +1,8 @@
 # Risks & Auditing
 
-## What are the risks of using Scallop?
+## Risks of using Scallop
 
 All DeFi protocols, including Scallop, come with risks, which are important to understand before depositing significant amounts of crypto. The main risks involved in using Scallop are outlined here.
-
-
 
 **Smart Contract Risk**
 
@@ -18,10 +16,6 @@ Scallop relies on Supra Oracles, Switchboard, and Pyth for their price feeds. Th
 
 Scallop is compatible with a wide range of wallets, including Phantom, Solflare, Math Wallet, Coin98, Slope, and an open-source Solana wallet called Sollet.io. A wallet exploit could affect the user.
 
-## Is Scallop Sui smart contract audited/open-source?
-
-`//TODO`
-
 ## Insurance Fund
 
 The Insurance Fund reserve ensures protection for unforeseen losses caused by untimely liquidations within insured pools. Additionally, it safeguards against incorrect price feeds and manipulation issues arising from oracles.
@@ -32,3 +26,8 @@ It is crucial to bear in mind that Scallop Insurance Fund payouts are reserved f
 
 Scallop implements a dynamic constraint on the total sum of loans and withdrawals permitted, which can be adjusted for each asset and pool. As an illustration, a limit of $1M may be set for borrowing or withdrawing from the primary pool within a single 24-hour timeframe.
 
+
+
+## Is Scallop Sui smart contract audited/open-source?
+
+`//TODO`

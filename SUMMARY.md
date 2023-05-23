@@ -7,10 +7,9 @@
 * [Start](scallop-on-sui/master.md)
 * [Lending](scallop-on-sui/lending.md)
 * [Borrowing](scallop-on-sui/borrowing.md)
-* [Interest Rate & Fees](scallop-on-sui/interest-rate.md)
+* [Interest Rate](scallop-on-sui/interest-rate.md)
 * [Liquidations](scallop-on-sui/liquidations.md)
 * [Oracles](scallop-on-sui/oracles.md)
-* [Flash Loan](scallop-on-sui/flash-loan.md)
 * [Risks & Auditing](scallop-on-sui/risks-and-auditing.md)
 * [Developer Integration](scallop-on-sui/developer-integration.md)
 * [FAQs](scallop-on-sui/faqs.md)
@@ -21,11 +20,8 @@
 * [Intro](scallop-pools-on-solana/intro.md)
 * [Rules](scallop-pools-on-solana/rules.md)
 * [How to join?](scallop-pools-on-solana/how-to-join.md)
+* [Decorations✨](scallop-pools-on-solana/decorations-1.md)
 * [FAQs](scallop-pools-on-solana/faqs.md)
-
-## Scallop Decorations
-
-* [Decorations✨](scallop-decorations/decorations-1.md)
 
 ## other
 
