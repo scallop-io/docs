@@ -10,6 +10,10 @@ As your Health Bar approaches 100%, your account becomes susceptible to potentia
 
 [**https://github.com/scallop-io/sui-scallop-liquidator**](https://github.com/scallop-io/sui-scallop-liquidator)
 
+## Soft Liquidations
+
+Scallop employs a dynamic close factor to facilitate what we refer to as "soft liquidations." Specifically, liquidators are permitted to repay an amount that brings a violator back into compliance, plus an additional safety factor. Consequently, borrowers who are only marginally in violation will often have significantly less than half of their debts repaid during a liquidation. Conversely, heavily violative borrowers may see a substantial portion or the entirety of their debts repaid, depending on the circumstances surrounding the liquidation process.
+
 ## Liquidation Scenario
 
 Consider a hypothetical scenario where Sarah provides $12,500 USDC and borrows $9,800 worth of ETH. If the value of ETH increases by 7.85% to approximately $10,600, Sarah's account becomes eligible for liquidation.
