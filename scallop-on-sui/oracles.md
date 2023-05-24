@@ -1,6 +1,6 @@
 # Oracles
 
-## Summary
+## Multi-Oracle
 
 The components of the Scallop price modules planning include **Pyth, Switchboard**, and **Supra Oracles**. These price feeds are essential for assessing account health and determining liquidation. Each Oracle operates with a refresh rate based on their feeds, and we use their **TWAP Oracles** for a better security level, which can be further explored at the following links.
 
