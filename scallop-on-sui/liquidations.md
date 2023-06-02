@@ -6,7 +6,7 @@ The [multi-oracle consensus](oracles.md#aggregate-multi-oracle-strategy)[ algori
 
 As your Risk Level approaches 100%, your account becomes susceptible to potential liquidation. The Liquidation Threshold represented is determined by specific token parameters. We calculate the liquidation threshold by considering the weighted average of all the assets you have deposited.
 
-#### **Scallop Liquidation BOT Github Repo:**
+#### **Scallop Liquidation BOT Github Repo (Not open-sourced yet):**
 
 [**https://github.com/scallop-io/sui-scallop-liquidator**](https://github.com/scallop-io/sui-scallop-liquidator)
 
