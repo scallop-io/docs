@@ -22,11 +22,11 @@ There are multiple coins that have a volatile price. One of the solutions to pro
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-For example, there are SUI and SCA assets pools.
+For example, there are SUI and USDC assets pools.
 
-SUI has a more stable price rather than SCA, hence we set the B**orrow Weight** to be **1** and **1.5** respectively. and then you deposited 1 BTC that is worth $10,000 to the **collateral pool** with C**ollateral Weight** equal to **70%** and your collateral value is **$7,000** (70% of $10,000).
+USDC has a more stable price rather than SUI, hence we set the **Borrow Weight** to be **1** and **1.25** respectively. and then you deposited 1 BTC that is worth $10,000 to the **collateral pool** with **Collateral Weight** equal to **70%** and your collateral value is **$7,000** (70% of $10,000).
 
-Let’s say the price of SUI is $5 and the price of SCA is $3. With $7,000 you can borrow out 1,400 SUI **but** for the SCA you can only borrow out 2333,33 SCA. 1,400 SUI is equal to $7,000, but 2,333 SCA is only equal to $4,666.66. This is because SCA has a borrow weight of **1.5**, borrowing an SCA will be calculated as borrowing **1.5** times a bigger amount of SCA.
+Let’s say the price of USDC is $1 and the price of SUI is also $1. With $7,000 you can borrow out 7,000 USDC **but** for SUI you can only borrow out 5,600 SUI.
 
 ## Zero Fee Flash Loans
 
