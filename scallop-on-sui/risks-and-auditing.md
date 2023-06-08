@@ -26,8 +26,6 @@ It is crucial to bear in mind that Scallop Insurance Fund payouts are reserved f
 
 Scallop implements a dynamic constraint on the total sum of loans and withdrawals permitted, which can be adjusted for each asset and pool. As an illustration, a limit of $1M may be set for borrowing or withdrawing from the primary pool within a single 24-hour timeframe.
 
-
-
 ## Is Scallop Sui smart contract audited/open-source?
 
-`//TODO`
+Scallop auditing process is on-going by [MoveBit](https://www.movebit.xyz/) & [OtterSec](https://osec.io/), we will publish the auditing report after it and the make Scallop V1 an open-sourced protocol on Sui blockchain.
