@@ -4,7 +4,7 @@ Scallop V1 Modules Address:&#x20;
 
 `//TODO`
 
-Scallop Sui Lending Protocol:\
+Scallop Sui Lending Protocol (Not open-sourced yet):\
 [https://github.com/scallop-io/sui-lending-protocol](https://github.com/scallop-io/sui-lending-protocol)
 
 Scallop Sui SDK (Typescript) (Not open-sourced yet):\
