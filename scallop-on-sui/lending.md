@@ -1,5 +1,7 @@
 # Lending
 
+In the world of decentralized finance (DeFi), there are numerous avenues to generate passive income from your assets, and one such avenue involves participating as a lender in a lending-borrowing protocol. When you lend your coins to borrowers, they are obligated to pay interest on the borrowed amount. As a lender, you receive this interest as a reward for providing your funds to borrowers.&#x20;
+
 ## Asset Pools
 
 Asset Pools suppliers can earn interest through deposits and can withdraw assets at any time. Assets in Asset Pools will be borrowed by borrowers who already deposited enough collateral assets as collateral, and they will also count the interest with time going.
