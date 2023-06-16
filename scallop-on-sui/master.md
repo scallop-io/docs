@@ -27,6 +27,17 @@ These are some famous and trustable centralized exchanges in the world, you can 
 
 After you send your SUI to your Sui wallet, you can start becoming a Scalloper.&#x20;
 
+## Bridge Assets to Sui
+
+To acquire Tokens on the SUI Network via a cross-chain transfer, you can utilize the [Wormhole Connect](https://app.scallop.io/bridge). Wormhole is a multi-chain messaging protocol capable of connecting to several chains, such as Ethereum, Solana, Terra, Binance Smart Chain, Polygon, SUI, Avalanche, and Oasis.
+
+Here's an easy-to-follow guide to get you started:
+
+* Navigate to the Bridge section at Scallop or head to the Wormhole Connect page.&#x20;
+* Determine the blockchain from which you wish to transfer assets, then select SUI Network as the target. At this point, link your Metamask Wallet.&#x20;
+* Choose the token type to be transferred (WBTC, WETH, USDC or USDT) and indicate the quantity.&#x20;
+* Lastly, link your Sui wallet, cover the gas costs on Sui, and approve the transactions for both sending and claiming.
+
 ## Set Account
 
 Visit [Scallop Dapp](https://app.scallop.io/) and connect your Sui wallet.
