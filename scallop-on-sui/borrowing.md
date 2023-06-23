@@ -2,7 +2,7 @@
 
 ## Collateral Assets
 
-The **Collateral Pools** allow borrowers to deposit collateral and obtain a percentage of borrowing capacity, but suppliers cannot earn any interest from the collateral pool. Borrowers who want to borrow from the asset pool must first deposit collateral into the collateral pools, your collateral will be stored safely inside your Obligation object.&#x20;
+The **Collateral Pools** allow borrowers to deposit collateral and obtain a percentage of borrowing capacity, but suppliers cannot earn any interest from the collateral pool. Borrowers who want to borrow from the asset pool must first deposit collateral into the collateral pools, your collateral will be stored safely inside your Obligation object.
 
 ## Collateral Weight
 
@@ -12,7 +12,7 @@ Collateral Weight usually has a value below 1.
 
 How much you can borrow from the **assets pools** depends on your collateral values. Your collateral value is determined using this formula:
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Any changes regarding the **Collateral Weight** of a collateral pool that you deposited into will affect your **Collateral Value**.
 

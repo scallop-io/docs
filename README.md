@@ -6,4 +6,4 @@ Scallop is the pioneering Next Generation Money Market for the Sui ecosystem and
 \
 Scallop: [https://www.scallop.io](https://www.scallop.io/)
 
-<figure><img src=".gitbook/assets/Scallop Sui Deck.png" alt=""><figcaption><p>Scallop - Intro </p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Scallop One Pager</p></figcaption></figure>
