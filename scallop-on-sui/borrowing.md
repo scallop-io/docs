@@ -20,7 +20,7 @@ Any changes regarding the **Collateral Weight** of a collateral pool that you de
 
 There are multiple coins that have a volatile price. One of the solutions to protecting users from volatile coins, we create a **borrow weight** feature so borrowing a volatile coin will be much “expensive”. The terms of expensive here mean you can only borrow less volatile coins with such collateral. Borrow weight will affect the amount of debt you have. This is how your debt is calculated:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 For example, there are SUI and USDC assets pools.
 
