@@ -12,7 +12,7 @@ description: If you need some pictures of Scallop you can contact us!
 
 
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>White Font &#x26; Logo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (3).png" alt=""><figcaption><p>White Font &#x26; Logo</p></figcaption></figure>
 
 ###
 
@@ -24,7 +24,7 @@ description: If you need some pictures of Scallop you can contact us!
 
 ### Scallop Theme Colors
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Scallop Theme Colors</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p>Scallop Theme Colors</p></figcaption></figure>
 
 ### **More Scallop Logos in SVG:**&#x20;
 
