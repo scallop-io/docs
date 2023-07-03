@@ -46,7 +46,7 @@ Rarity: ★★★✰✰
 
 ### Nautilus **Decorations**
 
-<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nautilus survive for hundreds of millions of years and is one of the most well-known living fossils. The first submarine is also named Nautilus because the structure of the nautilus inspired human submarine design.
 
