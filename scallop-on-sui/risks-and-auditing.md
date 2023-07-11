@@ -28,4 +28,6 @@ Scallop implements a dynamic constraint on the total sum of loans and withdrawal
 
 ## Is Scallop Sui smart contract audited/open-source?
 
-The Scallop auditing process is ongoing by [MoveBit](https://www.movebit.xyz/) & [OtterSec](https://osec.io/), we will publish the auditing report after it is finished and make Scallop V1 an open-sourced protocol on the Sui blockchain.
+The Scallop auditing process is done by [MoveBit](https://www.movebit.xyz/), and the [OtterSec](https://osec.io/) auditing is ongoing, we will publish the auditing reports after it's finished and make Scallop V1 an open-sourced protocol on the Sui blockchain after all of them are done.
+
+🔓: [Scallop Smart Contract Auditing Report by MoveBit](https://drive.google.com/file/d/1yqftY8cTMlG0QhIBMBYoQhV-bSlsGSOx/view?usp=drive\_link)
