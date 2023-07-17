@@ -25,7 +25,7 @@ These are some famous and trustable centralized exchanges in the world, you can 
 * [**Bybit**](https://www.bybit.com/)
 * [**Coinlist**](https://coinlist.co/)
 
-After you send your SUI to your Sui wallet, you can start becoming a Scalloper.&#x20;
+After you send your SUI to your Sui wallet, you can start becoming a Scalloper.
 
 ## Bridge Assets to Sui
 
@@ -33,17 +33,7 @@ To acquire Tokens on the SUI Network via a cross-chain transfer, you can utilize
 
 Here's an easy-to-follow guide to get you started:
 
-* Navigate to the Bridge section at Scallop or head to the Wormhole Connect page.&#x20;
-* Determine the blockchain from which you wish to transfer assets, then select SUI Network as the target. At this point, link your Metamask Wallet.&#x20;
-* Choose the token type to be transferred (WBTC, WETH, USDC or USDT) and indicate the quantity.&#x20;
+* Navigate to the Bridge section at Scallop or head to the Wormhole Connect page.
+* Determine the blockchain from which you wish to transfer assets, then select SUI Network as the target. At this point, link your Metamask Wallet.
+* Choose the token type to be transferred (WBTC, WETH, USDC or USDT) and indicate the quantity.
 * Lastly, link your Sui wallet, cover the gas costs on Sui, and approve the transactions for both sending and claiming.
-
-## Set Account
-
-Visit [Scallop Dapp](https://app.scallop.io/) and connect your Sui wallet.
-
-### Transferable Sub-accounts
-
-Scallop offers the flexibility for every user's Sui address to access up to 5 sub-accounts, including the primary account. This enables users to efficiently manage multiple positions concurrently. Once a user holds Scallop`Obligation Key`, they can deposit into any sub-account without the need for repetitive approvals. Furthermore, no approvals are necessary to transfer assets and liabilities between sub-accounts, empowering users to easily isolate and segregate their collateral and debts according to their preferences
-
-We calculate your collateral and your debt inside an object called `Obligation`. To mutate this object you will need an object called `Obligation Key`, each `Obligation Key` belongs to an `Obligation` object. So when you create an `Obligation` object for the first time, you will get `Obligation Key` in return and it will be stored inside your address. This `Obligation Key` is just like an NFT, it represents ownership and it’s transferable. Transferring your `Obligation Key` to the other address means you hand over your ownership of the `Obligation` to someone else.
