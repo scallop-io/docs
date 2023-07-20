@@ -2,7 +2,7 @@
 
 Scallop V1 Modules Address:&#x20;
 
-`0xa757975255146dc9686aa823b7838b507f315d704f428cbadad2f4ea061939d9`
+`0xefe8b36d5b2e43728cc323298626b83177803521d195cfb11e15b910e892fddf`
 
 Scallop Sui Lending Protocol (Not open-sourced yet):\
 [https://github.com/scallop-io/sui-lending-protocol](https://github.com/scallop-io/sui-lending-protocol)
