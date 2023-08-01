@@ -14,6 +14,9 @@
 * [Developer Integration](scallop-on-sui/developer-integration.md)
 * [FAQs](scallop-on-sui/faqs.md)
 * [Bug Bounty](scallop-on-sui/bug-bounty.md)
+* [Addresses](scallop-on-sui/addresses/README.md)
+  * [Mainnet](scallop-on-sui/addresses/mainnet.md)
+  * [Testnet](scallop-on-sui/addresses/testnet.md)
 
 ## Scallop Pools on Solana
 
