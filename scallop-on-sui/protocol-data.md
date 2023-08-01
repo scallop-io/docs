@@ -75,5 +75,5 @@ For example, if the outflow limit of USDC is 1,000,000, then the total amount of
 |------------|---------------|-------------|
 | USDC       | 1,000,000     | 24 hours    |
 | USDT       | 1,000,000     | 24 hours    |
-| ETH        | 1,000         | 24 hours    |
+| ETH        | 100,000       | 24 hours    |
 | SUI        | 1,000,000     | 24 hours    |
