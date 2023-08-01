@@ -5,15 +5,19 @@
 | Asset name | Asset type                                                                     |
 |------------|--------------------------------------------------------------------------------|
 | USDC       | 0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN |
+| USDT       | 0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN |
+| ETH        | 0xaf8cd5edc19c4512f4259f0bee101a40d41ebed738ade5874359610ef8eeced5::coin::COIN |
 | SUI        | 0x2::sui::SUI                                                                  |
 
 ## Interest Rate Models
 Scallop adopts a tri-linear interest rate model. The interest rate for borrow goes higher as the utilization rate increases.
 
-| Asset name | 0% utilization | 60% utilization | 80% utilization | 100% utilization |
+| Asset name | 0% utilization | 60% utilization | 90% utilization | 100% utilization |
 |------------|----------------|-----------------|-----------------|------------------|
-| USDC       | 3%             | 8%              | 50%             | 100%             |
-| SUI        | 5%             | 10%             | 50%             | 200%             |
+| USDC       | 0%             | 8%              | 50%             | 150%             |
+| USDT       | 0%             | 8%              | 50%             | 150%             |
+| ETH        | 0%             | 10%             | 100%            | 300%             |
+| SUI        | 0%             | 10%             | 100%            | 300%             |
 
 ## Risk Models
 Scallop defines a risk model for each collateral asset. The risk model is used to calculate the collateral ratio for each collateral asset.
@@ -21,6 +25,8 @@ Scallop defines a risk model for each collateral asset. The risk model is used t
 | Asset name | Collateral factor | Liquidation factor | Liquidation penalty | Liquidation discount |
 |------------|-------------------|--------------------|---------------------|----------------------|
 | USDC       | 80%               | 90%                | 5%                  | 4%                   |
+| USDT       | 80%               | 90%                | 5%                  | 4%                   |
+| ETH        | 70%               | 80%                | 5%                  | 4%                   |
 | SUI        | 60%               | 80%                | 5%                  | 4%                   |
 
 ### Parameter explanation:
@@ -54,16 +60,20 @@ For example:
 - You want to borrow SUI, price of SUI is 2$, borrow weight of SUI is 1.25
 - The you can borrow up to: 100 * 80% / (2 * 1.25) = 32 SUI
 
-| Asset name    | Borrow weight |
-|---------------|---------------|
-| wormhole_usdc | 1             |
-| sui           | 1.25          |
+| Asset name | Borrow weight |
+|------------|---------------|
+| USDC       | 1             |
+| USDT       | 1             |
+| ETH        | 1.25          |
+| SUI        | 1.25          |
 
 ## Outflow limit
 Outflow limit is used to limit the amount of tokens that can be borrowed during a period of time.
 For example, if the outflow limit of USDC is 1,000,000, then the total amount of USDC that can be borrowed in 24 hours is 1000000.
 
-| Asset name    | Outflow limit | Time period |
-|---------------|---------------|-------------|
-| wormhole_usdc | 1,000,000     | 24 hours    |
-| sui           | 1,000,000     | 24 hours    |
+| Asset name | Outflow limit | Time period |
+|------------|---------------|-------------|
+| USDC       | 1,000,000     | 24 hours    |
+| USDT       | 1,000,000     | 24 hours    |
+| ETH        | 1,000         | 24 hours    |
+| SUI        | 1,000,000     | 24 hours    |
