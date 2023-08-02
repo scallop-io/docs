@@ -26,6 +26,6 @@ description: If you need some pictures of Scallop you can contact us!
 
 <figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p>Scallop Theme Colors</p></figcaption></figure>
 
-### **More Scallop Logos in SVG:**&#x20;
+### **More Scallop Logos in png/svg/ai:**&#x20;
 
 [https://drive.google.com/drive/folders/1d5PTs3hB71ZQfWl3hSpIn\_MXKdT5u\_aw?usp=sharing](https://drive.google.com/drive/folders/1d5PTs3hB71ZQfWl3hSpIn\_MXKdT5u\_aw?usp=sharing)
