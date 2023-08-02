@@ -56,7 +56,7 @@ As a result of the liquidation, Kris's Liquidation Threshold decreases from 80% 
 
 Under specific circumstances, liquidation will occur when a borrower's risk level exceeds 100% due to insufficient deposit or collateral value to cover their loan. This situation arises when the value of deposited collateral decreases or the borrowed debt value increases relative to each other.
 
-To avoid liquidation, it is crucial to maintain awareness of your risk level and ensure sufficient margin in your account. If your risk level rises unexpectedly, you can mitigate it by increasing your collateral assets or repaying your loan. Additionally, you will soon have the option to subscribe to notifications within our app, allowing you to track and receive alerts via email or SMS when your deposits are at risk.\\
+To avoid liquidation, it is crucial to maintain awareness of your risk level and ensure sufficient margin in your account. If your risk level rises unexpectedly, you can mitigate it by increasing your collateral assets or repaying your loan. Additionally, you will soon have the option to subscribe to notifications within our app, allowing you to track and receive alerts via email or SMS when your deposits are at risk.
 
 Scallop’s soft liquidation mechanism aims to ensure that lenders are protected even if the value of the collateral decreases. It also provides an opportunity for borrowers to rectify the situation before their collateral is fully liquidated, minimizing their losses.
 
