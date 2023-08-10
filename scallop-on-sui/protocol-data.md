@@ -2,16 +2,16 @@
 
 ## Asset Types
 
-| Asset name | Asset type                                                                      |
-|------------|---------------------------------------------------------------------------------|
-| wUSDC      | 0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN  |
-| wUSDT      | 0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN  |
-| wETH       | 0xaf8cd5edc19c4512f4259f0bee101a40d41ebed738ade5874359610ef8eeced5::coin::COIN  |
-| SUI        | 0x2::sui::SUI                                                                   |
-| wSOL       | 0xb7844e289a8410e50fb3ca48d69eb9cf29e27d223ef90353fe1bd8e27ff8f3f8::coin::COIN  |
-| wAPT       | 0x3a5143bb1196e3bcdfab6203d1683ae29edd26294fc8bfeafe4aaa9d2704df37::coin::COIN  |
-| wBTC       | 0x027792d9fed7f9844eb4839566001bb6f6cb4804f66aa2da6fe1ee242d896881::coin::COIN  |
-| CETUS      | 0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS|
+| Asset name | Asset type                                                                       |
+|------------|----------------------------------------------------------------------------------|
+| wUSDC      | 0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN   |
+| wUSDT      | 0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN   |
+| wETH       | 0xaf8cd5edc19c4512f4259f0bee101a40d41ebed738ade5874359610ef8eeced5::coin::COIN   |
+| SUI        | 0x2::sui::SUI                                                                    |
+| wSOL       | 0xb7844e289a8410e50fb3ca48d69eb9cf29e27d223ef90353fe1bd8e27ff8f3f8::coin::COIN   |
+| wAPT       | 0x3a5143bb1196e3bcdfab6203d1683ae29edd26294fc8bfeafe4aaa9d2704df37::coin::COIN   |
+| wBTC       | 0x027792d9fed7f9844eb4839566001bb6f6cb4804f66aa2da6fe1ee242d896881::coin::COIN   |
+| CETUS      | 0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS |
 
 ## Interest Rate Models
 Scallop adopts a tri-linear interest rate model. The interest rate for borrow goes higher as the utilization rate increases.
@@ -30,16 +30,16 @@ Scallop adopts a tri-linear interest rate model. The interest rate for borrow go
 ## Risk Models
 Scallop defines a risk model for each collateral asset. The risk model is used to calculate the collateral ratio for each collateral asset.
 
-| Asset name | Collateral factor | Liquidation factor | Liquidation penalty | Liquidation discount |
-|------------|-------------------|--------------------|---------------------|----------------------|
-| wUSDC      | 80%               | 90%                | 5%                  | 4%                   |
-| wUSDT      | 80%               | 90%                | 5%                  | 4%                   |
-| wETH       | 70%               | 80%                | 5%                  | 4%                   |
-| SUI        | 60%               | 80%                | 5%                  | 4%                   |
-| wSOL       | 0%                | 80%                | 5%                  | 4%                   |
-| wAPT       | 0%                | 80%                | 5%                  | 4%                   |
-| wBTC       | 0%                | 80%                | 5%                  | 4%                   |
-| CETUS      | 30%               | 80%                | 5%                  | 4%                   |
+| Asset name | Collateral factor | Liquidation factor | Liquidation penalty | Liquidation discount | Max collateral amount |
+|------------|-------------------|--------------------|---------------------|----------------------|-----------------------|
+| wUSDC      | 80%               | 90%                | 5%                  | 4%                   | 10,000,000            |
+| wUSDT      | 80%               | 90%                | 5%                  | 4%                   | 10,000,000            |
+| wETH       | 70%               | 80%                | 5%                  | 4%                   | 10,000                |
+| SUI        | 60%               | 80%                | 5%                  | 4%                   | 10,000,000            |
+| wSOL       | 0%                | 80%                | 5%                  | 4%                   | 10,000                |
+| wAPT       | 0%                | 80%                | 5%                  | 4%                   | 100,000               |
+| wBTC       | 0%                | 80%                | 5%                  | 4%                   | 1,000                 |
+| CETUS      | 30%               | 80%                | 5%                  | 4%                   | 1,000,000             |
 
 ### Parameter explanation:
 
@@ -91,9 +91,9 @@ For example, if the outflow limit of USDC is 1,000,000, then the total amount of
 |------------|---------------|-------------|
 | wUSDC      | 1,000,000     | 24 hours    |
 | wUSDT      | 1,000,000     | 24 hours    |
-| wETH       | 100,000       | 24 hours    |
+| wETH       | 1,000         | 24 hours    |
 | SUI        | 1,000,000     | 24 hours    |
-| wSOL       | 1,000,000     | 24 hours    |
-| wAPT       | 1,000,000     | 24 hours    |
-| wBTC       | 1,000         | 24 hours    |
+| wSOL       | 10,000        | 24 hours    |
+| wAPT       | 100,000       | 24 hours    |
+| wBTC       | 1,00          | 24 hours    |
 | CETUS      | 1,000,000     | 24 hours    |
