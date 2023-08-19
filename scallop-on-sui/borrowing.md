@@ -38,6 +38,10 @@ USDC has a more stable price rather than SUI, hence we set the **Borrow Weight**
 
 Let’s say the price of USDC is $1 and the price of SUI is also $1. With $7,000 you can borrow out 7,000 USDC **but** for SUI you can only borrow out 5,600 SUI.
 
+## Borrow/Outflow/Collateralization Rate Limits
+
+Scallop implements a dynamic constraint on the total sum of loans and withdrawals permitted, which can be adjusted for each asset and pool. As an illustration, a limit of $1M may be set for borrowing or withdrawing from the primary pool within a single 24-hour timeframe.
+
 ## Zero Fee Flash Loans
 
 A flash loan is a type of loan where a user borrows assets with no upfront collateral and returns the borrowed assets within the same blockchain transaction. Because Scallop only charges fees according to the time value of the coin, and from the blockchain's perspective flash loans are held for a duration of 0 seconds, they are entirely free on Scallop (ignoring Sui gas fee costs).
