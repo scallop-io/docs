@@ -24,7 +24,7 @@ Scallop protocol constantly monitors the value of the collateral. If the value o
 
 ### Liquidation reward
 
-To incentivize users to participate in the liquidation process, Scallop offers rewards to liquidators who repay outstanding loans and obtain the borrower's collateral at a discounted price. For example, liquidators can obtain the collateral at 95% of market price, when the liquidation reward is set to 5%
+To incentivize users to participate in the liquidation process, Scallop offers rewards to liquidators who repay outstanding loans and obtain the borrower's collateral at a discounted price. For example, liquidators can obtain the collateral at 95% of market price, when the liquidation reward is set to 5%.
 
 ### Borrower Notification
 
