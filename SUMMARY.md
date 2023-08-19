@@ -5,7 +5,8 @@
 ## Scallop on Sui
 
 * [Start](scallop-on-sui/master.md)
-* [Lending](scallop-on-sui/lending.md)
+* [Lending](scallop-on-sui/lending/README.md)
+  * [sCoin](scallop-on-sui/lending/scoin.md)
 * [Borrowing](scallop-on-sui/borrowing.md)
 * [Interest Rates](scallop-on-sui/interest-rate.md)
 * [Liquidations](scallop-on-sui/liquidations.md)
@@ -23,7 +24,7 @@
 
 * [Intro](scallop-pools-on-solana/intro.md)
 * [Rules](scallop-pools-on-solana/rules.md)
-* [How to join?](scallop-pools-on-solana/how-to-join/README.md)
+* [How to join?](scallop-pools-on-solana/how-to-join.md)
   * [Scallop token basics](scallop-pools-on-solana/how-to-join/scallop-token-basics.md)
 * [Decorations✨](scallop-pools-on-solana/decorations-1.md)
 * [FAQs](scallop-pools-on-solana/faqs.md)

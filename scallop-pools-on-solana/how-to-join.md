@@ -1,4 +1,4 @@
-# How join Scallop Pools?
+# How to join?
 
 ## 1. Buy SOL or other SPL token. <a href="#2df0" id="2df0"></a>
 

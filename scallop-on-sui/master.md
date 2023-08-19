@@ -13,7 +13,7 @@ These are the Scallop recommended Sui wallets:
 1. Install a wallet you like.
 2. Create a password. (This password is for this browser, in case bad guys steal your tokens by stealing your laptop or use it without asking, etc.)
 3. Save your mnemonic. Do not let anybody know your mnemonic, save it safely. ([Best Ways to Store Your Mnemonic Passphrase and How](https://cryptoadventure.com/best-ways-to-store-your-mnemonic-passphrase-and-how/))
-4. Now you can copy your Sui address and send your SUI to your wallet!
+4. Now you can copy your Sui address and send your Sui to your wallet!
 
 ## Get SUI
 
@@ -29,7 +29,7 @@ After you send your SUI to your Sui wallet, you can start becoming a Scalloper.
 
 ## Bridge Assets to Sui
 
-To acquire Tokens on the SUI Network via a cross-chain transfer, you can utilize the [Wormhole Connect](https://app.scallop.io/bridge). Wormhole is a multi-chain messaging protocol capable of connecting to several chains, such as Ethereum, Solana, Terra, Binance Smart Chain, Polygon, SUI, Avalanche, and Oasis.
+To acquire Tokens on the Sui Network via a cross-chain transfer, you can utilize the [Wormhole Connect](https://app.scallop.io/bridge). Wormhole is a multi-chain messaging protocol capable of connecting to several chains, such as Ethereum, Solana, Terra, Binance Smart Chain, Polygon, Sui, Avalanche, and Oasis.
 
 Here's an easy-to-follow guide to get you started:
 
