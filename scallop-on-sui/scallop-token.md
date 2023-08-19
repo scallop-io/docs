@@ -76,6 +76,11 @@ Only users who supply/borrow into Scallop pools activate eligibility to receive 
 
 #### Vesting Schedule Explained:
 
+* **Team & Advisor**
+  * 1.5 years locked and 3.5 years linear unlock
+  * 5% unlock while TGE (Token Generation Event)
+* **Dev & Operation**
+  * 5 years linear unlock
 * **Angel round**
   * 1 year locked and 3 years linear unlock
   * 5% unlock while TGE (Token Generation Event)
@@ -88,11 +93,6 @@ Only users who supply/borrow into Scallop pools activate eligibility to receive 
 * **Scallop Project Contributors**
   * 1.5 years locked and 3.5 years linear unlock
   * 5% unlock while TGE (Token Generation Event)
-* **Advisor**
-  * 1.5 years locked and 3.5 years linear unlock
-  * 5% unlock while TGE (Token Generation Event)
-* **Dev & Operation**
-  * 5 years linear unlock
 
 
 
