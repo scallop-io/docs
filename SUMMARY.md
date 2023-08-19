@@ -26,7 +26,6 @@
 * [Intro](scallop-pools-on-solana/intro.md)
 * [Rules](scallop-pools-on-solana/rules.md)
 * [How to join?](scallop-pools-on-solana/how-to-join.md)
-  * [Scallop token basics](scallop-pools-on-solana/how-to-join/scallop-token-basics.md)
 * [Decorations✨](scallop-pools-on-solana/decorations-1.md)
 
 ## other
