@@ -6,11 +6,8 @@ description: $SCA
 
 ## Scallop Token Basics
 
-The native cryptographically-secure fungible protocol token of Scallop (ticker symbol $SCA) is a transferable representation of attributed utility functions specified in the protocol/code of Scallop and is designed to be used solely as an interoperable utility token thereon. $SCA is a functional multi-utility token that will be used as the medium of exchange between participants on Scallop in a decentralized manner. The goal of introducing $SCA is to provide a convenient and secure mode of payment and settlement between participants who interact within the ecosystem on Scallop without any intermediaries such as centralized third-party entities/institution/credit. It is not, and not intended to be, a medium of exchange accepted by the public (or a section of the public) as payment for goods or services or for the discharge of debt; nor is it designed or intended to be used by any person as payment for any goods or services whatsoever that are not exclusively provided by the issuer. $SCA does not in any way represent any shareholding, ownership, participation, right, title, or interest in the Company, the Distributor, their
 
-Respective affiliates, or any other company, enterprise, or undertaking, nor will $SCA entitle token holders to any promise of fees, dividends, revenue, profits, or investment returns, and are not intended to constitute securities in the British Virgin Islands, Singapore, or any relevant jurisdiction. $SCA may only be utilized on Scallop, and ownership of the same carries no rights, express or implied, other than the right to use $SCA as a means to enable usage of and interaction within Scallop. The secondary market pricing of $SCA is not dependent on the effort of the Scallop Project Contributors, and there is no token functionality or scheme designed to control or manipulate such secondary pricing. For the avoidance of doubt, neither the Company nor the Distributor deals in, or is in the business of buying or selling any virtual asset or digital payment token (including $SCA). Any sale or distribution of tokens would be performed during a restricted initial period solely for the purpose of obtaining project development funds, raising market/brand awareness, as well as community building and social engagement; this is not conducted with any element of repetitiveness or regularity which would constitute a business. Further, $SCA provides the economic incentives which will be distributed to encourage users to exert efforts towards contribution and participation in the ecosystem on Scallop, thereby creating a mutually beneficial system where every participant is fairly compensated for their efforts. $SCA is an integral and indispensable part of Scallop, because, without $SCA, there would be no incentive for users to expend resources to participate in activities or provide services for the benefit of the entire ecosystem on Scallop. Given that an additional $SCA will be awarded to a user based only on its actual usage, activity, and efforts made on Scallop and/or proportionate to the frequency and volume of transactions, users of Scallop and/or holders of $SCA which did not actively participate will not receive any $SCA incentives.
 
-\
 **Name:** Scallop Token
 
 **Ticker:** $SCA
@@ -19,7 +16,17 @@ Respective affiliates, or any other company, enterprise, or undertaking, nor wil
 
 **Total Supply (Max):** 250,000,000 SCA
 
-##
+
+
+The native cryptographically-secure fungible protocol token of Scallop (ticker symbol $SCA) is a transferable representation of attributed utility functions specified in the protocol/code of Scallop, and which is designed to be used solely as an interoperable utility token thereon.
+
+$SCA is a functional multi-utility token which will be used as the medium of exchange between participants on Scallop in a decentralised manner. The goal of introducing $SCA is to provide a convenient and secure mode of payment and settlement between participants who interact within the ecosystem on Scallop without any intermediaries such as centralised third party entity/institution/credit. It is not, and not intended to be, a medium of exchange accepted by the public (or a section of the public) as payment for goods or services or for the discharge of a debt; nor is it designed or intended to be used by any person as payment for any goods or services whatsoever that are not exclusively provided by the issuer. $SCA does not in any way represent any shareholding, ownership, participation, right, title, or interest in the Company, the Distributor, their respective affiliates, or any other company, enterprise or undertaking, nor will $SCA entitle token holders to any promise of fees, dividends, revenue, profits or investment returns, and are not intended to constitute securities in the British Virgin Islands, Singapore or any relevant jurisdiction. $SCA may only be utilised on Scallop, and ownership of the same carries no rights, express or implied, other than the right to use $SCA as a means to enable usage of and interaction within Scallop. The secondary market pricing of $SCA is not dependent on the effort of the Scallop Project Contributors, and there is no token functionality or scheme designed to control or manipulate such secondary pricing.
+
+For the avoidance of doubt, neither the Company nor the Distributor deals in, or is in the business of buying or selling any virtual asset or digital payment token (including $SCA). Any sale or distribution of tokens would be performed during a restricted initial period solely for the purpose of obtaining project development funds, raising market/brand awareness, as well as community building and social engagement; this is not conducted with any element of repetitiveness or regularity which would constitute a business.
+
+Further, $SCA provides the economic incentives which will be distributed to encourage users to exert efforts towards contribution and participation in the ecosystem on Scallop, thereby creating a mutually beneficial system where every participant is fairly compensated for its efforts. $SCA is an integral and indispensable part of Scallop, because without $SCA, there would be no incentive for users to expend resources to participate in activities or provide services for the benefit of the entire ecosystem on Scallop. Given that additional $SCA will be awarded to a user based only on its actual usage, activity and efforts made on Scallop and/or proportionate to the frequency and volume of transactions, users of Scallop and/or holders of $SCA which did not actively participate will not receive any $SCA incentives.
+
+
 
 ## $SCA Utility features
 
@@ -35,17 +42,13 @@ $SCA would allow holders to propose and vote on governance proposals to determin
 
 $SCA tokens can be employed to provide discounts on borrowing interests fee for users holding a predetermined amount of tokens, thereby creating additional utility for $SCA.
 
-### &#x20;Payment
+### Liquidity Mining
 
-Direct usage of credit cards to spend $SCA everywhere Visa and Mastercard is allowed. As a network effect, users may keep their $SCA in their wallet and utilize it for spending with any third party, merchant, or service provider unrelated to the platform that is willing to accept these $SCA as the settlement currency for the transaction.
+Only users who supply/borrow into Scallop pools activate eligibility to receive $SCA emissions within the peer-to-peer money market. $SCA Liquidity mining emissions will be vested for three months. Vesting $SCA may be claimed early for an exit penalty to receive 10-75% of rewards, decaying linearly during the three-month vesting period.&#x20;
 
-##
 
-## Distribution
 
-Only users who supply/borrow into Scallop pools activate eligibility to receive SCA emissions within the peer-to-peer money market. $SCA Liquidity mining emissions can be instantly claimed for the total amount.
-
-(Alternatively, emissions may be vested for three months. Vesting SCA may be claimed early for an exit penalty to receive 10-75% of rewards, decaying linearly during the three-month vesting period. )
+## Token Allocation
 
 | Emission Rate                 | Allocation |
 | ----------------------------- | ---------- |
@@ -69,6 +72,8 @@ Only users who supply/borrow into Scallop pools activate eligibility to receive 
 * **Liquidity** 5% reserved for liquidity.
 * **Treasury** 7% reserved for the Treasury.
 
+####
+
 #### Vesting Schedule Explained:
 
 * **Angel round**
@@ -88,4 +93,6 @@ Only users who supply/borrow into Scallop pools activate eligibility to receive 
   * 5% unlock while TGE (Token Generation Event)
 * **Dev & Operation**
   * 5 years linear unlock
+
+
 
