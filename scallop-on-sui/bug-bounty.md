@@ -6,7 +6,7 @@ The primary focus at Scallop is to provide a DeFi protocol that upholds the high
 
 Requirements To participate in the bug bounty program, please adhere to the following guidelines:
 
-1. Report any discovered bugs or vulnerabilities exclusively to the ScallopProject Contributors at team@scallop.io.&#x20;
+1. Report any discovered bugs or vulnerabilities exclusively to the Scallop Project Contributors at team@scallop.io.&#x20;
 2. Ensure that the reported bug or vulnerability is previously undisclosed, falls within the scope of this program, and is not part of any publicly available audits.
 3. If multiple reports of the same vulnerability are received, only the first submission will be considered for a reward.
 4. Do not exploit the bug or vulnerability in any manner, including public disclosure or personal profit (aside from this program's rewards).

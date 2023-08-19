@@ -11,14 +11,15 @@
 * [Interest Rates](scallop-on-sui/interest-rate.md)
 * [Liquidations](scallop-on-sui/liquidations.md)
 * [Oracles](scallop-on-sui/oracles.md)
-* [Risks & Auditing](scallop-on-sui/risks-and-auditing.md)
+* [Risks](scallop-on-sui/risks-and-auditing.md)
+* [Auditing](scallop-on-sui/risks-and-auditing-1.md)
 * [Developer Integration](scallop-on-sui/developer-integration.md)
 * [FAQs](scallop-on-sui/faqs.md)
 * [Bug Bounty](scallop-on-sui/bug-bounty.md)
 * [Addresses](scallop-on-sui/addresses/README.md)
   * [Mainnet](scallop-on-sui/addresses/mainnet.md)
   * [Testnet](scallop-on-sui/addresses/testnet.md)
-* [$SCA](scallop-on-sui/usdsca.md)
+* [Scallop Token](scallop-on-sui/scallop-token.md)
 
 ## Scallop Pools on Solana
 
@@ -27,7 +28,6 @@
 * [How to join?](scallop-pools-on-solana/how-to-join.md)
   * [Scallop token basics](scallop-pools-on-solana/how-to-join/scallop-token-basics.md)
 * [Decorations✨](scallop-pools-on-solana/decorations-1.md)
-* [FAQs](scallop-pools-on-solana/faqs.md)
 
 ## other
 

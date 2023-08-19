@@ -18,7 +18,7 @@ description: If you need some pictures of Scallop you can contact us!
 
 ### Scallop Round Logos
 
-![](<../.gitbook/assets/image (1) (2).png>)![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (1) (2) (1).png>)![](<../.gitbook/assets/image (5).png>)
 
 ###
 

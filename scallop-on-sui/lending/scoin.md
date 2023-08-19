@@ -18,3 +18,5 @@ For example, if the price of 1 SUI is $1 USD, and the exchange rate of sSUI is 1
 It is important to understand that the price of a sCoin is correlated to the price of the underlying asset and that the exchange rate will rise over time and accrue interest. Therefore, holding sCoin not only represents the ownership of the underlying assets but also represents the interest earned.
 
 You will be able to view the types and amount of sCoin you have on Scallop’s dApp.
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>sCoins in Scallop mini wallet</p></figcaption></figure>

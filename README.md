@@ -6,7 +6,7 @@ Scallop is the pioneering Next Generation peer-to-peer Money Market for the Sui 
 \
 Scallop: [https://www.scallop.io](https://www.scallop.io/)
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Scallop One Pager</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Scallop One Pager</p></figcaption></figure>
 
 ## **What is Sui?**
 
