@@ -2,7 +2,7 @@
 
 ## Is Scallop Sui smart contract audited/open-source?
 
-Scallop have completed the smart contract auditing by [MoveBit](https://www.movebit.xyz/) and [OtterSec](https://osec.io/), we are going to let Scallop V1 become an open-sourced protocol on the Sui blockchain soon.
+Scallop have completed the smart contract auditing by [MoveBit](https://www.movebit.xyz/) and [OtterSec](https://osec.io/), and Scallop is an open-sourced protocol on the Sui blockchain.
 
 
 
@@ -13,3 +13,7 @@ Scallop have completed the smart contract auditing by [MoveBit](https://www.move
 **Scallop Smart Contract Auditing Report by OtterSec:**
 
 {% file src="../.gitbook/assets/Scallop_Audit.pdf" %}
+
+**Scallop sui-lending-protocol** 🔗**:**\
+\
+[https://github.com/scallop-io/sui-lending-protocol](https://github.com/scallop-io/sui-lending-protocol)
