@@ -6,13 +6,13 @@ Scallop have completed the smart contract auditing by [MoveBit](https://www.move
 
 
 
-**Scallop Smart Contract Auditing Report by MoveBit:**
-
-{% file src="../.gitbook/assets/Scallop Smart Contract Audit Report.pdf" %}
-
 **Scallop Smart Contract Auditing Report by OtterSec:**
 
 {% file src="../.gitbook/assets/Scallop_Audit.pdf" %}
+
+**Scallop Smart Contract Auditing Report by MoveBit:**
+
+{% file src="../.gitbook/assets/Scallop Smart Contract Audit Report.pdf" %}
 
 **Scallop sui-lending-protocol** 🔗**:**\
 \
