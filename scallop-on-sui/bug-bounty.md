@@ -2,7 +2,7 @@
 
 ## Summary&#x20;
 
-The primary focus at Scallop is to provide a DeFi protocol that upholds the highest security standards. We are launching a bug bounty program, inviting the community to help identify potential vulnerabilities in our system. The emphasis is on smart contract security to protect user funds and maintain the platform's solvency. UI-related bugs are excluded. Submit any discovered bugs to team@scallop.io for the opportunity to earn rewards up to $500,000.
+The primary focus at Scallop is to provide a DeFi protocol that upholds the highest security standards. We are launching a bug bounty program, inviting the community to help identify potential vulnerabilities in our system. The emphasis is on smart contract security to protect user funds and maintain the platform's solvency. UI-related bugs are excluded. Submit any discovered bugs to team@scallop.io for the opportunity to earn rewards up to $300,000.
 
 Requirements To participate in the bug bounty program, please adhere to the following guidelines:
 
@@ -16,10 +16,10 @@ Requirements To participate in the bug bounty program, please adhere to the foll
 
 The Scallop Project Contributors will evaluate each submission individually, and rewards will be determined based on the severity of the issue:
 
-* Critical: Up to $500,000
-* High: Up to $50,000
-* Medium: Up to $5,000
-* Low: Up to $500
+* Critical: Up to $300,000
+* High: Up to $30,000
+* Medium: Up to $3,000
+* Low: Up to $300
 
 Recommended Report Format Please include the following information when submitting a bug report:
 
