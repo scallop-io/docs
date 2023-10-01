@@ -13,12 +13,11 @@
 * [Oracles](scallop-on-sui/oracles.md)
 * [Risks](scallop-on-sui/risks.md)
 * [Auditing](scallop-on-sui/auditing.md)
-* [Developer Integration](scallop-on-sui/developer-integration.md)
+* [Developer Integration](scallop-on-sui/developer-integration/README.md)
+  * [Mainnet Addresses](scallop-on-sui/developer-integration/mainnet.md)
+  * [Testnet Addresses](scallop-on-sui/developer-integration/testnet.md)
 * [FAQs](scallop-on-sui/faqs.md)
 * [Bug Bounty](scallop-on-sui/bug-bounty.md)
-* [Addresses](scallop-on-sui/addresses/README.md)
-  * [Mainnet](scallop-on-sui/addresses/mainnet.md)
-  * [Testnet](scallop-on-sui/addresses/testnet.md)
 * [Scallop Token](scallop-on-sui/scallop-token.md)
 
 ## Scallop Pools on Solana
