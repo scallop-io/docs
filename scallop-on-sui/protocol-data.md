@@ -28,6 +28,8 @@ Scallop adopts a tri-linear interest rate model. The interest rate for borrow go
 | wAPT       | 0%             | 10%             | 100%            | 300%             |
 | wBTC       | 0%             | 10%             | 100%            | 300%             |
 | CETUS      | 0%             | 10%             | 100%            | 300%             |
+| afSUI      | 0%             | 10%             | 100%            | 300%             |
+| haSUI      | 0%             | 10%             | 100%            | 300%             |
 
 ## Risk Models
 Scallop defines a risk model for each collateral asset. The risk model is used to calculate the collateral ratio for each collateral asset.
@@ -86,6 +88,8 @@ For example:
 | wAPT       | 1             | 
 | wBTC       | 1             |
 | CETUS      | 1             |
+| afSUI      | 1             |
+| haSUI      | 1             |
 
 ## Outflow limit
 Outflow limit is used to limit the amount of tokens that can be borrowed during a period of time.
@@ -101,3 +105,5 @@ For example, if the outflow limit of USDC is 1,000,000, then the total amount of
 | wAPT       | 100,000       | 24 hours    |
 | wBTC       | 1,00          | 24 hours    |
 | CETUS      | 1,000,000     | 24 hours    |
+| afSUI      | 10,000        | 24 hours    |
+| haSUI      | 10,000        | 24 hours    |
