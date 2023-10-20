@@ -12,6 +12,8 @@
 | wAPT       | 0x3a5143bb1196e3bcdfab6203d1683ae29edd26294fc8bfeafe4aaa9d2704df37::coin::COIN   |
 | wBTC       | 0x027792d9fed7f9844eb4839566001bb6f6cb4804f66aa2da6fe1ee242d896881::coin::COIN   |
 | CETUS      | 0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS |
+| afSUI      | 0xf325ce1300e8dac124071d3152c5c5ee6174914f8bc2161e88329cf579246efc::afsui::AFSUI |
+| haSUI      | 0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI |
 
 ## Interest Rate Models
 Scallop adopts a tri-linear interest rate model. The interest rate for borrow goes higher as the utilization rate increases.
@@ -40,6 +42,8 @@ Scallop defines a risk model for each collateral asset. The risk model is used t
 | wAPT       | 0%                | 80%                | 5%                  | 4%                   | 100,000               |
 | wBTC       | 0%                | 80%                | 5%                  | 4%                   | 1,000                 |
 | CETUS      | 30%               | 80%                | 5%                  | 4%                   | 1,000,000             |
+| afSUI      | 50%               | 70%                | 10%                 | 8%                   | 100,000               |
+| haSUI      | 50%               | 70%                | 10%                 | 8%                   | 100,000               |
 
 ### Parameter explanation:
 
