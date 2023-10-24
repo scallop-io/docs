@@ -8,9 +8,6 @@
 | wUSDT      | 0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN   |
 | wETH       | 0xaf8cd5edc19c4512f4259f0bee101a40d41ebed738ade5874359610ef8eeced5::coin::COIN   |
 | SUI        | 0x2::sui::SUI                                                                    |
-| wSOL       | 0xb7844e289a8410e50fb3ca48d69eb9cf29e27d223ef90353fe1bd8e27ff8f3f8::coin::COIN   |
-| wAPT       | 0x3a5143bb1196e3bcdfab6203d1683ae29edd26294fc8bfeafe4aaa9d2704df37::coin::COIN   |
-| wBTC       | 0x027792d9fed7f9844eb4839566001bb6f6cb4804f66aa2da6fe1ee242d896881::coin::COIN   |
 | CETUS      | 0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS |
 | afSUI      | 0xf325ce1300e8dac124071d3152c5c5ee6174914f8bc2161e88329cf579246efc::afsui::AFSUI |
 | haSUI      | 0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI |
@@ -24,9 +21,6 @@ Scallop adopts a tri-linear interest rate model. The interest rate for borrow go
 | wUSDT      | 0%             | 8%              | 50%             | 150%             |
 | wETH       | 0%             | 10%             | 100%            | 300%             |
 | SUI        | 0%             | 10%             | 100%            | 300%             |
-| wSOL       | 0%             | 10%             | 100%            | 300%             |
-| wAPT       | 0%             | 10%             | 100%            | 300%             |
-| wBTC       | 0%             | 10%             | 100%            | 300%             |
 | CETUS      | 0%             | 10%             | 100%            | 300%             |
 | afSUI      | 0%             | 10%             | 100%            | 300%             |
 | haSUI      | 0%             | 10%             | 100%            | 300%             |
@@ -39,13 +33,10 @@ Scallop defines a risk model for each collateral asset. The risk model is used t
 | wUSDC      | 80%               | 90%                | 5%                  | 4%                   | 10,000,000            |
 | wUSDT      | 80%               | 90%                | 5%                  | 4%                   | 10,000,000            |
 | wETH       | 70%               | 80%                | 5%                  | 4%                   | 10,000                |
-| SUI        | 60%               | 80%                | 5%                  | 4%                   | 10,000,000            |
-| wSOL       | 0%                | 80%                | 5%                  | 4%                   | 10,000                |
-| wAPT       | 0%                | 80%                | 5%                  | 4%                   | 100,000               |
-| wBTC       | 0%                | 80%                | 5%                  | 4%                   | 1,000                 |
+| SUI        | 70%               | 80%                | 5%                  | 4%                   | 20,000,000            |
 | CETUS      | 30%               | 80%                | 5%                  | 4%                   | 1,000,000             |
-| afSUI      | 50%               | 70%                | 10%                 | 8%                   | 100,000               |
-| haSUI      | 50%               | 70%                | 10%                 | 8%                   | 100,000               |
+| afSUI      | 60%               | 70%                | 10%                 | 8%                   | 100,000               |
+| haSUI      | 60%               | 70%                | 10%                 | 8%                   | 100,000               |
 
 ### Parameter explanation:
 
@@ -84,9 +75,6 @@ For example:
 | wUSDT      | 1             |
 | wETH       | 1             |
 | SUI        | 1             |
-| wSOL       | 1             |
-| wAPT       | 1             | 
-| wBTC       | 1             |
 | CETUS      | 1             |
 | afSUI      | 1             |
 | haSUI      | 1             |
@@ -101,9 +89,6 @@ For example, if the outflow limit of USDC is 1,000,000, then the total amount of
 | wUSDT      | 1,000,000     | 24 hours    |
 | wETH       | 1,000         | 24 hours    |
 | SUI        | 1,000,000     | 24 hours    |
-| wSOL       | 10,000        | 24 hours    |
-| wAPT       | 100,000       | 24 hours    |
-| wBTC       | 1,00          | 24 hours    |
 | CETUS      | 1,000,000     | 24 hours    |
 | afSUI      | 10,000        | 24 hours    |
 | haSUI      | 10,000        | 24 hours    |
