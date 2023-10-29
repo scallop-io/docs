@@ -4,7 +4,7 @@
 
 ## Scallop on Sui
 
-* [Start](scallop-on-sui/master.md)
+* [Start](scallop-on-sui/start.md)
 * [Lending](scallop-on-sui/lending/README.md)
   * [sCoin](scallop-on-sui/lending/scoin.md)
 * [Borrowing](scallop-on-sui/borrowing.md)
