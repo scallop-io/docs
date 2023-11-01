@@ -24,6 +24,7 @@ Scallop adopts a tri-linear interest rate model. The interest rate for borrow go
 | CETUS      | 0%             | 10%             | 100%            | 300%             |
 | afSUI      | 0%             | 10%             | 100%            | 300%             |
 | haSUI      | 0%             | 10%             | 100%            | 300%             |
+| vSUI       | 0%             | 10%             | 100%            | 300%             |
 
 ## Risk Models
 Scallop defines a risk model for each collateral asset. The risk model is used to calculate the collateral ratio for each collateral asset.
@@ -37,6 +38,7 @@ Scallop defines a risk model for each collateral asset. The risk model is used t
 | CETUS      | 30%               | 80%                | 5%                  | 4%                   | 1,000,000             |
 | afSUI      | 60%               | 70%                | 10%                 | 8%                   | 100,000               |
 | haSUI      | 60%               | 70%                | 10%                 | 8%                   | 100,000               |
+| vSUI       | 60%               | 70%                | 10%                 | 8%                   | 100,000               |
 
 ### Parameter explanation:
 
@@ -78,6 +80,7 @@ For example:
 | CETUS      | 1             |
 | afSUI      | 1             |
 | haSUI      | 1             |
+| vSUI       | 1             |
 
 ## Outflow limit
 Outflow limit is used to limit the amount of tokens that can be borrowed during a period of time.
@@ -92,3 +95,4 @@ For example, if the outflow limit of USDC is 1,000,000, then the total amount of
 | CETUS      | 1,000,000     | 24 hours    |
 | afSUI      | 10,000        | 24 hours    |
 | haSUI      | 10,000        | 24 hours    |
+| vSUI       | 10,000        | 24 hours    |
