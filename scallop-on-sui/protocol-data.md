@@ -35,7 +35,7 @@ Scallop defines a risk model for each collateral asset. The risk model is used t
 | wUSDT      | 80%               | 90%                | 5%                  | 4%                   | 10,000,000            |
 | wETH       | 70%               | 80%                | 5%                  | 4%                   | 10,000                |
 | SUI        | 70%               | 80%                | 5%                  | 4%                   | 20,000,000            |
-| CETUS      | 30%               | 80%                | 5%                  | 4%                   | 1,000,000             |
+| CETUS      | 50%               | 80%                | 5%                  | 4%                   | 1,000,000             |
 | afSUI      | 60%               | 70%                | 10%                 | 8%                   | 100,000               |
 | haSUI      | 60%               | 70%                | 10%                 | 8%                   | 100,000               |
 | vSUI       | 60%               | 70%                | 10%                 | 8%                   | 100,000               |
