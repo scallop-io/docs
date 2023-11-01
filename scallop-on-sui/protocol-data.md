@@ -10,7 +10,7 @@
 | SUI        | 0x2::sui::SUI                                                                    |
 | CETUS      | 0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS |
 | afSUI      | 0xf325ce1300e8dac124071d3152c5c5ee6174914f8bc2161e88329cf579246efc::afsui::AFSUI |
-| haSUI      | 0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI |
+| haSUI      | 0x549e8b69270defbfafd4f94e17ec44cdbdd99820b33bda2278dea3b9a32d3f55::cert::CERT   |
 
 ## Interest Rate Models
 Scallop adopts a tri-linear interest rate model. The interest rate for borrow goes higher as the utilization rate increases.
