@@ -19,4 +19,4 @@ It is important to understand that the price of a sCoin is correlated to the pri
 
 You will be able to view the types and amount of sCoin you have on Scallop’s dApp.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>sCoins in Scallop mini wallet</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p>sCoins in Scallop mini wallet</p></figcaption></figure>
