@@ -8,12 +8,36 @@ For more Scallop Project Contributor info please visit​ https://scallop.io/
 
 ## Does Scallop charge any fees?
 
-Scallop has no Borrowing Fees, but there are some costs that can't be avoided while using Scallop.
+In order to ensure the long-term operation of the protocol, Scallop charges a certain percentage of transaction fees for specific functionalities. Additionally, Scallop incurs some basic operational costs, which include blockchain Gas Fees and Oracle consensus fees.
 
-### Oracle Fees
+#### Borrowing Fee
 
-We have added an extra layer of security for the oracle (the oracle responsible for price provider), as a tradeoff you need to pay an additional fee to fetch from multiple-oracle.
+When users take out a loan, 0.1% of the total loan amount will be paid to the protocol as protocol income.
 
-### Sui Network Fees
+#### Borrowing Interest Fee
+
+When users pay the borrowing interest, 10% of the total interest amount will be paid to the protocol as protocol income.
+
+#### Reward Fee
+
+When users claim mining rewards, 2% of the total mining rewards will be paid to the protocol as protocol income.
+
+#### Liquidation Fee
+
+When a user's unhealthy accounts are liquidated, 1% of the liquidation amount will be paid to the protocol as protocol income.
+
+#### Sui Network Fees
 
 At present, Scallop does not impose any additional fees on your transactions. Only the minimal transaction fees associated with the Sui network are necessary for processing your transactions on Scallop. These Sui transaction fees are deducted from your wallet when your transaction is executed.&#x20;
+
+#### Flash Loan Fee
+
+When users use flash loans, 0% of the flash loan amount will be paid to the protocol as protocol income.
+
+#### Sui Network Fee
+
+Sui Network Fees are necessary for processing your transactions on Scallop. These Sui transaction fees are deducted from your wallet when your transaction is executed. (Usually less than 0.0001 SUI)
+
+#### Oracle Fee
+
+We have added an extra layer of security for the oracle (the oracle responsible for price provider), as a tradeoff you need to pay an additional fee to fetch from multi-oracle. (Usually less than 0.01 SUI)
