@@ -10,7 +10,7 @@ As your Risk Level approaches 100%, your account becomes susceptible to potentia
 
 [**https://github.com/scallop-io/sui-scallop-liquidator**](https://github.com/scallop-io/sui-scallop-liquidator)
 
-## Soft liquidation
+## Soft Liquidation
 
 Scallop utilizes a soft liquidation mechanism to protect lenders and borrowers. Here's how scallop implements the soft liquidation process:
 
@@ -22,7 +22,7 @@ Scallop maintains a specific collateral factor for each asset. For example, if t
 
 Scallop protocol constantly monitors the value of the collateral. If the value of the collateral falls below a certain threshold, a soft liquidation process is triggered.
 
-### Liquidation reward
+### Liquidation Reward
 
 To incentivize users to participate in the liquidation process, Scallop offers rewards to liquidators who repay outstanding loans and obtain the borrower's collateral at a discounted price. For example, liquidators can obtain the collateral at 95% of market price, when the liquidation reward is set to 5%.
 

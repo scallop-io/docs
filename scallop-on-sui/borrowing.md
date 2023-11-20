@@ -34,7 +34,7 @@ There are multiple coins that have a volatile price. One of the solutions to pro
 
 For example, there are SUI and USDC assets pools.
 
-USDC has a more stable price rather than SUI, hence we set the **Borrow Weight** to be **1** and **1.25** respectively. and then you deposited 1 BTC that is worth $10,000 to the **collateral pool** with **Collateral Weight** equal to **70%** and your collateral value is **$7,000** (70% of $10,000).
+USDC has a more stable price than SUI, hence we set the **Borrow Weight** to be **1** and **1.25** respectively. and then you deposited 1 BTC that is worth $10,000 to the **collateral pool** with a **Collateral Weight** equal to **70%** and your collateral value is **$7,000** (70% of $10,000).
 
 Let’s say the price of USDC is $1 and the price of SUI is also $1. With $7,000 you can borrow out 7,000 USDC **but** for SUI you can only borrow out 5,600 SUI.
 
