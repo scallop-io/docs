@@ -88,10 +88,10 @@ For example, if the outflow limit of USDC is 1,000,000, then the total amount of
 
 | Asset name | Outflow limit | Time period |
 |------------|---------------|-------------|
-| wUSDC      | 1,000,000     | 24 hours    |
+| wUSDC      | 3,000,000     | 24 hours    |
 | wUSDT      | 1,000,000     | 24 hours    |
 | wETH       | 1,000         | 24 hours    |
-| SUI        | 1,000,000     | 24 hours    |
+| SUI        | 5,000,000     | 24 hours    |
 | CETUS      | 1,000,000     | 24 hours    |
 | afSUI      | 10,000        | 24 hours    |
 | haSUI      | 10,000        | 24 hours    |
