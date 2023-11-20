@@ -4,7 +4,7 @@
 
 The Scallop Project Contributors currently consist of 7 core members who are solely focused on this project. The CEO and founder bring extensive experience in web application security, development, and crypto, having founded Scallop in early 2021 and expanded it to the Sui network in 2022. Under their leadership, the project contributors have achieved numerous milestones, such as receiving the first DeFi project award grants from the Sui Foundation and ranking high in various Hackathon and CTF challenges.
 
-For more Scallop Project Contributor info please visit​ https://scallop.io/
+For more Scallop Project Contributor info please visit​ [https://scallop.io/](https://scallop.io/)
 
 ## Does Scallop charge any fees?
 
@@ -25,10 +25,6 @@ When users claim mining rewards, 2% of the total mining rewards will be paid to 
 #### Liquidation Fee
 
 When a user's unhealthy accounts are liquidated, 1% of the liquidation amount will be paid to the protocol as protocol income.
-
-#### Sui Network Fees
-
-At present, Scallop does not impose any additional fees on your transactions. Only the minimal transaction fees associated with the Sui network are necessary for processing your transactions on Scallop. These Sui transaction fees are deducted from your wallet when your transaction is executed.&#x20;
 
 #### Flash Loan Fee
 
