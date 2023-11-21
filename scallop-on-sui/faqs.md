@@ -12,7 +12,7 @@ In order to ensure the long-term operation of the protocol, Scallop charges a ce
 
 #### Borrowing Fee
 
-When users take out a loan, 0.1% of the total loan amount will be paid to the protocol as protocol income.
+When users take out a loan, 0.1% of the orrowing amount will be paid to the protocol as protocol income.
 
 #### Borrowing Interest Fee
 
