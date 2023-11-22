@@ -12,7 +12,7 @@ The components of the Scallop price modules planning include **Pyth, Switchboard
 
 To reduce the risk of price manipulation in lending protocols, we have added an extra layer of security for the oracle (the oracle responsible for price provider), we use multiple oracles and evaluate their published prices. If any anomalies are detected, we abort the operation. A primary oracle is chosen as the main data source, while additional oracles serve as supplementary proof for the primary oracle's price.
 
-## **TWAP Oracles**&#x20;
+## **\*TWAP Oracles (Building)**
 
 Blockchain oracles supply real-world data to smart contracts in DeFi, such as asset prices or election outcomes. To protect DeFi smart contracts from price manipulation, Time Weighted Average Price (TWAP) oracles have been implemented to improve security.
 
