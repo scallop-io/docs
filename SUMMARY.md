@@ -19,6 +19,7 @@
 * [FAQs](scallop-on-sui/faqs.md)
 * [Bug Bounty](scallop-on-sui/bug-bounty.md)
 * [Scallop Token](scallop-on-sui/scallop-token.md)
+* [Protocol Da](scallop-on-sui/protocol-da.md)
 
 ## Scallop Pools on Solana
 
