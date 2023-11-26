@@ -9,6 +9,8 @@ These are the Scallop recommended Sui wallets:
 * [**Ethos**](https://twitter.com/EthosWalletXYZ)
 * [**Elli**](https://elliwallet.com/)
 * [**Suiet**](https://suiet.app/)
+* [**OKX**](https://www.okx.com/hk/web3)
+* [**Bitget** ](https://web3.bitget.com/)
 
 1. Install a wallet you like.
 2. Create a password. (This password is for this browser, in case bad guys steal your tokens by stealing your laptop or use it without asking, etc.)
