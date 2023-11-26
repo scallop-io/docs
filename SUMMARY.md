@@ -9,6 +9,7 @@
   * [sCoin](scallop-on-sui/lending/scoin.md)
 * [Borrowing](scallop-on-sui/borrowing.md)
 * [Interest Rates](scallop-on-sui/interest-rate.md)
+* [Protocol Data](scallop-on-sui/protocol-data.md)
 * [Liquidations](scallop-on-sui/liquidations.md)
 * [Oracles](scallop-on-sui/oracles.md)
 * [Risks](scallop-on-sui/risks.md)
@@ -19,7 +20,6 @@
 * [FAQs](scallop-on-sui/faqs.md)
 * [Bug Bounty](scallop-on-sui/bug-bounty.md)
 * [Scallop Token](scallop-on-sui/scallop-token.md)
-* [Protocol Da](scallop-on-sui/protocol-da.md)
 
 ## Scallop Pools on Solana
 
