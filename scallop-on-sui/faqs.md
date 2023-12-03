@@ -18,10 +18,6 @@ When users take out a loan, 0.1% of the borrowing amount will be paid to the pro
 
 When users pay the borrowing interest, 10% of the total interest amount will be paid to the protocol as protocol income.
 
-#### Reward Fee
-
-When users claim mining rewards, 2% of the total mining rewards will be paid to the protocol as protocol income.
-
 #### Liquidation Fee
 
 When a user's unhealthy accounts are liquidated, 1% of the liquidation amount will be paid to the protocol as protocol income.
