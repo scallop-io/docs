@@ -44,11 +44,11 @@ When doing the liquidation, The liquidation penalty is usually bigger than liqui
 
 ## Liquidation Scenario
 
-Consider a hypothetical scenario where Kris provides $12,500 USDC and borrows $9,800 worth of wETH. If the value of wETH increases by 7.85% to approximately $10,600, Kris's account becomes eligible for liquidation.
+Consider a hypothetical scenario where Kris provides $12,500 USDC and borrows $9,800 worth of wETH. If the value of wETH increases by 7% to approximately $10,486, Kris's account becomes eligible for liquidation.
 
-In this liquidation event, the liquidator repays 18% of the wETH loan, which amounts to $1,764. Additionally, the liquidator collects $1,764 from the collateral USDC supply to cover the borrowed wETH. As a bonus for successfully completing the liquidation, the liquidator also receives an additional 9% ($158).
+In this liquidation event, the liquidator repays \~37% of the wETH loan, which amounts to $3,846. Additionally, the liquidator collects $4,050 from the collateral USDC supply to cover the borrowed wETH. As a bonus for successfully completing the liquidation, the liquidator also receives an additional \~5% ($194).
 
-After the liquidation process, Kris is left with $10,738 in USDC ($12,500 - $1,764 - $158) and $8,836 in borrowed wETH ($10,600 - $1,764). The liquidator, on the other hand, paid $1,764 in wETH and received $1,922 in USDC, resulting in a profit of $158.
+After the liquidation process, Kris is left with $8,450 in USDC ($12,500 - $4050) and $8,836 in borrowed wETH ($10,600 - $1,764). The liquidator, on the other hand, paid $1,764 in wETH and received $1,922 in USDC, resulting in a profit of $158.
 
 As a result of the liquidation, Kris's Liquidation Threshold decreases from 80% to 77%, indicating the impact on his account's risk exposure, while ensuring the specific numerical values are different from the original example.
 
