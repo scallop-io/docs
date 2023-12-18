@@ -1,4 +1,4 @@
-# Protocol Da
+# Protocol Data
 
 ## Asset Types
 
@@ -23,14 +23,14 @@ Scallop adopts a tri-linear interest rate model. The interest rate for borrow go
 
 | Asset  | 0% utilization | 60% utilization | 90% utilization | 100% utilization |
 | ------ | -------------- | --------------- | --------------- | ---------------- |
-| wUSDC  | 0%             | 8%              | 50%             | 150%             |
-| wUSDT  | 0%             | 8%              | 50%             | 150%             |
-| wETH   | 0%             | 10%             | 100%            | 300%             |
-| SUI    | 0%             | 10%             | 100%            | 300%             |
-| CETUS  | 0%             | 10%             | 100%            | 300%             |
-| afSUI  | 0%             | 10%             | 100%            | 300%             |
-| haSUI  | 0%             | 10%             | 100%            | 300%             |
-| vSUI   | 0%             | 10%             | 100%            | 300%             |
+| wUSDC  | 0%             | 6%              | 50%             | 150%             |
+| wUSDT  | 0%             | 6%              | 50%             | 150%             |
+| wETH   | 0%             | 8%              | 100%            | 300%             |
+| SUI    | 0%             | 8%              | 100%            | 300%             |
+| CETUS  | 0%             | 8%              | 100%            | 300%             |
+| afSUI  | 0%             | 8%              | 100%            | 300%             |
+| haSUI  | 0%             | 8%              | 100%            | 300%             |
+| vSUI   | 0%             | 8%              | 100%            | 300%             |
 
 
 
