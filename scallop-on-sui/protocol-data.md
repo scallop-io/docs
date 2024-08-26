@@ -22,7 +22,7 @@
 
 Scallop adopts a tri-linear interest rate model. The interest rate for borrow goes higher as the utilization rate increases.
 
-| Asset | 0% utilization | 60% utilization | 90% utilization | 100% utilization |
+| Asset | 0% utilization | 70% utilization | 90% utilization | 100% utilization |
 |-------| -------------- | --------------- | --------------- | ---------------- |
 | wUSDC | 0%             | 6%              | 50%             | 150%             |
 | wUSDT | 0%             | 6%              | 50%             | 150%             |
