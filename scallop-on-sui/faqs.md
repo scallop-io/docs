@@ -28,8 +28,8 @@ When users use flash loans, 0% of the flash loan amount will be paid to the prot
 
 #### Sui Network Fee
 
-Sui Network Fees are necessary for processing your transactions on Scallop. These Sui transaction fees are deducted from your wallet when your transaction is executed. (Usually less than 0.0001 SUI)
+Sui Network Fees are necessary for processing your transactions on Scallop. These Sui transaction fees are deducted from your wallet when your transaction is executed.
 
 #### Oracle Fee
 
-We have added an extra layer of security for the oracle (the oracle responsible for price provider), as a tradeoff you need to pay an additional fee to fetch from multi-oracle. (Usually less than 0.01 SUI)
+We have added an extra layer of security for the oracle (the oracle responsible for price provider), as a tradeoff you need to pay an additional fee to fetch from multi-oracle.
