@@ -16,10 +16,10 @@ Scallop Sui Kit (Typescript):\
 You can use our endpoint to get addresses
 
 ```http
-https://sui.api.scallop.io/addresses/{id}
+https://sui.apis.scallop.io/addresses/{id}
 ```
 
-Our current active address id : `6462a088a7ace142bb6d7e9b`
+Our current active address id : `67c44a103fe1b8c454eb9699`
 
 
 
