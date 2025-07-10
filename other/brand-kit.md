@@ -11,7 +11,6 @@ description: If you need some pictures of Scallop you can contact us!
 ![Scallop White Font](../.gitbook/assets/logo-white.png)
 
 
-
 <figure><img src="../.gitbook/assets/image (20) (3).png" alt=""><figcaption><p>White Font &#x26; Logo</p></figcaption></figure>
 
 ###
