@@ -4,7 +4,7 @@ description: If you need some pictures of Scallop you can contact us!
 
 # Brand kit 🎨
 
-<a href="https://drive.google.com/drive/folders/1WTuq2xecB_ZIQIHpeURbZsG2AOXjX3ZC" class="button primary" data-icon="download">Download Brand Kit</a>
+<a href="https://drive.google.com/drive/folders/1WTuq2xecB_ZIQIHpeURbZsG2AOXjX3ZC?usp=sharing" class="button primary" data-icon="download">Download Brand Kit</a>
 
 ***
 
@@ -32,34 +32,69 @@ Always choose the color of Scallop logo based on these color configurations. Mai
 
 ### Logo Clearspace
 
-Scallop logo needs a minimum amount of spacing to maintain the visibility, legibility, and visual impact.\
-To make sure the logo has enough clear space, use the letter ‘o’ in the wordmark as a guide for spacing.
+Scallop logo needs a minimum amount of spacing to maintain the visibility, legibility, and visual impact.
 
-<figure><img src="../.gitbook/assets/clearspace_guide_horizontal.png" alt=""><figcaption></figcaption></figure>
+To make sure the logo has enough clear space, use the letter ‘o’ in the wordmark as a guide for spacing. Do not place any objects, such as graphics or text in the clear space shown.
+
+<figure><img src="../.gitbook/assets/clearspace_guide_horizontal.png" alt="Scallop Logo Clearspace Guide"><figcaption></figcaption></figure>
 
 ### Logo Placement Guide
 
 {% columns %}
 {% column %}
-<figure><img src="../.gitbook/assets/logo-dos-1.svg" alt="Scallop logo placement guide"><figcaption><p>Use only the official logo. Always use them in brand color configurations.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/logo-dos-1.svg" alt="Scallop logo placement guide"><figcaption><p>Use only the official logo. Always use them in the configurations and correct brand colors</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/logo-donts-1.svg" alt="Scallop logo placement guide"><figcaption><p>Don’t stretch the logo in non-uniform way.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/logo-donts-1.svg" alt="Scallop logo placement guide"><figcaption><p>Don’t stretch the logo in non-uniform way</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/logo-donts-3.svg" alt="Scallop logo placement guide"><figcaption><p>Don’t apply the logo in low resolution.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/logo-donts-3.svg" alt="Scallop logo placement guide"><figcaption><p>Don’t apply the logo in low resolution</p></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../.gitbook/assets/logo-donts-4.svg" alt="Scallop logo placement guide"><figcaption><p>Don’t use Scallop seasonal logo for partnership/formal purposes.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/logo-donts-4.svg" alt="Scallop logo placement guide"><figcaption><p>Don’t use Scallop seasonal logo for partnership/formal purposes</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/logo-donts-2.svg" alt="Scallop logo placement guide"><figcaption><p>Don’t add any effect to the logo.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/logo-donts-2.svg" alt="Scallop logo placement guide"><figcaption><p>Don’t add any effect to the logo</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/logo-donts-5.svg" alt="Scallop logo placement guide"><figcaption><p>Don’t rotate the logo.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/logo-donts-5.svg" alt="Scallop logo placement guide"><figcaption><p>Don’t rotate the logo</p></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
+### Sub-brands
+
+Scallop products and services that are not uniquely branded use this generic layout to keep the brand consistency.&#x20;
+
+The logos are constructed from the Scallop logotype and sub-brand wordmark. We put a greater emphasis on the core branding by differentiating the size and wordmark weight. View the samples below.
+
+[Download Sub-brands Logo](https://drive.google.com/drive/folders/1eBv08FwyE1suzfxFAx38M0fQpghKEbNb?usp=drive_link)
+
+<div align="center"><figure><picture><source srcset="../.gitbook/assets/scallop_lend_primary_color.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/scallop_lend_reversed_primary_color.svg" alt="Scallop Sub-brand Logo: Scallop Lend"></picture><figcaption></figcaption></figure></div>
+
+***
+
+<figure><picture><source srcset="../.gitbook/assets/scallop_swap_primary_color.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/scallop_swap_reversed_primary_color.svg" alt="Scallop Sub-brand Logo: Scallop Swap"></picture><figcaption></figcaption></figure>
+
+***
+
+<figure><picture><source srcset="../.gitbook/assets/scallop_tools_primary_color.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/scallop_tools_reversed_primary_color.svg" alt=""></picture><figcaption></figcaption></figure>
 
 
-## Scallop Theme Colors
 
-<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p>Scallop Theme Colors</p></figcaption></figure>
+## Colors
+
+These are Scallop’s brand color palette that reflects the brand personality.&#x20;
+
+The palette consists of shades of blue and coral, inspired by scuba-diving seascape. These colors, reflecting our product, connecting to the sea themes and fostering professionalism and nature growth.
+
+### Brand Colors
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Ocean</strong></td><td>Scallop's Navy Color<br>HEX: #1E2D45<br>RGB: 30/45/69<br>CMYK: 54/38/0/73<br>PMS: 533C</td><td>Ocean is the dominant brand color. We use this color for backgrounds, large graphic elements, establishing the overall brand mood.</td><td><a href="../.gitbook/assets/color-container-ocean.svg">color-container-ocean.svg</a></td></tr></tbody></table>
+
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Twilight</strong></td><td>Scallop's Blue Color<br>HEX: #334664 <br>RGB: 51/70/100<br>CMYK: 49/30/0/61</td><td>Twilight is our secondary brand color. We use this color for section backgrounds that can comfortably carry our logo, type and graphics.</td><td><a href="../.gitbook/assets/color-container-twilight.svg">color-container-twilight.svg</a></td></tr><tr><td><strong>Bubble</strong></td><td>Scallop's Light Blue Color<br>HEX: #9CD0DD<br>RGB: 156/208/221<br>CMYK: 29/6/0/13</td><td>Bubble is the color for call to actions, interactive elements, and to provide visual contrast. Use this color sparingly to maintain its impact.</td><td><a href="../.gitbook/assets/color-container-bubble.svg">color-container-bubble.svg</a></td></tr><tr><td><strong>Sand</strong></td><td>Scallop's Peach Color<br>HEX: #F1D6C8<br>RGB: 241/214/200<br>CMYK: 0/11/17/5</td><td>Sand is the circle color of our logo. We use this color as a subtle accent on texts or graphic elements to tie back to the brand's visual identity.</td><td><a href="../.gitbook/assets/color-container-sand.svg">color-container-sand.svg</a></td></tr><tr><td><strong>Mist</strong></td><td>Scallop's Grey Color<br>HEX: #F1D6C8<br>RGB: 241/214/200<br>CMYK: 0/11/17/5</td><td>Mist is the prominent color of our logo. Use this color as neutral supporting color.</td><td><a href="../.gitbook/assets/color-container-mist.svg">color-container-mist.svg</a></td></tr><tr><td><strong>Night</strong></td><td>Scallop's Black Color<br>HEX: #000000<br>RGB: 0/0/0<br>CMYK: 100/100/100/100</td><td>Night is our text color on light background. Use this color as neutral supporting color.</td><td><a href="../.gitbook/assets/color-container-night.svg">color-container-night.svg</a></td></tr><tr><td><strong>Pearl</strong></td><td>Scallop's White Color<br>HEX: #FFFFFF<br>RGB: 255/255/255<br>CMYK: 0/0/0/0</td><td>Pearl is our main longform texts color. Use this color as neutral supporting color.</td><td><a href="../.gitbook/assets/color-container-pearl.svg">color-container-pearl.svg</a></td></tr></tbody></table>
+
+## Typography
+
+Scallop uses Poppins and Roboto for our brand communications and application interface.
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Poppins</strong></td><td><p>Used in headlines and titles.</p><ul><li>In app interface, we use Poppins SemiBold.</li><li>In marketing outputs, we use Poppins Extrabold. We also use Poppins Bold in case where ExtraBold are not suitable for titles.</li></ul></td><td><a href="https://fonts.google.com/specimen/Poppins">Download</a></td><td><a href="https://fonts.google.com/specimen/Poppins">https://fonts.google.com/specimen/Poppins</a></td><td><a href="../.gitbook/assets/headline.svg">headline.svg</a></td></tr><tr><td><strong>Roboto</strong></td><td><p>Used in body texts.</p><ul><li>In app interface and marketing, we use Roboto Regular for body texts.</li><li>In app interface and marketing output, we use Roboto SemiBold for body text highlight.</li></ul></td><td><a href="https://fonts.google.com/specimen/Roboto">Download</a></td><td></td><td><a href="../.gitbook/assets/body.svg">body.svg</a></td></tr></tbody></table>
 
