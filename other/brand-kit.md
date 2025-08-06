@@ -42,7 +42,7 @@ To make sure the logo has enough clear space, use the letter ‘o’ in the word
 
 {% columns %}
 {% column %}
-<figure><img src="../.gitbook/assets/logo-dos-1.svg" alt="Scallop logo placement guide"><figcaption><p>Use only the official logo. Always use them in the configurations and correct brand colors</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/logo-dos-1.svg" alt="Scallop logo placement guide"><figcaption><p>Always use the official logo in the approved configurations and correct brand colors</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/logo-donts-1.svg" alt="Scallop logo placement guide"><figcaption><p>Don’t stretch the logo in non-uniform way</p></figcaption></figure>
 
