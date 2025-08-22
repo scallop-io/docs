@@ -2,9 +2,7 @@
 
 ## **Scallop**
 
-
-
-<figure><img src=".gitbook/assets/LOGO-White.png" alt=""><figcaption><p>Scallop Logo</p></figcaption></figure>
+<figure><picture><source srcset=".gitbook/assets/logotype_primary_color_full_width.svg" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/logotype_reversed_primary_color_full_width.svg" alt=""></picture><figcaption><p>Scallop Logo</p></figcaption></figure>
 
 Scallop is the pioneering Next Generation peer-to-peer Money Market for the Sui ecosystem and is also the first DeFi protocol to receive an official grant from the Sui Foundation. Emphasizes institutional-grade quality, enhanced composability, transparency, and robust security. Offers Lending/Borrowing, lending derivatives, Sui PTB building tools, flash loans, SDKs, and a UI for swaps and bridges.\
 \
