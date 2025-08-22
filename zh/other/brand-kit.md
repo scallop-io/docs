@@ -14,7 +14,7 @@ description: 如果您需要一些 Scallop的照片，您可以聯絡我們!
 
 Scallop 的標誌是一個扇貝圖案，除了代表品牌名稱，也呼應了 Sui 區塊鏈的海洋主題。
 
-請以這四種標誌組合形式呈現 Scallop 標誌，並搭配適合的[配色規範](brand-kit.md#biao-zhi-zu-he-xing-shi-logo-configurations)使用，以確保標誌在各種情境下都具備良好辨識度與可讀性。
+請以這四種標誌組合形式呈現 Scallop 標誌，並搭配適合的[配色規範](brand-kit.md#biao-zhi-pei-se-gui-fan-logo-color-configurations)使用，以確保標誌在各種情境下都具備良好辨識度與可讀性。
 
 {% hint style="info" %}
 *   遇到特殊節日或活動時，例如新年、聖誕節、農曆新年或各種行銷活動，我們也會推出特別版的標誌。這些設計會用在 Scallop 的 DApp 和社群媒體上。
