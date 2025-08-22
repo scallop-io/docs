@@ -14,7 +14,7 @@ description: If you need some pictures of Scallop you can contact us!
 
 The Scallop logo has an iconic scallop illustration, symbolizing the brand name and aligning with the theme of Sui Blockchain.
 
-Present Scallop’s logo in these four ways. Apply Scallop logo with the suitable [Color Configuration](brand-kit.md#logo-configurations) so that the logo maintain its visibility and legibility.
+Present Scallop’s logo in these four ways. Apply Scallop logo with the suitable [Color Configuration](brand-kit.md#logo-color-configurations) so that the logo maintain its visibility and legibility.
 
 {% hint style="info" %}
 * Scallop also uses logos specially crafted for special occasions. For example, New Year, Christmas, CNY, and special campaigns logo. We use this in Scallop DApp and social medias.\
