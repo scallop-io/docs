@@ -2,9 +2,7 @@
 
 ## **Scallop**
 
-
-
-<figure><img src=".gitbook/assets/LOGO-White.png" alt=""><figcaption><p>Scallop Logo</p></figcaption></figure>
+<figure><picture><source srcset=".gitbook/assets/logotype_primary_color_full_width.svg" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/logotype_reversed_primary_color_full_width.svg" alt=""></picture><figcaption><p>Scallop Logo</p></figcaption></figure>
 
 Scallop 是 Sui 生態系中新一代點對點貨幣市場，也是第一個獲得 Sui 基金會官方資助的 DeFi 協議。我們強調機構級品質、高度可組合性、透明性和強大的安全性。提供貸款/借貸、貸款衍生品、Sui PTB 建設工具、閃電貸款、SDK，以及用於代幣交換和橋接的界面。\
 \
