@@ -12,6 +12,8 @@ Scallop has completed Zellic, OtterSec, and MoveBit's smart contract auditing. S
 
 {% file src="../.gitbook/assets/Scallop_Audit.pdf" %}
 
+{% file src="../.gitbook/assets/scallop_audit_2024.pdf" %}
+
 **Scallop Smart Contract Auditing Report by MoveBit:**
 
 {% file src="../.gitbook/assets/Scallop Smart Contract Audit Report.pdf" %}
