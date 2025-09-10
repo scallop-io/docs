@@ -49,4 +49,5 @@ audited by MoveBit
 ### 借款激勵
 
 {% file src="../.gitbook/assets/Scallop -  Borrow Incentive Audit Report-2025-6-20.pdf" %}
-
+audited by MoveBit
+{% endfile %}
