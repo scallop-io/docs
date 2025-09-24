@@ -14,7 +14,7 @@
   * [sCoin](scallop-lend/lending/scoin.md)
 * [Obligation](scallop-lend/obligation.md)
 * [Borrowing](scallop-lend/borrowing.md)
-* [Interest Rates (Updating)](scallop-lend/interest-rate.md)
+* [Interest Rates ](scallop-lend/interest-rate.md)
 * [Liquidation](scallop-lend/liquidations.md)
 * [Risks](scallop-lend/risks.md)
 * [Isolated Asset](scallop-lend/isolated-asset.md)

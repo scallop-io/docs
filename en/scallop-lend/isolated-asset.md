@@ -2,7 +2,7 @@
 
 We are thrilled to announce the launch of Isolated Asset Pools on Scallop, this new feature is Scallop’s next step towards providing more features for our users, making Scallop an All-In-One platform to onboard the next millions of users.
 
-<figure><img src="../.gitbook/assets/截圖 2024-12-23 下午10.07.41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/截圖 2025-09-24 下午2.23.53.png" alt=""><figcaption></figcaption></figure>
 
 ## What are Isolated Assets?
 
@@ -24,9 +24,9 @@ In order to borrow isolated assets, users have to first deposit collateral asset
 For Example:
 
 Alice has deposited multiple collateral (USDC, USDT)\
-After Alice has borrowed isolated asset $FUD, Alice cannot borrow any other asset like SUI, ETH or even $DEEP (which also isolated asset).
+After Alice has borrowed isolated asset $mUSD, Alice cannot borrow any other asset like SUI, ETH or even $NS (which also isolated asset).
 
-To be able to borrow other asset，Alice need to repay all of her $FUD debt to be able to borrow other assets including $DEEP.&#x20;
+To be able to borrow other asset，Alice need to repay all of her $mUSD debt to be able to borrow other assets including $NS.&#x20;
 {% endhint %}
 
 ## The best way to borrow Isolated Assets
