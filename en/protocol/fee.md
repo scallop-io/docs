@@ -18,10 +18,6 @@ When a user's account becomes unhealthy and undergoes liquidation, a specific fe
 
 When users utilize flash loans—a financial instrument allowing for the borrowing of assets without collateral for a concise duration, typically within a single transaction block—there is a unique fee structure in place. Specifically, for these transactions, 0.1% of the flash loan amount is allocated to the protocol as income.
 
-## Scallop Swap Fee
-
-There is a 0.01% fee for each swap transaction. This fee supports the protocol's ongoing growth and development, allowing us to deliver additional features and improvements.
-
 ## Sui Network Fee
 
 Sui Network Fees are necessary for processing your transactions on Scallop. These Sui transaction fees are deducted from your wallet when your transaction is executed. (Usually less than 0.0001 SUI)
