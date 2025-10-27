@@ -31,6 +31,7 @@
 * [Audits](protocol/auditing.md)
 * [Oracles](protocol/oracles.md)
 * [Bug Bounty](protocol/bug-bounty.md)
+* [White Paper](protocol/white-paper.md)
 
 ## Token
 
