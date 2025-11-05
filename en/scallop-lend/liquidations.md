@@ -58,15 +58,25 @@ Here are the key liquidation parameters applied to borrowers undergoing liquidat
 
 ### Liquidation Penalty
 
-Borrowers subject to liquidation incur a penalty, which varies depending on the specific lending pool. This penalty is applied when the borrower’s collateral is sold. For instance, if the liquidation penalty is 10% and $100 of collateral is sold, $90 will be used to repay the borrower’s debt, while the remaining $10 is allocated to the Liquidation Reserve Factor.
+When a borrower’s position falls below the required health threshold, part of their collateral may be sold through liquidation. During this process, a liquidation penalty is applied to the value of the collateral.\
+This penalty represents the total cost incurred by the borrower and is divided between the **liquidator’s reward** and the **protocol reserve**.
+
+For example, if the liquidation penalty is **10%**, then for every **$100** of collateral liquidated, only **$90** will be used to repay the borrower’s debt. The remaining **$10** represents the liquidation cost, which is further distributed according to the reward and reserve factor settings.
 
 ### Liquidation Reseve Factor
 
-The Liquidation Reserve Factor is the portion of the liquidation penalty directed to Scallop’s treasury. For example, if the liquidation penalty is 10% and the liquidation reward is 5%, liquidators will pay $95 for $100 worth of collateral. Of this amount, $90 is used to repay the borrower’s debt, while $5 goes to the treasury as part of the reserve factor.
+The Liquidation Reserve Factor represents the portion of the liquidation penalty directed to Scallop’s treasury.\
+It ensures the protocol continues to grow a safety buffer for future risks.
+
+Continuing the previous example, if the **liquidation penalty** is **10%** and the **liquidation reward** is **5%**, the remaining **5%** of the penalty goes to Scallop’s treasury as the **Liquidation Reserve Factor**.
 
 ### Liquidation Reward
 
-To encourage participation in the liquidation process, Scallop rewards liquidators who repay outstanding loans and acquire the borrower’s collateral at a discount. For example, with a 5% liquidation reward, liquidators can purchase the collateral at 95% of its market value, incentivizing timely and efficient liquidation actions.
+To encourage participation in the liquidation process, Scallop offers a liquidation reward to users who repay unhealthy loans and acquire collateral.\
+The reward allows the liquidator to purchase the borrower’s collateral at a **discount** from its market value.
+
+For instance, if the liquidation reward is **5%**, the liquidator can buy **$100** worth of collateral by paying **$95**, effectively gaining a **5% discount**.\
+This incentive ensures that under-collateralized positions are quickly and efficiently liquidated, maintaining overall protocol stability.
 
 ### Liquidation Factor
 
