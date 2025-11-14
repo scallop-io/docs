@@ -6,7 +6,6 @@ These are the Scallop recommended Sui wallets:
 
 * [**Sui Wallet**](https://github.com/MystenLabs/mysten-app-docs/blob/main/mysten-sui-wallet.md)
 * [**Martian**](https://martianwallet.xyz/)
-* [**Ethos**](https://twitter.com/EthosWalletXYZ)
 * [**Elli**](https://elliwallet.com/)
 * [**Suiet**](https://suiet.app/)
 * [**OKX**](https://www.okx.com/web3)
