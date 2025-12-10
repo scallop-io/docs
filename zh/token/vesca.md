@@ -17,8 +17,7 @@ veSCA 有助於減少流通的 $SCA 代幣數量，增強去中心化與市場�
 
 僅需要鎖定您的 SCA 即可獲得 veSCA.
 
-您收到的 veSCA 數量與您鎖定的 SCA 數量和鎖定的持續時間成正比。您的 veSCA 數量會隨著時間逐漸減少，並在鎖定期結束後降至零。鎖定的 SCA 屆時將會全部解鎖。\
-
+您收到的 veSCA 數量與您鎖定的 SCA 數量和鎖定的持續時間成正比。您的 veSCA 數量會隨著時間逐漸減少，並在鎖定期結束後降至零。鎖定的 SCA 屆時將會全部解鎖。<br>
 
 <figure><img src="../.gitbook/assets/telegram-cloud-photo-size-5-6291581026954230824-y.jpg" alt=""><figcaption><p>veSCA 衰減圖</p></figcaption></figure>
 
@@ -79,8 +78,7 @@ _計算收益權重的公式_
 
 現在，讓我們來計算您將獲得的 APR
 
-\
-
+<br>
 
 $$
 EarningAPR = PoolIncentiveAPR \times EarningBoost
@@ -108,8 +106,7 @@ $$
 
 忠誠度計畫旨在在我們達到某些收入里程碑時獎勵用戶。在每個里程碑，我們都會進行代幣回購，將這些代幣分發給持有 veSCA 的用戶。
 
-我們曾經進行過的忠誠計畫: [https://medium.com/scallopio/search?q=Loyalty](https://medium.com/scallopio/search?q=Loyalty)\
-
+我們曾經進行過的忠誠計畫: [https://medium.com/scallopio/search?q=Loyalty](https://medium.com/scallopio/search?q=Loyalty)<br>
 
 ### 治理 (2025第一季) <a href="#id-4c10" id="id-4c10"></a>
 

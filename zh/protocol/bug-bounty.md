@@ -16,10 +16,12 @@ Scallop 的主要目標是提供一個遵循最高安全標準的 DeFi 協議。
 
 Scallop 項目貢獻者將對每個提交進行單獨評估，並根據問題的嚴重性來確定獎勵金額：
 
-* 嚴重: 高達 $300,000
-* 高度: 高達 $30,000
-* 中度: 高達 $3,000
-* 低度: 高達 $300
+* 特殊危急案例 : 最高可達協定損失金額的 20%（取決於案件具體情況）
+* 危急嚴重性 : $30,000 - $300,000
+* 高嚴重性 : $3,000 - $30,000
+* 中等嚴重性 : $300 - $3,000
+* 低嚴重性: $30 - $300
+*
 
 在提交漏洞報告時，請包括以下信息：
 
@@ -31,3 +33,5 @@ Scallop 項目貢獻者將對每個提交進行單獨評估，並根據問題的
 * 影響的範圍:
 * 附件:
 * (相關的截圖或協助文件)
+
+關於我們智慧合約 (Smart Contract) 漏洞賞金計畫（Bug Bounty Program）的詳情，您可以查閱此連結：[https://hackenproof.com/programs/scallop-protocol-smart-contract](https://hackenproof.com/programs/scallop-protocol-smart-contract)
