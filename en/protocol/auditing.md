@@ -20,6 +20,10 @@ Scallop has completed Zellic, OtterSec, and MoveBit's smart contract auditing. S
 
 {% file src="../.gitbook/assets/Scallop Smart Contract Audit Report.pdf" %}
 
+**Scallop Smart Contract Auditing Report by Asymptotic:**
+
+{% file src="../.gitbook/assets/scallop-audit-2025-12-02.pdf" %}
+
 **Scallop sui-lending-protocol** �&#xDD17;**:**\
 \
 [https://github.com/scallop-io/sui-lending-protocol](https://github.com/scallop-io/sui-lending-protocol)

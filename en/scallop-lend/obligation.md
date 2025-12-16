@@ -20,8 +20,7 @@ An `Obligation` is a shared object. instead of holding the `Obligation` object i
 
 
 
-Essentially, your `Obligation` can be included in any transaction. However, for certain actions that _require proof of ownership_, others cannot use your `Obligation` because the function requires ownership proof. This is where your `ObligationKey` **plays a crucial role**. \
-
+Essentially, your `Obligation` can be included in any transaction. However, for certain actions that _require proof of ownership_, others cannot use your `Obligation` because the function requires ownership proof. This is where your `ObligationKey` **plays a crucial role**. <br>
 
 For instance, when you want to borrow, the borrowing function will require you to provide both the `Obligation` and `ObligationKey` objects. In this scenario, anyone could pass your `Obligation` in this function, BUT **only you** can use the **correct** `ObligationKey`. This mechanism secures your `Obligation` against unauthorized use.
 

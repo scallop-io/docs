@@ -2,7 +2,7 @@
 
 ## Borrow
 
-To borrow on Scallop, you need to deposit collateral so that you can borrow the desired asset. However, before making the deposit and borrowing, you need to create an [obligation](broken-reference) account.
+To borrow on Scallop, you need to deposit collateral so that you can borrow the desired asset. However, before making the deposit and borrowing, you need to create an [obligation](/broken/pages/c56ar21giCcXNoTCw5nh#set-account) account.
 
 <figure><img src="../.gitbook/assets/image (7).png" alt="" width="563"><figcaption><p>Create obligation account</p></figcaption></figure>
 
@@ -56,7 +56,7 @@ You can claim rewards from borrowing in that panel as well. So, if you stake you
 
 ### Avoid Liquidation
 
-To avoid liquidation, you can set the Risk Level of your obligation to be less than 100%. If the Risk Level of your obligation account exceeds 100%, Scallop will initiate the [Soft Liquidation](broken-reference) mechanism.
+To avoid liquidation, you can set the Risk Level of your obligation to be less than 100%. If the Risk Level of your obligation account exceeds 100%, Scallop will initiate the [Soft Liquidation](/broken/pages/p1lMLrvjAMQacRm9RNbH#soft-liquidation) mechanism.
 
 <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Borrowing Dashboard</p></figcaption></figure>
 
@@ -74,4 +74,4 @@ Before withdrawing collateral, make sure you have repaid all the assets you borr
 
 <figure><img src="../.gitbook/assets/image (21).png" alt="" width="375"><figcaption><p>Withdraw Collateral</p></figcaption></figure>
 
-Visit [Borrowing](broken-reference) and [Liquidation](broken-reference) to get more information
+Visit [Borrowing](/broken/pages/c56ar21giCcXNoTCw5nh) and [Liquidation](/broken/pages/p1lMLrvjAMQacRm9RNbH) to get more information

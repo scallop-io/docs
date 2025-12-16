@@ -16,8 +16,7 @@ veSCA helps decrease the number of $SCA tokens available, which helps make the t
 
 Simply lock your SCA and receive veSCA.
 
-The amount of veSCA that you receive is proportional to the SCA and duration locked. Your veSCA amount will decay over time. It will reach zero once the lock duration is over. Your locked SCA will then be fully released.\
-
+The amount of veSCA that you receive is proportional to the SCA and duration locked. Your veSCA amount will decay over time. It will reach zero once the lock duration is over. Your locked SCA will then be fully released.<br>
 
 <figure><img src="../.gitbook/assets/telegram-cloud-photo-size-5-6291581026954230824-y.jpg" alt=""><figcaption><p>veSCA decay chart</p></figcaption></figure>
 
@@ -78,8 +77,7 @@ _Formula to calculate earning weight._
 
 Now, calculating the APR you will receive is
 
-\
-
+<br>
 
 $$
 EarningAPR = PoolIncentiveAPR \times EarningBoost
@@ -99,8 +97,7 @@ Table above illustrates that when _User Supply Amount_ increases, _veSCA amount_
 
 ### Loyalty Program (Q2 2024)  <a href="#id-3f52" id="id-3f52"></a>
 
-The Loyalty Program is designed to reward users when we reach certain revenue milestones. At each milestone, we will conduct a buyback of our tokens, and these tokens will be distributed to users who hold veSCA.\
-
+The Loyalty Program is designed to reward users when we reach certain revenue milestones. At each milestone, we will conduct a buyback of our tokens, and these tokens will be distributed to users who hold veSCA.<br>
 
 ### Governance (Q3 2024) <a href="#id-4c10" id="id-4c10"></a>
 

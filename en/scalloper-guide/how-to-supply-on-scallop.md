@@ -32,4 +32,4 @@ Reminder: You must have SUI in your wallet to pay for gas fees, and the swap fee
 
 
 
-Visit [Lending](broken-reference) and [sCoins](broken-reference) to get more information
+Visit [Lending](/broken/pages/DgmgSUa30HKzqz2CEbm4) and [sCoins](/broken/pages/zdpLeD6u4FjeAhxvtAoL) to get more information

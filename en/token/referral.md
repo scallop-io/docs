@@ -80,4 +80,4 @@ Once accepted, you can now see that your account will be binded to your Referrer
 
 By participating in the Scallop Referral Program, you’re not just earning rewards; you’re also helping grow our community. Stake your SCA and start sharing your referral link today!
 
-\
+<br>
