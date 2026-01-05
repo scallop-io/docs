@@ -20,6 +20,8 @@ Scallop 已經完成了 Zellic、OtterSec 和 MoveBit 的智能合約審計。Sc
 
 {% file src="../.gitbook/assets/Scallop Smart Contract Audit Report.pdf" %}
 
+{% file src="../.gitbook/assets/Scallop Audit Report-2025-11-24.pdf" %}
+
 **Scallop 智能合約審計報告  by Asmptotic:**
 
 {% file src="../.gitbook/assets/scallop-audit-2025-12-02.pdf" %}
