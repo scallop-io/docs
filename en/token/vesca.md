@@ -9,7 +9,7 @@ veSCA helps decrease the number of $SCA tokens available, which helps make the t
 1. Governance & Voting power (coming soon)
 2. Borrow Reward Boost
 3. Loyalty Program
-4. Referral Program / Tier-based Fee Discount
+4. Referral Program / Tiered Fee Discount
 
 ***
 
