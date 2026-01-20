@@ -6,7 +6,7 @@ veSCA helps decrease the number of $SCA tokens available, which helps make the t
 
 ### Benefit of veSCA
 
-1. Governance & Voting power
+1. Governance & Voting power (coming soon)
 2. Booster of receiving token SCA Emission&#x20;
 3. Receive fees from voted pools
 
