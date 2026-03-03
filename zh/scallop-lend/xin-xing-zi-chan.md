@@ -6,7 +6,7 @@
 
 Emerging Assets 是繼現有的 Main Assets（主資產）與 Isolated Assets（隔離資產）後，新增的第三類資產配置選項，提供一個彈性且效率兼具的機制，便於快速納入新發行或高熱度資產，同時維持整體協議的穩定性與安全性。
 
-<figure><img src=".gitbook/assets/截圖 2025-12-10 上午11.51.29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/截圖 2025-12-10 上午11.51.29.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

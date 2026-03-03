@@ -18,10 +18,7 @@
 * [清算](scallop-lend/liquidations.md)
 * [風險](scallop-lend/risks.md)
 * [隔離資產](scallop-lend/ge-li-zi-chan.md)
-
-***
-
-* [新興資產](xin-xing-zi-chan.md)
+* [新興資產](scallop-lend/xin-xing-zi-chan.md)
 
 ## PROTOCOL
 
