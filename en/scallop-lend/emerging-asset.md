@@ -6,7 +6,7 @@ With the launch of new tokens on the Sui Network, Scallop is excited to introduc
 
 Emerging Asset are a new addition to Scallop’s existing Main Asset and Isolated Asset structures. They provide a flexible and efficient pathway for newly launched or popular assets to be listed, while maintaining the overall stability and security of the protocol.
 
-<figure><img src=".gitbook/assets/截圖 2025-09-24 下午2.28.52.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/截圖 2025-09-24 下午2.28.52.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

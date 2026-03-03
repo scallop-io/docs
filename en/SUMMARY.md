@@ -18,10 +18,7 @@
 * [Liquidation](scallop-lend/liquidations.md)
 * [Risks](scallop-lend/risks.md)
 * [Isolated Asset](scallop-lend/isolated-asset.md)
-
-***
-
-* [Emerging Asset](emerging-asset.md)
+* [Emerging Asset](scallop-lend/emerging-asset.md)
 
 ## PROTOCOL
 
