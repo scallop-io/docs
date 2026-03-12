@@ -1,116 +1,64 @@
 # Liquidation
 
-## Introduction
+### Overview
 
-Liquidation occurs when a borrower’s collateral value falls below the required threshold to secure their loan. This can happen due to a decrease in the collateral’s value or an increase in the value of the borrowed asset.
+Unlike many lending protocols where liquidators can sell off all of a user's collateral at once, Scallop takes a more user-friendly approach. Scallop uses a **soft liquidation** mechanism where liquidators only repay up to **20% of a borrower's total debt** per liquidation call, and receive a portion of the borrower's collateral at a discount in return. This gradual process minimizes the impact on borrowers, preserving as much of their collateral as possible while keeping the protocol solvent.
 
-Before diving into how the liquidation mechanism works in Scallop, it’s essential to understand the key concepts behind liquidation on the platform. Scallop’s approach is designed to minimize the impact on borrowers while ensuring the protocol’s stability through efficient, precise, and user-friendly liquidation processes.
+If a position still remains unhealthy after a partial liquidation, the process can be repeated incrementally until the borrower's position is fully restored to a healthy status.
 
-## Soft Liquidation
+### When Does Liquidation Happen?
 
-Unlike other protocols, where a user’s position becomes unhealthy and liquidators working with the protocol automatically sell all of the user’s collateral to repay the borrower’s debt, Scallop takes a more user-friendly approach.
+<figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
-In Scallop, liquidators only sell the necessary amount of collateral to cover the user’s debt that exceeds the threshold. This ensures the user’s position returns to a healthy state. If the position still remains unhealthy even after partial repayment, the liquidation process will continue incrementally until the user’s position is fully restored to a healthy status.
+Scallop evaluates each borrower's position by comparing two values:
 
-This approach minimizes the impact on users, preserving as much of their collateral as possible while maintaining the integrity of the lending protocol.
+* **Weighted Debt Value**: the total USD value of everything you've borrowed, adjusted by each asset's `borrow_weight`. Assets with higher borrow weights count for more against your position.
+* **Collateral Value for Liquidation**: the total USD value of your deposited collateral, adjusted by each asset's `liquidation_factor`. This determines how much borrowing your collateral can support before liquidation.
 
-## Risk Level
+Your **Risk Level** reflects the ratio between these two values. A Risk Level below 100% means your position is safe. When your Risk Level reaches or exceeds 100%, your weighted debt value has surpassed your collateral value for liquidation, and your position becomes open to liquidation.
 
-Risk Level acts as a threshold indicator. A Risk Level below 100% means the borrower’s position is safe, while a Risk Level of 100% or higher signals that the borrower’s debt has exceeded the safe limit, triggering the possibility of liquidation to protect the protocol’s stability. This metric provides a clear and actionable way for users to monitor their borrowing status and manage risks effectively.
+Each asset on Scallop has its own risk parameters, so the composition of your collateral and debt matters. For example, borrowing a high `borrow_weight` asset against a low `liquidation_factor` collateral puts you closer to the liquidation threshold than a more conservative pairing.
 
-<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption><p>Obligation Portfolio</p></figcaption></figure>
+### Soft Liquidation
 
-So, you might be curious about how Scallop calculates the value of this Risk Level. This is how we calculate the risk level :
+Scallop's soft liquidation mechanism is designed to protect borrowers from losing their entire collateral in a single event.
 
-**Borrower's Collateral**
+**How it works:**
 
-| Coin Name | Price | Deposit | Liquidation Factor |
-| --------- | ----- | ------- | ------------------ |
-| USDC      | $1    | 1000    | 90%                |
-| SUI       | $1    | 500     | 80%                |
+* Each liquidation call can repay a maximum of **20% of the borrower's total debt value** (across all debt types). This cap prevents excessive collateral loss from a single liquidation.
+* If the position is still unhealthy after one liquidation, additional liquidation calls can follow, each limited to 20% of the remaining total debt, until the position returns to health.
+* For very small positions (total debt under **$10**), the full debt can be repaid in a single call. These "dust" positions are too small to liquidate incrementally in an economical way.
 
-{% hint style="info" %}
-Total Collateral Value: $1,500
+This step-by-step approach significantly reduces the risk of cascading bad debt, where one large liquidation could destabilize a position further.
 
-Required Collateral Value: $1,300
-{% endhint %}
+### Liquidation Penalties and Rewards
 
-**Borrower's Current Debt**
+When a liquidation occurs, the borrower's collateral is seized and distributed between the liquidator and the protocol:
 
-| Coin Name | Price | Borrowed | Borrow Weight |
-| --------- | ----- | -------- | ------------- |
-| SCA       | $0.5  | 1000     | 100%          |
-| USDT      | $1    | 500      | 100%          |
+**For the borrower:** You incur a **liquidation penalty** on the collateral that is seized. The penalty rate varies by collateral type and is set by governance, with a maximum of 20%. This means if you are liquidated, you lose slightly more collateral than the debt that was repaid on your behalf.
 
-{% hint style="info" %}
-Borrow value with weight: $1,000
+**For the liquidator:** Liquidators are rewarded with a **liquidation discount**, meaning they receive the borrower's collateral at a price below market value. For example, with a 5% liquidation discount, a liquidator effectively purchases $100 worth of collateral for $95 worth of debt repayment. The maximum discount is 15%.
 
-Risk Level = Borrow Value with Weight / Required Collateral Value
+**For the protocol:** The difference between the liquidation penalty and the liquidation discount flows to the protocol as revenue. For instance, if the penalty is 8% and the discount is 5%, the protocol captures 3% of the seized collateral value.
 
-Current Risk Level: 76%
-{% endhint %}
+The key parameters per collateral type are:
 
-This example demonstrates how Scallop calculates the risk level.
+<table><thead><tr><th>Parameter</th><th width="480.265625">What It Means</th><th>Maximum</th></tr></thead><tbody><tr><td>Liquidation Factor</td><td>How much of your collateral's value counts toward the liquidation threshold. Higher = more room before liquidation.</td><td>95%</td></tr><tr><td>Liquidation Discount</td><td><p>The discount liquidators receive on your collateral. </p><p>Higher = more incentive for liquidators.</p></td><td>15%</td></tr><tr><td>Liquidation Penalty</td><td><p>The total penalty applied to your seized collateral. </p><p>The penalty is always ≥ the discount.</p></td><td>20%</td></tr></tbody></table>
 
-## Liquidation parameter
+Note that the borrower's debt is reduced by the **full repayment amount**. The protocol's revenue share comes from the collateral side, not from the debt repayment. This means borrowers benefit from maximum debt reduction on every liquidation.
 
-Here are the key liquidation parameters applied to borrowers undergoing liquidation on Scallop:
+### Who Can Liquidate?
 
-### Liquidation Penalty
+Liquidation on Scallop is **permissionless**. Anyone can liquidate an unhealthy position. There is no whitelist or special access required. This open design ensures that unhealthy positions are addressed promptly, keeping the protocol solvent.
 
-When a borrower’s position falls below the required health threshold, part of their collateral may be sold through liquidation. During this process, a liquidation penalty is applied to the value of the collateral.\
-This penalty represents the total cost incurred by the borrower and is divided between the **liquidator’s reward** and the **protocol reserve**.
+Liquidators typically run automated bots that monitor positions and execute liquidations when profitable. If you're interested in running a liquidation bot, refer to the [Liquidation Function](https://docs.scallop.io/integrations/contract-integration/liquidation-function) integration guide for technical details.
 
-For example, if the liquidation penalty is **10%**, then for every **$100** of collateral liquidated, only **$90** will be used to repay the borrower’s debt. The remaining **$10** represents the liquidation cost, which is further distributed according to the reward and reserve factor settings.
+### How to Avoid Liquidation
 
-### Liquidation Reseve Factor
+You can protect yourself from liquidation by actively managing your position:
 
-The Liquidation Reserve Factor represents the portion of the liquidation penalty directed to Scallop’s treasury.\
-It ensures the protocol continues to grow a safety buffer for future risks.
-
-Continuing the previous example, if the **liquidation penalty** is **10%** and the **liquidation reward** is **5%**, the remaining **5%** of the penalty goes to Scallop’s treasury as the **Liquidation Reserve Factor**.
-
-### Liquidation Reward
-
-To encourage participation in the liquidation process, Scallop offers a liquidation reward to users who repay unhealthy loans and acquire collateral.\
-The reward allows the liquidator to purchase the borrower’s collateral at a **discount** from its market value.
-
-For instance, if the liquidation reward is **5%**, the liquidator can buy **$100** worth of collateral by paying **$95**, effectively gaining a **5% discount**.\
-This incentive ensures that under-collateralized positions are quickly and efficiently liquidated, maintaining overall protocol stability.
-
-### Liquidation Factor
-
-The **liquidation factor** sets a threshold for how much debt a user can take against their collateral.
-
-{% hint style="info" %}
-Example:
-
-Liquidation Factor SUI: 0.8 (80%) Liquidation Factor USDC: 0.9 (90%)
-
-if a user has collateral consisting of **100 USDC** and **200$ value of SUI**, the liquidation thresholds are calculated as follows:
-
-* **USDC**: $100 \* 0.9 (90% liquidation factor) = **$90**
-* **SUI**: $200 \* 0.8 (80% liquidation factor) = **$160**
-
-This gives a total collateral value of **$250**. If the user’s debt exceeds **$250**, they become eligible for liquidation.
-{% endhint %}
-
-## Liquidation Scenario
-
-In a hypothetical scenario, Kris provided $10,000 in USDC as collateral and borrowed $8,500 worth of SUI (with a collateral factor of 85% for USDC). If the value of SUI increases by 6% in a short period, reaching approximately $9,010, the risk level (debt amount / collateral \* liquidation factor) rises from 94.4% ($8,500 / $10,000 \* 90%) to 100.1% ($9,010 / $10,000 \* 90%). At this point, Kris's account will trigger soft liquidation to reduce the risk level back to 100%.
-
-In this liquidation event, the liquidator repaid approximately 11% of the borrower’s SUI debt, amounting to $1,000, reducing the debt to $8,010. A total of $1,100 in USDC collateral was liquidated, which included debt repayment, a liquidation reserve (5%), and a liquidation reward (5%).
-
-After the liquidation, Kris was left with $8,900 in USDC ($10,000 - $1,100) and $8,010 in outstanding SUI debt ($9,010 - $1,000). On the other hand, the liquidator paid $1,000 worth of SUI and received $1,050 in USDC, earning a profit of $50.
-
-Due to the liquidation, Kris’s liquidation threshold (risk level) decreased from 100.1% to 100%. If the price of SUI rises again, further liquidations will continue to be triggered to maintain the risk level at 100%.
-
-## Liquidation Guidelines
-
-Under specific circumstances, liquidation will occur when a borrower's risk level exceeds 100% due to insufficient deposit or collateral value to cover their loan. This situation arises when the value of deposited collateral decreases or the borrowed debt value increases relative to each other.
-
-To avoid liquidation, it is crucial to maintain awareness of your risk level and ensure sufficient margin in your account. If your risk level rises unexpectedly, you can mitigate it by increasing your collateral assets or repaying your loan. Additionally, you can use our integrated feature which will give your notification when your risk level already exceeds certain level. You can read this page [How to Avoid Liquidation](../scalloper-guide/how-to-avoid-liquidation.md) to get guide setup the notification.
-
-Scallop’s soft liquidation mechanism aims to ensure that lenders are protected even if the value of the collateral decreases. It also provides an opportunity for borrowers to rectify the situation before their collateral is fully liquidated, minimizing their losses.
-
-It's important to note that the specific details of Scallop’s liquidation mechanism may be subject to change or updates. It's always recommended to follow up with the latest announcement on the changes of the protocol.
+* **Monitor your Risk Level** on the Scallop dashboard. When your weighted debt approaches your liquidation-weighted collateral value, you're at risk.
+* **Add more collateral** to increase the buffer between your debt and the liquidation threshold.
+* **Repay part of your debt** to reduce your weighted debt value.
+* **Be mindful of asset selection.** Collateral assets with higher liquidation factors give you more breathing room, while borrowed assets with higher borrow weights push you closer to the threshold.
+* **Watch for market movements.** A drop in collateral price or a rise in debt token price can push you toward liquidation even if you haven't changed your position.
