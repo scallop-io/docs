@@ -31,11 +31,3 @@ Various types of decentralized applications, games, and networks are emerging at
 #### Risk of failure to develop
 
 There is the risk that the development of Scallop will not be executed or implemented as planned, for a variety of reasons, including without limitation the event of a decline in the prices of any digital asset, virtual currency, or $SCA, unforeseen technical difficulties, and shortage of development funds for activities.
-
-## # Insurance Fund
-
-_**Since the income from the current agreement is low, it's still preparing!**_
-
-The Insurance Fund reserve ensures protection for unforeseen losses caused by untimely liquidations within insured pools. Additionally, it safeguards against incorrect price feeds and manipulation issues arising from oracles.
-
-It is crucial to bear in mind that Scallop Insurance Fund payouts are reserved for highly volatile market conditions or instances of oracle failure. Nonetheless, it remains essential for users to exercise due diligence when evaluating the oracles employed or parameters established for each pool. Compensation for minor oversights resulting from a lack of due diligence will not be entertained.
