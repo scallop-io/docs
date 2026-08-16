@@ -1,83 +1,124 @@
 # Referral
 
-Scallopers will be able to generate their unique referral link and share it to invite new users. When a new user joins Scallop through the referral link and create an obligation key on Scallop, this obligation key will be associated to the referrer through the referrer’s wallet address.
+The Scallop Referral Program pays you to bring borrowers to Scallop. Every Scalloper can create a referral link and share it. When someone binds to your link, both of you earn from every borrow that person makes.
 
-Do note that once you have accepted a referral link, you will not be able to unbind the referral link!
+Referral Program v2 is live. It rebalances the veSCA tiers, lets you unbind and rebind at any time, and lets you bind to your own link.
 
-## Benefit of Referral Program
+## What is new in v2
 
-Referrer will get a share of the borrow fee generated each time their Referee borrows from Scallop pools. The share of borrow fee is dependent on the amount of veSCA held by the Referrer.
+* **Rebalanced tiers.** More veSCA now gives a much larger discount and share.
+* **Unbind and rebind.** You are no longer locked to one referrer. You can unbind at any time and accept a new link.
+* **Self-referral.** You can bind to your own referral link. You then get the discount and the share together, as one Self-Bind Rebate.
 
-Referees will be eligible for up to 20% discount on their Borrow Fees when they borrow from Scallop.
+***
 
+## How it works
 
+Your referral link belongs to a veSCA key, not to your wallet. If you hold several veSCA keys, each key has its own link.
 
-**Tier-Based Rates**
+The binding is between the referee's **wallet address** and the referrer's **veSCA key**. It covers every obligation account in that wallet. Version 1 bound the obligation key instead.
 
-<figure><img src="../.gitbook/assets/1731914319268@2x.jpg" alt=""><figcaption></figcaption></figure>
+Every time the referee borrows, Scallop splits the borrow fee:
 
-Do note that these rates may be adjusted in the future.
+* The **referee** pays less. This is the Borrow Fee Discount.
+* The **referrer** earns a cut of the fee. This is the Borrow Fee Share.
 
+Both rates come from the referrer's tier. The tier follows the current veSCA balance of the bound key. veSCA decays over time, so a tier can fall. Lock more SCA, or lock for longer, to hold a tier.
 
+### Tier-based rates
 
-## A Simple Example
+| veSCA Amount | Referee Discount | Referrer Share | Self-Bind Rebate |
+| ------------ | ---------------- | -------------- | ---------------- |
+| 0            | 0%               | 0%             | 0%               |
+| 1,000        | 5%               | 5%             | 10%              |
+| 50,000       | 15%              | 15%            | 30%              |
+| 100,000      | 20%              | 25%            | 45%              |
+| 500,000      | 35%              | 35%            | 70%              |
+| 1,000,000    | 50%              | 49%            | 99%              |
 
-Scallop A has **1000,000 veSCA**, and generates a referral link for Scalloper B.
+A tier applies from its veSCA amount up to the next one. The Self-Bind Rebate is the discount plus the share. You get it only when you bind to your own link.
 
-Scalloper A is entitled to **40% Borrow Fee Share**.
+The rates table in the app reads these values from the chain. These rates can change in the future.
 
-Scalloper B who uses Scalloper A’s referral link will enjoy **20% Borrow Fee Discount**.
+***
 
-Let’s say Scalloper B borrows **$1,000**:
+## Self-referral
 
-**The Base Borrowing Fee**: $1,000 \* 0.3% = $3
+Bind to your own referral link and you take both sides of the split. The app shows the total as the Self-Bind Rebate.
 
-**Scalloper B needs to pay**: $3 \* (100% — 20%) = $2.4
+Self-referral is the best option if nobody else refers you and you hold veSCA. At 1,000,000 veSCA the rebate reaches 99% of your borrow fee.
 
-**Borrowing Fee share for Referrer**: $3 \* 40% = $1.2
+***
 
+## Examples
 
+Scallop charges a 0.3% borrow fee on main assets. Emerging and isolated assets cost 1%. See [Fee](../protocol/fee.md).
 
+### Example 1: refer a friend
 
+Scalloper A holds **1,000,000 veSCA** and shares a referral link. Scalloper B binds to it.
 
+Scalloper B borrows **$1,000** of a main asset:
 
+* **Base borrow fee**: $1,000 × 0.3% = **$3**
+* **Scalloper B pays**: $3 × (100% − 50%) = **$1.50**
+* **Scalloper A earns**: $3 × 49% = **$1.47**
 
-## Getting Started with Scallop Referral Program <a href="#id-02bf" id="id-02bf"></a>
+### Example 2: bind to your own link
 
+Scalloper C holds **100,000 veSCA** and binds to their own link. The rebate is 20% + 25% = **45%**.
 
+Scalloper C borrows **$1,000** of a main asset:
 
-## How to Refer: <a href="#id-9209" id="id-9209"></a>
+* **Base borrow fee**: $1,000 × 0.3% = **$3**
+* **Scalloper C pays**: $3 × (100% − 20%) = **$2.40**
+* **Scalloper C earns back**: $3 × 25% = **$0.75**
+* **Net cost**: $2.40 − $0.75 = **$1.65**
 
-**Step 1:** Head to Scallop Referral page under “Refer & Earn”
+***
 
+## How to create your referral link
 
+**Step 1:** Open the [Referral page](https://app.scallop.io/referral).
 
-<figure><img src="../.gitbook/assets/1732457602185@2x.jpg" alt=""><figcaption><p>Referral Page: <a href="https://app.scallop.io/referral">https://app.scallop.io/referral</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/referral-page-v2.png" alt="The Scallop referral page"><figcaption><p>Referral page: <a href="https://app.scallop.io/referral">https://app.scallop.io/referral</a></p></figcaption></figure>
 
-**Step 2:** Click on “Start Earning” to generate your unique Referral Link.
+**Step 2:** Click **Start Earning**.
 
-You will be required to approve the transaction.
+Your wallet asks you to sign a message. If you hold no veSCA key yet, the app first creates an empty one for you. That step is a transaction.
 
+**Step 3:** Copy your link and share it.
 
+Your link looks like `https://app.scallop.io/referral?ref=<code>`. The **Referral Reward** panel shows the discount your referees get and the share you earn. Use the X and Telegram buttons to post the link.
 
-<figure><img src="../.gitbook/assets/1732472259450@2x.jpg" alt=""><figcaption></figcaption></figure>
+If you hold several veSCA keys, pick the key in the dropdown at the top of the panel. Each key has its own link and its own rewards.
 
-**Step 3:** Once the link is generated, you can now copy and share your link to start earning!
+## How to accept a referral
 
-You will also be able to see your current eligible Borrow Fee Discount and Borrow Fee Share.
+Open a referral link. The app shows the **Referral Invitation** dialog with the referrer address and your discount. Click **Accept Refer** and approve the transaction.
 
-<figure><img src="../.gitbook/assets/1732472472217@2x.jpg" alt=""><figcaption></figcaption></figure>
+The **My Referrer** panel then shows who referred you, their veSCA, your discount, and the fees you saved.
 
-## How to Accept Referral: <a href="#bce2" id="bce2"></a>
+## How to switch your referral
 
-Visit a Referral Link and you will be prompted to accept the invitation. Simply click “Accept Refer” to join Scallop.
+Open a new referral link while you are already bound. The app shows the **Switch Referral** dialog. It puts your current referral next to the new one, so you can compare the rates.
 
-<figure><img src="../.gitbook/assets/1732472624610@2x.jpg" alt=""><figcaption></figcaption></figure>
+Click **Switch Referral** to change. One transaction unbinds the old referrer and binds the new one. The change takes effect at once, and you can switch again later.
 
-Once accepted, you can now see that your account will be binded to your Referrer’s code! Do note that you will not be able to unbind once you have accepted a referral code.
+## How to unbind
 
-## Join the Scallop Referral Program Today <a href="#id-2141" id="id-2141"></a>
+Open the **My Referrer** panel and click **Unbind**. Approve the transaction.
 
-By participating in the Scallop Referral Program, you’re not just earning rewards; you’re also helping grow our community. Stake your SCA and start sharing your referral link today!
+Your discount stops the moment you unbind. You keep what you already saved. You can accept a new link at any time, including your own.
 
-<br>
+## How to claim your rewards
+
+The **Referral Overview** panel shows your total fee earned, your veSCA keys, your referral count, and your pending reward.
+
+Click the claim button. Scallop collects the fees from every one of your veSCA keys, swaps them to SCA, supplies the SCA, and sends you **sSCA**. Your reward keeps earning lending yield from that point.
+
+***
+
+## Join the Scallop Referral Program today
+
+Lock SCA, reach a higher tier, and share your link. Every borrow your referees make pays you back. And if you borrow yourself, bind to your own link and cut your own fee.

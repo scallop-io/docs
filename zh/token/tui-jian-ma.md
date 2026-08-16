@@ -1,65 +1,124 @@
 # 推薦碼
 
-Scallopers 可以生成專屬的推薦連結並分享給他人以邀請新用戶加入。當新用戶通過推薦連結加入 Scallop 並在 Scallop 上創建obligation key時，該obligation key將通過推薦人的錢包地址與推薦人聯接。
+Scallop 推薦計畫讓你把借款人帶進 Scallop 並從中獲利。每位 Scalloper 都可以生成專屬的推薦連結並分享出去。當有人綁定你的連結後，對方每次借款，雙方都能獲益。
 
-需特別注意，一旦接受了推薦連結，將無法解除與該推薦連結的綁定！
+推薦計畫 v2 已經上線。v2 重新調整了 veSCA 等級，允許隨時解綁與重新綁定，並且可以綁定自己的連結。
 
+## v2 的新功能
 
+* **等級重新調整。** 持有更多 veSCA，可獲得更高的折扣與分成。
+* **解綁與重新綁定。** 你不再被鎖定在單一推薦人。你可以隨時解綁並接受新的連結。
+* **自我推薦。** 你可以綁定自己的推薦連結，同時取得折扣與分成，合併為「自綁回饋」(Self-Bind Rebate)。
 
-## 推薦計畫的好處
+***
 
-被推薦人從 Scallop 資金池借款時，推薦者將獲得部分借款手續費的分成。分成比例取決於推薦人持有的 veSCA 數量。\
-被推薦人在從 Scallop 借款時，最高可以享受 **20% 的借款手續費折扣**。
+## 運作方式
 
-**Tier-Based Rates**
+推薦連結屬於某一個 veSCA key，而不是屬於錢包。如果你持有多個 veSCA key，每個 key 都有各自的連結。
 
-<figure><img src="../.gitbook/assets/1731914319268@2x.jpg" alt=""><figcaption></figcaption></figure>
+綁定關係建立在被推薦人的**錢包地址**與推薦人的 **veSCA key** 之間，並涵蓋該錢包底下的所有 obligation 帳戶。v1 綁定的則是 obligation key。
+
+被推薦人每次借款時，Scallop 會拆分借款手續費：
+
+* **被推薦人**支付較少的手續費，這是借款手續費折扣。
+* **推薦人**取得部分手續費，這是借款手續費分成。
+
+兩個比率都取決於推薦人的等級。等級依照被綁定 key 的當前 veSCA 餘額計算。veSCA 會隨時間衰減，等級因此可能下降。鎖定更多 SCA 或鎖定更久，才能維持等級。
+
+### 等級費率表
+
+| veSCA 數量 | 被推薦人折扣 | 推薦人分成 | 自綁回饋 |
+| -------- | ------ | ----- | ---- |
+| 0        | 0%     | 0%    | 0%   |
+| 1,000    | 5%     | 5%    | 10%  |
+| 50,000   | 15%    | 15%   | 30%  |
+| 100,000  | 20%    | 25%   | 45%  |
+| 500,000  | 35%    | 35%   | 70%  |
+| 1,000,000 | 50%   | 49%   | 99%  |
+
+每個等級的適用範圍，從該 veSCA 數量起算到下一個等級為止。自綁回饋等於折扣加上分成，只有在綁定自己的連結時才會生效。
+
+App 上的費率表直接讀取鏈上數值。這些費率未來可能調整。
+
+***
+
+## 自我推薦
+
+綁定自己的推薦連結，你就同時拿到拆分後的兩邊。App 會把總額顯示為自綁回饋。
+
+如果沒有其他人推薦你，而你又持有 veSCA，自我推薦就是最佳選擇。持有 1,000,000 veSCA 時，回饋可達借款手續費的 99%。
+
+***
 
 ## 範例
 
-假設 Scalloper A 持有 1,000,000 veSCA，並生成一個推薦連結給 Scalloper B。
+Scallop 對主要資產收取 0.3% 的借款手續費，新興資產與獨立資產則為 1%。詳見[費用](../protocol/fei-yong.md)。
 
-* **Scalloper A** 有資格獲得 **40% 的借款手續費分成**。
-* **Scalloper B** 使用 Scalloper A 的推薦連結，能享受 **20% 的借款手續費折扣**。
+### 範例一：推薦朋友
 
-Scalloper B 借款 $1,000，計算如下：
+Scalloper A 持有 **1,000,000 veSCA** 並分享推薦連結，Scalloper B 綁定該連結。
+
+Scalloper B 借入 **$1,000** 的主要資產：
 
 1. **基礎借款手續費**：$1,000 × 0.3% = **$3**
-2. **Scalloper B 實際支付的手續費**：$3 × (100% - 20%) = **$2.4**
-3. **推薦人 Scalloper A 的分成**：$3 × 40% = **$1.2**
+2. **Scalloper B 實際支付**：$3 × (100% − 50%) = **$1.50**
+3. **Scalloper A 獲得分成**：$3 × 49% = **$1.47**
 
-如此一來，Scalloper B 借款手續費減少，Scalloper A 獲得借款分成，雙方皆受益。
+### 範例二：綁定自己的連結
 
+Scalloper C 持有 **100,000 veSCA** 並綁定自己的連結，回饋為 20% + 25% = **45%**。
 
+Scalloper C 借入 **$1,000** 的主要資產：
 
-## 開始使用Scallop推薦碼！
+1. **基礎借款手續費**：$1,000 × 0.3% = **$3**
+2. **Scalloper C 實際支付**：$3 × (100% − 20%) = **$2.40**
+3. **Scalloper C 取回分成**：$3 × 25% = **$0.75**
+4. **實際成本**：$2.40 − $0.75 = **$1.65**
 
-## 如何推薦：
+***
 
-**步驟 1**：前往 Scallop 平台的 **「推薦賺取」(Refer & Earn)** 頁面。
+## 如何生成推薦連結
 
-<figure><img src="../.gitbook/assets/1732457602185@2x.jpg" alt=""><figcaption><p>Referral Page: <a href="https://app.scallop.io/referral">https://app.scallop.io/referral</a></p></figcaption></figure>
+**步驟 1**：前往[推薦頁面](https://app.scallop.io/referral)。
 
-**步驟 2**：點擊 **「開始賺取」(Start Earning)** 以生成您的專屬推薦連結。
+<figure><img src="../.gitbook/assets/referral-page-v2.png" alt="Scallop 推薦頁面"><figcaption><p>推薦頁面：<a href="https://app.scallop.io/referral">https://app.scallop.io/referral</a></p></figcaption></figure>
 
-會需要同意一個transaction。
+**步驟 2**：點擊 **Start Earning**。
 
-<figure><img src="../.gitbook/assets/1732472259450@2x.jpg" alt=""><figcaption></figcaption></figure>
+錢包會要求你簽署一則訊息。如果你還沒有 veSCA key，App 會先為你建立一個空的 key，該步驟需要一筆交易。
 
-步驟 3：一旦連結生成，便可以複製並分享鏈接來開始賺取分成！ 還能夠查看當前符合條件的借款費用折扣和借款費用分成。
+**步驟 3**：複製連結並分享。
 
-<figure><img src="../.gitbook/assets/1732472472217@2x.jpg" alt=""><figcaption></figcaption></figure>
+你的連結格式為 `https://app.scallop.io/referral?ref=<code>`。**Referral Reward** 面板會顯示被推薦人可得的折扣，以及你可得的分成。你也可以用 X 與 Telegram 按鈕直接分享連結。
 
-## 如何接受推薦連結：
+如果你持有多個 veSCA key，請在面板上方的下拉選單中選擇 key。每個 key 都有各自的連結與獎勵。
 
-&#x20;進入推薦連結後，系統會顯示接受邀請。只需點擊「接受推薦」即可加入 Scallop。
+## 如何接受推薦
 
-<figure><img src="../.gitbook/assets/1732472624610@2x.jpg" alt=""><figcaption></figcaption></figure>
+打開推薦連結後，App 會顯示 **Referral Invitation** 對話框，其中列出推薦人地址與你的折扣。點擊 **Accept Refer** 並確認交易。
 
-一旦接受，就可以看到帳戶將綁定到的推薦人代碼！請注意，接受推薦代碼後，將無法解除綁定。
+接著 **My Referrer** 面板會顯示推薦人、其 veSCA 數量、你的折扣，以及你已節省的手續費。
 
+## 如何更換推薦人
 
+在已綁定的狀態下打開新的推薦連結，App 會顯示 **Switch Referral** 對話框，並把現有推薦與新推薦並排，方便你比較費率。
 
-## 馬上加入Scallop推薦計畫！
+點擊 **Switch Referral** 即可更換。一筆交易會先解除舊的綁定，再綁定新的推薦人。更換立即生效，日後也可以再次更換。
 
-通過參加 Scallop 推薦計劃，不僅可以賺取獎勳，還能幫助我們的社群成長。質押 SCA 並開始分享你的推薦連結吧！
+## 如何解綁
+
+在 **My Referrer** 面板點擊 **Unbind** 並確認交易。
+
+解綁後折扣立即停止，但你已節省的金額仍然保留。你可以隨時接受新的連結，包括自己的連結。
+
+## 如何領取獎勵
+
+**Referral Overview** 面板會顯示累計手續費收益、veSCA key 數量、推薦人數，以及待領獎勵。
+
+點擊領取按鈕後，Scallop 會從你所有 veSCA key 收取手續費，換成 SCA，存入借貸池，並把 **sSCA** 發給你。你的獎勵從此開始賺取借貸收益。
+
+***
+
+## 馬上加入 Scallop 推薦計畫
+
+鎖定 SCA、提升等級、分享連結。被推薦人每次借款都會回饋給你。如果你自己也借款，就綁定自己的連結，直接降低自己的手續費。
