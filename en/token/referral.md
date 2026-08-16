@@ -7,7 +7,7 @@ Referral Program v2 is live. It rebalances the veSCA tiers, lets you unbind and 
 ## What is new in v2
 
 * **Rebalanced tiers.** More veSCA now gives a much larger discount and share.
-* **Unbind and rebind.** You are no longer locked to one referrer. You can unbind at any time and accept a new link.
+* **Unbind and rebind.** You still have one referrer at a time, but the choice is no longer permanent. You can unbind at any time and accept a new link.
 * **Self-referral.** You can bind to your own referral link. You then get the discount and the share together, as one Self-Bind Rebate.
 
 ***
@@ -119,6 +119,4 @@ Click the claim button. Scallop collects the fees from every one of your veSCA k
 
 ***
 
-## Join the Scallop Referral Program today
-
-Lock SCA, reach a higher tier, and share your link. Every borrow your referees make pays you back. And if you borrow yourself, bind to your own link and cut your own fee.
+To earn a bigger discount and a bigger share, lock more SCA and lock it for longer.
