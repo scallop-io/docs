@@ -14,7 +14,7 @@
   * [sCoin](scallop-lend/lending/scoin.md)
 * [Obligation](scallop-lend/obligation.md)
 * [Borrowing](scallop-lend/borrowing.md)
-* [Interest Rates ](scallop-lend/interest-rate.md)
+* [Interest Rates](scallop-lend/interest-rate.md)
 * [Liquidation](scallop-lend/liquidations.md)
 * [Risks](scallop-lend/risks.md)
 * [Isolated Asset](scallop-lend/isolated-asset.md)
@@ -49,6 +49,24 @@
 * [Package Addresses](integrations/package-addresses/README.md)
   * [Mainnet](integrations/package-addresses/mainnet.md)
 * [Developer Resources](integrations/developer-resources.md)
+
+## Typescript SDK
+
+* [Intro](typescript-sdk/intro.md)
+* [Lending Operations](typescript-sdk/lending-operations/README.md)
+  * [Supply/Withdraw Asset](typescript-sdk/lending-operations/supply-withdraw-asset.md)
+  * [Stake/Unstake Staking Pools (spool) (deprecated)](typescript-sdk/lending-operations/stake-unstake-staking-pools-spool-deprecated.md)
+* [Borrowing Operations](typescript-sdk/borrowing-operations/README.md)
+  * [Obligation Account Management](typescript-sdk/borrowing-operations/obligation-account-management.md)
+  * [Updating X-Oracle Asset Prices](typescript-sdk/borrowing-operations/updating-x-oracle-asset-prices.md)
+  * [Deposit/Withdraw Collateral](typescript-sdk/borrowing-operations/deposit-withdraw-collateral.md)
+  * [Borrowing Asset](typescript-sdk/borrowing-operations/borrowing-asset.md)
+* [Querying Obligation Accounts](typescript-sdk/querying-obligation-accounts.md)
+* [Claim Borrow Incentive Rewards](typescript-sdk/claim-borrow-incentive-rewards.md)
+* [Querying Pool Data](typescript-sdk/querying-pool-data.md)
+* [Querying User's Portfolio](typescript-sdk/querying-users-portfolio.md)
+* [Referral Program](typescript-sdk/referral-program.md)
+* [Flash Loan](typescript-sdk/flash-loan.md)
 
 ## other
 

@@ -1,5 +1,21 @@
 # Liquidation
 
+When a borrower’s position falls below the required health threshold, part of their collateral may be sold through liquidation. During this process, a liquidation penalty is applied to the value of the collateral.\
+This penalty represents the total cost incurred by the borrower and is divided between the **liquidator’s reward** and the **protocol reserve**.
+
+For example, if the liquidation penalty is **10%**, then for every **$100** of collateral liquidated, only **$90** will be used to repay the borrower’s debt. The remaining **$10** represents the liquidation cost, which is further distributed according to the reward and reserve factor settings.
+
+The Liquidation Reserve Factor represents the portion of the liquidation penalty directed to Scallop’s treasury.\
+It ensures the protocol continues to grow a safety buffer for future risks.
+
+Continuing the previous example, if the **liquidation penalty** is **10%** and the **liquidation reward** is **5%**, the remaining **5%** of the penalty goes to Scallop’s treasury as the **Liquidation Reserve Factor**.
+
+To encourage participation in the liquidation process, Scallop offers a liquidation reward to users who repay unhealthy loans and acquire collateral.\
+The reward allows the liquidator to purchase the borrower’s collateral at a **discount** from its market value.
+
+For instance, if the liquidation reward is **5%**, the liquidator can buy **$100** worth of collateral by paying **$95**, effectively gaining a **5% discount**.\
+This incentive ensures that under-collateralized positions are quickly and efficiently liquidated, maintaining overall protocol stability.
+
 ### Overview
 
 Unlike many lending protocols where liquidators can sell off all of a user's collateral at once, Scallop takes a more user-friendly approach. Scallop uses a **soft liquidation** mechanism where liquidators only repay up to **20% of a borrower's total debt** per liquidation call, and receive a portion of the borrower's collateral at a discount in return. This gradual process minimizes the impact on borrowers, preserving as much of their collateral as possible while keeping the protocol solvent.
@@ -43,7 +59,7 @@ When a liquidation occurs, the borrower's collateral is seized and distributed b
 
 The key parameters per collateral type are:
 
-<table><thead><tr><th>Parameter</th><th width="480.265625">What It Means</th><th>Maximum</th></tr></thead><tbody><tr><td>Liquidation Factor</td><td>How much of your collateral's value counts toward the liquidation threshold. Higher = more room before liquidation.</td><td>95%</td></tr><tr><td>Liquidation Discount</td><td><p>The discount liquidators receive on your collateral. </p><p>Higher = more incentive for liquidators.</p></td><td>15%</td></tr><tr><td>Liquidation Penalty</td><td><p>The total penalty applied to your seized collateral. </p><p>The penalty is always ≥ the discount.</p></td><td>20%</td></tr></tbody></table>
+<table><thead><tr><th>Parameter</th><th width="480.265625">What It Means</th><th>Maximum</th></tr></thead><tbody><tr><td>Liquidation Factor</td><td>How much of your collateral's value counts toward the liquidation threshold. Higher = more room before liquidation.</td><td>95%</td></tr><tr><td>Liquidation Discount</td><td><p>The discount liquidators receive on your collateral.</p><p>Higher = more incentive for liquidators.</p></td><td>15%</td></tr><tr><td>Liquidation Penalty</td><td><p>The total penalty applied to your seized collateral.</p><p>The penalty is always ≥ the discount.</p></td><td>20%</td></tr></tbody></table>
 
 Note that the borrower's debt is reduced by the **full repayment amount**. The protocol's revenue share comes from the collateral side, not from the debt repayment. This means borrowers benefit from maximum debt reduction on every liquidation.
 
