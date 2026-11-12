@@ -45,7 +45,7 @@ It’s possible to have multiple obligations.
 Each obligation is independent of the others, meaning that depositing collateral in one obligation does not allow you to borrow an asset using another obligation—even if you are the owner of both obligations.
 {% endhint %}
 
-### Undrestanding Obligation in Deep
+### Understanding Obligation in Deep
 
 An `Obligation` is a shared object. instead of holding the `Obligation` object in your wallet, you will possess an `ObligationKey`. This `ObligationKey` serves as proof that you own a specific `Obligation` linked to this **key**. Consequently, what you will find in your wallet is an NFT of the `ObligationKey`.
 
